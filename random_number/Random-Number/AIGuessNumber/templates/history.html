@@ -1,0 +1,98 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/index.css' %}" type="text/css">
+    <title>History</title>
+    <style>
+        .history-body {
+            background: linear-gradient(135deg, #0c5047, #072f2a);
+            min-height: 100vh;
+            margin: 0;
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+        }
+        .history-card {
+            margin-top: 50px;
+            padding: 40px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            box-shadow: 0 0 30px rgba(0,0,0,0.4);
+            backdrop-filter: blur(10px);
+            width: 90%;
+            max-width: 800px;
+        }
+        .history-title {
+            color: #fff;
+            text-align: center;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 8px #000;
+        }
+        .history-item {
+            display: flex;
+            align-items: center;
+            background: rgba(255,255,255,0.08);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            color: #fff;
+            transition: 0.3s;
+        }
+        .history-item:hover {
+            background: rgba(0,255,213,0.15);
+        }
+        .history-item label {
+            font-weight: bold;
+            margin-right: 15px;
+            color: #00ffd5;
+        }
+        .history-item p {
+            margin: 0;
+            flex-grow: 1;
+            word-break: break-all;
+        }
+        .back-btn {
+            display: block;
+            width: 120px;
+            margin: 30px auto 0;
+            padding: 10px;
+            background: #000;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 6px;
+            transition: 0.3s;
+        }
+        .back-btn:hover {
+            background: #00ffd5;
+            color: #000;
+        }
+    </style>
+</head>
+<body class="history-body">
+    <section class="history-card">
+        <h1 class="history-title">Sequence History</h1>
+        
+        <div class="history-list">
+            {% for i in recent_sequences %}
+                <div class="history-item">
+                    <label>ID {{ i.id }}:</label>
+                    <p>{{ i.data }}</p>
+                    <!-- Status Badge -->
+                    <span style="font-size: 0.8rem; opacity: 0.6; margin-left: 10px;">
+                        {% if i.status == 1 %}Active{% else %}Archived{% endif %}
+                    </span>
+                </div>
+            {% empty %}
+                <p style="color: #fff; text-align: center; opacity: 0.6;">No history found.</p>
+            {% endfor %}     
+        </div>
+
+        <a href="/" class="back-btn">Back Home</a>
+    </section>
+</body>
+</html>

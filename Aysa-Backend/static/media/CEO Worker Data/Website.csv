@@ -1,0 +1,3072 @@
+Company Name,Year,CEO Name,CEO Total Compensation,Frontline Worker Salary,Pay Ration
+AbbVie,2024,Richard Gonzalez,$75 Million,$58 Thousand,1293X
+AbbVie,2023,Richard Gonzalez,$71 Million,$57 Thousand,1250X
+AbbVie,2022,Richard Gonzalez,$67 Million,$55 Thousand,1209X
+AbbVie,2021,Richard Gonzalez,$63 Million,$54 Thousand,1169X
+AbbVie,2020,Richard Gonzalez,$59 Million,$53 Thousand,1131X
+AbbVie,2019,Richard Gonzalez,$56 Million,$51 Thousand,1093X
+AbbVie,2018,Richard Gonzalez,$53 Million,$50 Thousand,1057X
+Adidas,2024,Bjørn Gulden,$7 Million,$34 Thousand,191X
+Adidas,2023,Bjørn Gulden,$6 Million,$34 Thousand,186X
+Adidas,2022,Bjørn Gulden,$6 Million,$34 Thousand,182X
+Adidas,2021,Bjørn Gulden,$6 Million,$33 Thousand,174X
+Adidas,2020,Bjørn Gulden,$6 Million,$33 Thousand,166X
+Adidas,2019,Bjørn Gulden,$5 Million,$33 Thousand,158X
+Adidas,2018,Bjørn Gulden,$5 Million,$33 Thousand,152X
+Adobe,2024,Shantanu Narayen,$51 Million,$44 Thousand,1172X
+Adobe,2023,Shantanu Narayen,$48 Million,$42 Thousand,1134X
+Adobe,2022,Shantanu Narayen,$45 Million,$41 Thousand,1096X
+Adobe,2021,Shantanu Narayen,$43 Million,$40 Thousand,1060X
+Adobe,2020,Shantanu Narayen,$40 Million,$39 Thousand,1025X
+Adobe,2019,Shantanu Narayen,$38 Million,$38 Thousand,991X
+Adobe,2018,Shantanu Narayen,$36 Million,$38 Thousand,958X
+Ajinomoto,2024,Yoshinori Nakano,$65 Million,$53 Thousand,1226X
+Ajinomoto,2023,Yoshinori Nakano,$61 Million,$52 Thousand,1186X
+Ajinomoto,2022,Yoshinori Nakano,$58 Million,$50 Thousand,1147X
+Ajinomoto,2021,Yoshinori Nakano,$55 Million,$49 Thousand,1109X
+Ajinomoto,2020,Yoshinori Nakano,$51 Million,$48 Thousand,1072X
+Ajinomoto,2019,Yoshinori Nakano,$49 Million,$47 Thousand,1037X
+Ajinomoto,2018,Yoshinori Nakano,$46 Million,$46 Thousand,1003X
+Akamai,2024,Tom Leighton,$15 Million,$30 Thousand,500X
+Akamai,2023,Tom Leighton,$14 Million,$29 Thousand,483X
+Akamai,2022,Tom Leighton,$13 Million,$29 Thousand,468X
+Akamai,2021,Tom Leighton,$13 Million,$28 Thousand,452X
+Akamai,2020,Tom Leighton,$12 Million,$27 Thousand,437X
+Akamai,2019,Tom Leighton,$11 Million,$27 Thousand,423X
+Akamai,2018,Tom Leighton,$11 Million,$26 Thousand,409X
+Allbirds,2024,Joey Zwillinger,$5 Million,$31 Thousand,162X
+Allbirds,2023,Joey Zwillinger,$5 Million,$31 Thousand,158X
+Allbirds,2022,Joey Zwillinger,$5 Million,$30 Thousand,153X
+Allbirds,2021,Joey Zwillinger,$4 Million,$30 Thousand,149X
+Allbirds,2020,Joey Zwillinger,$4 Million,$29 Thousand,145X
+Allbirds,2019,Joey Zwillinger,$4 Million,$28 Thousand,141X
+Allbirds,2018,Joey Zwillinger,$4 Million,$28 Thousand,137X
+Allergan,2024,Brent Saunders,$39 Million,$42 Thousand,929X
+Allergan,2023,Brent Saunders,$37 Million,$41 Thousand,898X
+Allergan,2022,Brent Saunders,$35 Million,$40 Thousand,868X
+Allergan,2021,Brent Saunders,$33 Million,$39 Thousand,840X
+Allergan,2020,Brent Saunders,$31 Million,$38 Thousand,812X
+Allergan,2019,Brent Saunders,$29 Million,$37 Thousand,785X
+Allergan,2018,Brent Saunders,$27 Million,$36 Thousand,759X
+Alnylam Pharmaceuticals,2024,John Maraganore,$12 Million,$30 Thousand,400X
+Alnylam Pharmaceuticals,2023,John Maraganore,$11 Million,$29 Thousand,387X
+Alnylam Pharmaceuticals,2022,John Maraganore,$11 Million,$29 Thousand,374X
+Alnylam Pharmaceuticals,2021,John Maraganore,$10 Million,$28 Thousand,362X
+Alnylam Pharmaceuticals,2020,John Maraganore,$10 Million,$27 Thousand,350X
+Alnylam Pharmaceuticals,2019,John Maraganore,$9 Million,$27 Thousand,338X
+Alnylam Pharmaceuticals,2018,John Maraganore,$8 Million,$26 Thousand,327X
+Altra Running,2024,Chris Albrecht,$7 Million,$35 Thousand,199X
+Altra Running,2023,Chris Albrecht,$7 Million,$34 Thousand,194X
+Altra Running,2022,Chris Albrecht,$6 Million,$33 Thousand,188X
+Altra Running,2021,Chris Albrecht,$6 Million,$33 Thousand,183X
+Altra Running,2020,Chris Albrecht,$6 Million,$32 Thousand,178X
+Altra Running,2019,Chris Albrecht,$5 Million,$31 Thousand,173X
+Altra Running,2018,Chris Albrecht,$5 Million,$31 Thousand,168X
+Amazfit,2024,Wayne Wang Huang,$6 Million,$33 Thousand,167X
+Amazfit,2023,Wayne Wang Huang,$5 Million,$33 Thousand,158X
+Amazfit,2022,Wayne Wang Huang,$5 Million,$33 Thousand,148X
+Amazfit,2021,Wayne Wang Huang,$5 Million,$33 Thousand,139X
+Amazfit,2020,Wayne Wang Huang,$4 Million,$33 Thousand,130X
+Amazfit,2019,Wayne Wang Huang,$4 Million,$33 Thousand,121X
+Amazfit,2018,Wayne Wang Huang,$4 Million,$33 Thousand,112X
+Amazon,2024,Andy Jassy,$34 Million,$40 Thousand,850X
+Amazon,2023,Andy Jassy,$32 Million,$39 Thousand,814X
+Amazon,2022,Andy Jassy,$30 Million,$38 Thousand,780X
+Amazon,2021,Andy Jassy,$28 Million,$37 Thousand,747X
+Amazon,2020,Andy Jassy,$26 Million,$36 Thousand,716X
+Amazon,2019,Andy Jassy,$24 Million,$35 Thousand,686X
+Amazon,2018,Andy Jassy,$23 Million,$34 Thousand,657X
+AMD,2024,Lisa Su,$39 Million,$39 Thousand,1000X
+AMD,2023,Lisa Su,$37 Million,$38 Thousand,967X
+AMD,2022,Lisa Su,$35 Million,$37 Thousand,935X
+AMD,2021,Lisa Su,$33 Million,$36 Thousand,904X
+AMD,2020,Lisa Su,$31 Million,$35 Thousand,874X
+AMD,2019,Lisa Su,$29 Million,$34 Thousand,845X
+AMD,2018,Lisa Su,$27 Million,$34 Thousand,817X
+Amgen,2024,Robert Bradway,$30 Million,$38 Thousand,789X
+Amgen,2023,Robert Bradway,$28 Million,$37 Thousand,763X
+Amgen,2022,Robert Bradway,$27 Million,$36 Thousand,738X
+Amgen,2021,Robert Bradway,$25 Million,$35 Thousand,714X
+Amgen,2020,Robert Bradway,$24 Million,$34 Thousand,690X
+Amgen,2019,Robert Bradway,$22 Million,$34 Thousand,668X
+Amgen,2018,Robert Bradway,$21 Million,$33 Thousand,645X
+Amway,2024,Milind Pant,$38 Million,$41 Thousand,927X
+Amway,2023,Milind Pant,$36 Million,$40 Thousand,896X
+Amway,2022,Milind Pant,$34 Million,$39 Thousand,867X
+Amway,2021,Milind Pant,$32 Million,$38 Thousand,838X
+Amway,2020,Milind Pant,$30 Million,$37 Thousand,810X
+Amway,2019,Milind Pant,$28 Million,$36 Thousand,784X
+Amway,2018,Milind Pant,$27 Million,$35 Thousand,758X
+Analog Devices,2024,Vincent Roche,$27 Million,$35 Thousand,783X
+Analog Devices,2023,Vincent Roche,$25 Million,$34 Thousand,757X
+Analog Devices,2022,Vincent Roche,$24 Million,$33 Thousand,732X
+Analog Devices,2021,Vincent Roche,$23 Million,$32 Thousand,708X
+Analog Devices,2020,Vincent Roche,$21 Million,$31 Thousand,684X
+Analog Devices,2019,Vincent Roche,$20 Million,$30 Thousand,662X
+Analog Devices,2018,Vincent Roche,$19 Million,$30 Thousand,640X
+Anheuser-Busch InBev,2024,Michel Doukeris,$45 Million,$43 Thousand,1047X
+Anheuser-Busch InBev,2023,Michel Doukeris,$42 Million,$42 Thousand,1012X
+Anheuser-Busch InBev,2022,Michel Doukeris,$40 Million,$41 Thousand,979X
+Anheuser-Busch InBev,2021,Michel Doukeris,$38 Million,$40 Thousand,946X
+Anheuser-Busch InBev,2020,Michel Doukeris,$36 Million,$39 Thousand,915X
+Anheuser-Busch InBev,2019,Michel Doukeris,$34 Million,$38 Thousand,885X
+Anheuser-Busch InBev,2018,Michel Doukeris,$32 Million,$37 Thousand,855X
+Anker,2024,teven Yang,$6 Million,$34 Thousand,163X
+Anker,2023,teven Yang,$5 Million,$34 Thousand,157X
+Anker,2022,teven Yang,$5 Million,$34 Thousand,151X
+Anker,2021,teven Yang,$5 Million,$34 Thousand,145X
+Anker,2020,teven Yang,$5 Million,$34 Thousand,139X
+Anker,2019,teven Yang,$5 Million,$34 Thousand,134X
+Anker,2018,teven Yang,$4 Million,$34 Thousand,128X
+Apple,2024,Tim Cook,$75 Million,$35 Thousand,2143X
+Apple,2023,Tim Cook,$63 Million,$35 Thousand,1806X
+Apple,2022,Tim Cook,$99 Million,$35 Thousand,2840X
+Apple,2021,Tim Cook,$99 Million,$35 Thousand,2829X
+Apple,2020,Tim Cook,$15 Million,$35 Thousand,429X
+Apple,2019,Tim Cook,$12 Million,$35 Thousand,331X
+Apple,2018,Tim Cook,$16 Million,$35 Thousand,449X
+Archer Daniels Midland (ADM),2024,Juan Luciano,$85 Million,$63 Thousand,1349X
+Archer Daniels Midland (ADM),2023,Juan Luciano,$80 Million,$61 Thousand,1305X
+Archer Daniels Midland (ADM),2022,Juan Luciano,$76 Million,$60 Thousand,1262X
+Archer Daniels Midland (ADM),2021,Juan Luciano,$71 Million,$59 Thousand,1220X
+Archer Daniels Midland (ADM),2020,Juan Luciano,$67 Million,$57 Thousand,1180X
+Archer Daniels Midland (ADM),2019,Juan Luciano,$64 Million,$56 Thousand,1141X
+Archer Daniels Midland (ADM),2018,Juan Luciano,$60 Million,$54 Thousand,1103X
+Asics,2024,Yasuhito Hirota,$2 Million,$34 Thousand,45X
+Asics,2023,Yasuhito Hirota,$1 Million,$33 Thousand,42X
+Asics,2022,Yasuhito Hirota,$1 Million,$33 Thousand,42X
+Asics,2021,Yasuhito Hirota,$1 Million,$33 Thousand,40X
+Asics,2020,Yasuhito Hirota,$1 Million,$33 Thousand,37X
+Asics,2019,Yasuhito Hirota,$1 Million,$33 Thousand,34X
+Asics,2018,Yasuhito Hirota,$1 Million,$32 Thousand,31X
+ASML Holding,2024,Peter Wennink,$123 Million,$71 Thousand,1745X
+ASML Holding,2023,Peter Wennink,$116 Million,$69 Thousand,1687X
+ASML Holding,2022,Peter Wennink,$109 Million,$67 Thousand,1631X
+ASML Holding,2021,Peter Wennink,$103 Million,$65 Thousand,1577X
+ASML Holding,2020,Peter Wennink,$97 Million,$64 Thousand,1525X
+ASML Holding,2019,Peter Wennink,$92 Million,$62 Thousand,1475X
+ASML Holding,2018,Peter Wennink,$87 Million,$61 Thousand,1426X
+Associated British Foods,2024,George Weston,$75 Million,$58 Thousand,1293X
+Associated British Foods,2023,George Weston,$71 Million,$57 Thousand,1250X
+Associated British Foods,2022,George Weston,$67 Million,$55 Thousand,1209X
+Associated British Foods,2021,George Weston,$63 Million,$54 Thousand,1169X
+Associated British Foods,2020,George Weston,$59 Million,$53 Thousand,1131X
+Associated British Foods,2019,George Weston,$56 Million,$51 Thousand,1093X
+Associated British Foods,2018,George Weston,$53 Million,$50 Thousand,1057X
+AstraZeneca,2024,Pascal Soriot,$93 Million,$66 Thousand,1409X
+AstraZeneca,2023,Pascal Soriot,$88 Million,$64 Thousand,1363X
+AstraZeneca,2022,Pascal Soriot,$83 Million,$63 Thousand,1318X
+AstraZeneca,2021,Pascal Soriot,$78 Million,$61 Thousand,1274X
+AstraZeneca,2020,Pascal Soriot,$74 Million,$60 Thousand,1232X
+AstraZeneca,2019,Pascal Soriot,$70 Million,$58 Thousand,1191X
+AstraZeneca,2018,Pascal Soriot,$66 Million,$57 Thousand,1152X
+Asus,2024,S.Y. Hsu and Samson Hu,$1 Million,$50 Thousand,14X
+Asus,2023,S.Y. Hsu and Samson Hu,$1 Million,$50 Thousand,14X
+Asus,2022,S.Y. Hsu and Samson Hu,$1 Million,$50 Thousand,14X
+Asus,2021,S.Y. Hsu and Samson Hu,$1 Million,$50 Thousand,14X
+Asus,2020,S.Y. Hsu and Samson Hu,$1 Million,$50 Thousand,14X
+Asus,2019,S.Y. Hsu and Samson Hu,$1 Million,$50 Thousand,14X
+Asus,2018,S.Y. Hsu and Samson Hu,$1 Million,$50 Thousand,14X
+Audemars Piguet,2024,Ilaria Resta,$11 Million,$35 Thousand,302X
+Audemars Piguet,2023,Ilaria Resta,$10 Million,$35 Thousand,287X
+Audemars Piguet,2022,Ilaria Resta,$10 Million,$35 Thousand,273X
+Audemars Piguet,2021,Ilaria Resta,$9 Million,$35 Thousand,259X
+Audemars Piguet,2020,Ilaria Resta,$9 Million,$35 Thousand,244X
+Audemars Piguet,2019,Ilaria Resta,$8 Million,$35 Thousand,230X
+Audemars Piguet,2018,Ilaria Resta,$8 Million,$35 Thousand,216X
+Audi,2024,Gernot Döllner,$9 Million,$36 Thousand,250X
+Audi,2023,Gernot Döllner,$9 Million,$36 Thousand,244X
+Audi,2022,Gernot Döllner,$9 Million,$36 Thousand,239X
+Audi,2021,Gernot Döllner,$8 Million,$36 Thousand,233X
+Audi,2020,Gernot Döllner,$8 Million,$36 Thousand,228X
+Audi,2019,Gernot Döllner,$8 Million,$36 Thousand,222X
+Audi,2018,Gernot Döllner,$8 Million,$36 Thousand,217X
+Audible,2024,Bob Cooper,$74 Million,$60 Thousand,1233X
+Audible,2023,Bob Cooper,$69 Million,$59 Thousand,1181X
+Audible,2022,Bob Cooper,$65 Million,$57 Thousand,1132X
+Audible,2021,Bob Cooper,$60 Million,$56 Thousand,1084X
+Audible,2020,Bob Cooper,$56 Million,$54 Thousand,1039X
+Audible,2019,Bob Cooper,$53 Million,$53 Thousand,995X
+Audible,2018,Bob Cooper,$49 Million,$52 Thousand,953X
+Balenciaga,2024,Cédric Charbit,$14 Million,$47 Thousand,297X
+Balenciaga,2023,Cédric Charbit,$13 Million,$46 Thousand,289X
+Balenciaga,2022,Cédric Charbit,$13 Million,$46 Thousand,281X
+Balenciaga,2021,Cédric Charbit,$12 Million,$45 Thousand,273X
+Balenciaga,2020,Cédric Charbit,$12 Million,$44 Thousand,265X
+Balenciaga,2019,Cédric Charbit,$11 Million,$43 Thousand,257X
+Balenciaga,2018,Cédric Charbit,$11 Million,$42 Thousand,250X
+Bang Olufsen,2024,Kristian Teär,$6 Million,$34 Thousand,174X
+Bang Olufsen,2023,Kristian Teär,$6 Million,$34 Thousand,169X
+Bang Olufsen,2022,Kristian Teär,$6 Million,$34 Thousand,163X
+Bang Olufsen,2021,Kristian Teär,$5 Million,$34 Thousand,157X
+Bang Olufsen,2020,Kristian Teär,$5 Million,$34 Thousand,151X
+Bang Olufsen,2019,Kristian Teär,$5 Million,$34 Thousand,145X
+Bang Olufsen,2018,Kristian Teär,$5 Million,$34 Thousand,140X
+Bayer,2024,Werner Baumann,$12 Million,$30 Thousand,400X
+Bayer,2023,Werner Baumann,$11 Million,$29 Thousand,387X
+Bayer,2022,Werner Baumann,$11 Million,$29 Thousand,374X
+Bayer,2021,Werner Baumann,$10 Million,$28 Thousand,362X
+Bayer,2020,Werner Baumann,$10 Million,$27 Thousand,350X
+Bayer,2019,Werner Baumann,$9 Million,$27 Thousand,338X
+Bayer,2018,Werner Baumann,$8 Million,$26 Thousand,327X
+Beiersdorf,2024,Vincent Warnery,$59 Million,$52 Thousand,1146X
+Beiersdorf,2023,Vincent Warnery,$56 Million,$50 Thousand,1108X
+Beiersdorf,2022,Vincent Warnery,$53 Million,$49 Thousand,1071X
+Beiersdorf,2021,Vincent Warnery,$50 Million,$48 Thousand,1036X
+Beiersdorf,2020,Vincent Warnery,$47 Million,$47 Thousand,1002X
+Beiersdorf,2019,Vincent Warnery,$44 Million,$46 Thousand,969X
+Beiersdorf,2018,Vincent Warnery,$42 Million,$44 Thousand,937X
+Bentley,2024,Frank-Steffen Walliser,$11 Million,$37 Thousand,301X
+Bentley,2023,Frank-Steffen Walliser,$11 Million,$37 Thousand,287X
+Bentley,2022,Frank-Steffen Walliser,$10 Million,$37 Thousand,273X
+Bentley,2021,Frank-Steffen Walliser,$10 Million,$37 Thousand,260X
+Bentley,2020,Frank-Steffen Walliser,$9 Million,$37 Thousand,246X
+Bentley,2019,Frank-Steffen Walliser,$9 Million,$37 Thousand,232X
+Bentley,2018,Frank-Steffen Walliser,$8 Million,$37 Thousand,219X
+Bilibili,2024,Chen Rui,$50 Million,$48 Thousand,1042X
+Bilibili,2023,Chen Rui,$47 Million,$47 Thousand,998X
+Bilibili,2022,Chen Rui,$44 Million,$46 Thousand,956X
+Bilibili,2021,Chen Rui,$41 Million,$45 Thousand,916X
+Bilibili,2020,Chen Rui,$38 Million,$43 Thousand,877X
+Bilibili,2019,Chen Rui,$36 Million,$42 Thousand,840X
+Bilibili,2018,Chen Rui,$33 Million,$41 Thousand,805X
+Bimbo Bakeries USA,2024,Daniel Servitje,$65 Million,$53 Thousand,1226X
+Bimbo Bakeries USA,2023,Daniel Servitje,$61 Million,$52 Thousand,1186X
+Bimbo Bakeries USA,2022,Daniel Servitje,$58 Million,$50 Thousand,1147X
+Bimbo Bakeries USA,2021,Daniel Servitje,$55 Million,$49 Thousand,1109X
+Bimbo Bakeries USA,2020,Daniel Servitje,$51 Million,$48 Thousand,1072X
+Bimbo Bakeries USA,2019,Daniel Servitje,$49 Million,$47 Thousand,1037X
+Bimbo Bakeries USA,2018,Daniel Servitje,$46 Million,$46 Thousand,1003X
+Biocon,2024,Kiran Mazumdar-Shaw,$75 Million,$58 Thousand,1293X
+Biocon,2023,Kiran Mazumdar-Shaw,$71 Million,$57 Thousand,1250X
+Biocon,2022,Kiran Mazumdar-Shaw,$67 Million,$55 Thousand,1209X
+Biocon,2021,Kiran Mazumdar-Shaw,$63 Million,$54 Thousand,1169X
+Biocon,2020,Kiran Mazumdar-Shaw,$59 Million,$53 Thousand,1131X
+Biocon,2019,Kiran Mazumdar-Shaw,$56 Million,$51 Thousand,1093X
+Biocon,2018,Kiran Mazumdar-Shaw,$53 Million,$50 Thousand,1057X
+BioMarin,2024,Jean-Jacques Bienaimé,$66 Million,$54 Thousand,1222X
+BioMarin,2023,Jean-Jacques Bienaimé,$62 Million,$53 Thousand,1182X
+BioMarin,2022,Jean-Jacques Bienaimé,$59 Million,$51 Thousand,1143X
+BioMarin,2021,Jean-Jacques Bienaimé,$55 Million,$50 Thousand,1105X
+BioMarin,2020,Jean-Jacques Bienaimé,$52 Million,$49 Thousand,1069X
+BioMarin,2019,Jean-Jacques Bienaimé,$49 Million,$48 Thousand,1033X
+BioMarin,2018,Jean-Jacques Bienaimé,$47 Million,$47 Thousand,999X
+BioNTech,2024,Ugur Sahin,$21 Million,$34 Thousand,618X
+BioNTech,2023,Ugur Sahin,$20 Million,$33 Thousand,597X
+BioNTech,2022,Ugur Sahin,$19 Million,$32 Thousand,578X
+BioNTech,2021,Ugur Sahin,$18 Million,$32 Thousand,558X
+BioNTech,2020,Ugur Sahin,$17 Million,$31 Thousand,540X
+BioNTech,2019,Ugur Sahin,$16 Million,$30 Thousand,522X
+BioNTech,2018,Ugur Sahin,$15 Million,$29 Thousand,505X
+Birkenstock,2024,Oliver Reichert,$11 Million,$41 Thousand,256X
+Birkenstock,2023,Oliver Reichert,$10 Million,$40 Thousand,249X
+Birkenstock,2022,Oliver Reichert,$10 Million,$39 Thousand,242X
+Birkenstock,2021,Oliver Reichert,$9 Million,$39 Thousand,235X
+Birkenstock,2020,Oliver Reichert,$9 Million,$38 Thousand,228X
+Birkenstock,2019,Oliver Reichert,$8 Million,$37 Thousand,222X
+Birkenstock,2018,Oliver Reichert,$8 Million,$36 Thousand,215X
+BitTorrent,2024,Jascha Kaykas-Wolff,$18 Million,$32 Thousand,563X
+BitTorrent,2023,Jascha Kaykas-Wolff,$17 Million,$31 Thousand,539X
+BitTorrent,2022,Jascha Kaykas-Wolff,$16 Million,$30 Thousand,516X
+BitTorrent,2021,Jascha Kaykas-Wolff,$15 Million,$30 Thousand,494X
+BitTorrent,2020,Jascha Kaykas-Wolff,$14 Million,$29 Thousand,474X
+BitTorrent,2019,Jascha Kaykas-Wolff,$13 Million,$28 Thousand,454X
+BitTorrent,2018,Jascha Kaykas-Wolff,$12 Million,$28 Thousand,435X
+Blue Diamond Growers,2024,Jim West,$45 Million,$43 Thousand,1047X
+Blue Diamond Growers,2023,Jim West,$42 Million,$42 Thousand,1012X
+Blue Diamond Growers,2022,Jim West,$40 Million,$41 Thousand,979X
+Blue Diamond Growers,2021,Jim West,$38 Million,$40 Thousand,946X
+Blue Diamond Growers,2020,Jim West,$36 Million,$39 Thousand,915X
+Blue Diamond Growers,2019,Jim West,$34 Million,$38 Thousand,885X
+Blue Diamond Growers,2018,Jim West,$32 Million,$37 Thousand,855X
+BMW,2024,Oliver Zipse,$10 Million,$36 Thousand,282X
+BMW,2023,Oliver Zipse,$10 Million,$36 Thousand,268X
+BMW,2022,Oliver Zipse,$9 Million,$36 Thousand,254X
+BMW,2021,Oliver Zipse,$9 Million,$36 Thousand,239X
+BMW,2020,Oliver Zipse,$8 Million,$36 Thousand,225X
+BMW,2019,Oliver Zipse,$8 Million,$36 Thousand,211X
+BMW,2018,Oliver Zipse,$7 Million,$36 Thousand,197X
+Bosch,2024,Stefan Hartung,$9 Million,$34 Thousand,263X
+Bosch,2023,Stefan Hartung,$9 Million,$34 Thousand,254X
+Bosch,2022,Stefan Hartung,$8 Million,$34 Thousand,246X
+Bosch,2021,Stefan Hartung,$8 Million,$34 Thousand,237X
+Bosch,2020,Stefan Hartung,$8 Million,$34 Thousand,228X
+Bosch,2019,Stefan Hartung,$8 Million,$34 Thousand,219X
+Bosch,2018,Stefan Hartung,$7 Million,$34 Thousand,211X
+Bose,2024,Lila Snyder,$8 Million,$35 Thousand,217X
+Bose,2023,Lila Snyder,$7 Million,$35 Thousand,209X
+Bose,2022,Lila Snyder,$7 Million,$35 Thousand,200X
+Bose,2021,Lila Snyder,$7 Million,$35 Thousand,191X
+Bose,2020,Lila Snyder,$6 Million,$35 Thousand,183X
+Bose,2019,Lila Snyder,$6 Million,$35 Thousand,174X
+Bose,2018,Lila Snyder,$6 Million,$35 Thousand,165X
+Bristol-Myers Squibb,2024,Giovanni Caforio,$84 Million,$62 Thousand,1355X
+Bristol-Myers Squibb,2023,Giovanni Caforio,$79 Million,$60 Thousand,1310X
+Bristol-Myers Squibb,2022,Giovanni Caforio,$75 Million,$59 Thousand,1267X
+Bristol-Myers Squibb,2021,Giovanni Caforio,$71 Million,$58 Thousand,1225X
+Bristol-Myers Squibb,2020,Giovanni Caforio,$67 Million,$56 Thousand,1185X
+Bristol-Myers Squibb,2019,Giovanni Caforio,$63 Million,$55 Thousand,1145X
+Bristol-Myers Squibb,2018,Giovanni Caforio,$59 Million,$53 Thousand,1108X
+Broadcom,2024,Hock Tan,$51 Million,$44 Thousand,1172X
+Broadcom,2023,Hock Tan,$48 Million,$42 Thousand,1134X
+Broadcom,2022,Hock Tan,$45 Million,$41 Thousand,1096X
+Broadcom,2021,Hock Tan,$43 Million,$40 Thousand,1060X
+Broadcom,2020,Hock Tan,$40 Million,$39 Thousand,1025X
+Broadcom,2019,Hock Tan,$38 Million,$38 Thousand,991X
+Broadcom,2018,Hock Tan,$36 Million,$38 Thousand,958X
+Brooks Sports,2024,Jim Weber,$11 Million,$41 Thousand,256X
+Brooks Sports,2023,Jim Weber,$10 Million,$40 Thousand,249X
+Brooks Sports,2022,Jim Weber,$10 Million,$39 Thousand,242X
+Brooks Sports,2021,Jim Weber,$9 Million,$39 Thousand,235X
+Brooks Sports,2020,Jim Weber,$9 Million,$38 Thousand,228X
+Brooks Sports,2019,Jim Weber,$8 Million,$37 Thousand,222X
+Brooks Sports,2018,Jim Weber,$8 Million,$36 Thousand,215X
+Bunge Limited,2024,Greg Heckman,$75 Million,$58 Thousand,1293X
+Bunge Limited,2023,Greg Heckman,$71 Million,$57 Thousand,1250X
+Bunge Limited,2022,Greg Heckman,$67 Million,$55 Thousand,1209X
+Bunge Limited,2021,Greg Heckman,$63 Million,$54 Thousand,1169X
+Bunge Limited,2020,Greg Heckman,$59 Million,$53 Thousand,1131X
+Bunge Limited,2019,Greg Heckman,$56 Million,$51 Thousand,1093X
+Bunge Limited,2018,Greg Heckman,$53 Million,$50 Thousand,1057X
+ByteDance,2024,Yiming Zhang,$58 Million,$52 Thousand,1115X
+ByteDance,2023,Yiming Zhang,$54 Million,$51 Thousand,1069X
+ByteDance,2022,Yiming Zhang,$51 Million,$49 Thousand,1024X
+ByteDance,2021,Yiming Zhang,$47 Million,$48 Thousand,981X
+ByteDance,2020,Yiming Zhang,$44 Million,$47 Thousand,939X
+ByteDance,2019,Yiming Zhang,$41 Million,$46 Thousand,900X
+ByteDance,2018,Yiming Zhang,$39 Million,$45 Thousand,862X
+Caffeine,2024,Ben Keighran,$26 Million,$36 Thousand,722X
+Caffeine,2023,Ben Keighran,$24 Million,$35 Thousand,692X
+Caffeine,2022,Ben Keighran,$23 Million,$34 Thousand,663X
+Caffeine,2021,Ben Keighran,$21 Million,$33 Thousand,635X
+Caffeine,2020,Ben Keighran,$20 Million,$33 Thousand,608X
+Caffeine,2019,Ben Keighran,$19 Million,$32 Thousand,583X
+Caffeine,2018,Ben Keighran,$17 Million,$31 Thousand,558X
+Calbee,2024,Hiroshi Aoki,$15 Million,$28 Thousand,536X
+Calbee,2023,Hiroshi Aoki,$14 Million,$27 Thousand,518X
+Calbee,2022,Hiroshi Aoki,$13 Million,$27 Thousand,501X
+Calbee,2021,Hiroshi Aoki,$13 Million,$26 Thousand,484X
+Calbee,2020,Hiroshi Aoki,$12 Million,$25 Thousand,468X
+Calbee,2019,Hiroshi Aoki,$11 Million,$25 Thousand,453X
+Calbee,2018,Hiroshi Aoki,$11 Million,$24 Thousand,438X
+Campbell Soup Company,2024,Mark Clouse,$65 Million,$53 Thousand,1226X
+Campbell Soup Company,2023,Mark Clouse,$61 Million,$52 Thousand,1186X
+Campbell Soup Company,2022,Mark Clouse,$58 Million,$50 Thousand,1147X
+Campbell Soup Company,2021,Mark Clouse,$55 Million,$49 Thousand,1109X
+Campbell Soup Company,2020,Mark Clouse,$51 Million,$48 Thousand,1072X
+Campbell Soup Company,2019,Mark Clouse,$49 Million,$47 Thousand,1037X
+Campbell Soup Company,2018,Mark Clouse,$46 Million,$46 Thousand,1003X
+Canada Goose,2024,Dani Reiss,$16 Million,$51 Thousand,314X
+Canada Goose,2023,Dani Reiss,$15 Million,$50 Thousand,305X
+Canada Goose,2022,Dani Reiss,$14 Million,$49 Thousand,296X
+Canada Goose,2021,Dani Reiss,$14 Million,$48 Thousand,288X
+Canada Goose,2020,Dani Reiss,$13 Million,$47 Thousand,280X
+Canada Goose,2019,Dani Reiss,$12 Million,$46 Thousand,272X
+Canada Goose,2018,Dani Reiss,$12 Million,$45 Thousand,264X
+Canon,2024,Fujio Mitarai,$123 Million,$71 Thousand,1745X
+Canon,2023,Fujio Mitarai,$116 Million,$69 Thousand,1687X
+Canon,2022,Fujio Mitarai,$109 Million,$67 Thousand,1631X
+Canon,2021,Fujio Mitarai,$103 Million,$65 Thousand,1577X
+Canon,2020,Fujio Mitarai,$97 Million,$64 Thousand,1525X
+Canon,2019,Fujio Mitarai,$92 Million,$62 Thousand,1475X
+Canon,2018,Fujio Mitarai,$87 Million,$61 Thousand,1426X
+Cargill,2024,David MacLennan,$55 Million,$48 Thousand,1146X
+Cargill,2023,David MacLennan,$52 Million,$47 Thousand,1108X
+Cargill,2022,David MacLennan,$49 Million,$46 Thousand,1071X
+Cargill,2021,David MacLennan,$46 Million,$45 Thousand,1036X
+Cargill,2020,David MacLennan,$44 Million,$43 Thousand,1002X
+Cargill,2019,David MacLennan,$41 Million,$42 Thousand,969X
+Cargill,2018,David MacLennan,$39 Million,$41 Thousand,937X
+Cartier,2024,Cyrille Vigneron,$13 Million,$36 Thousand,351X
+Cartier,2023,Cyrille Vigneron,$12 Million,$36 Thousand,337X
+Cartier,2022,Cyrille Vigneron,$12 Million,$36 Thousand,323X
+Cartier,2021,Cyrille Vigneron,$11 Million,$36 Thousand,309X
+Cartier,2020,Cyrille Vigneron,$11 Million,$36 Thousand,295X
+Cartier,2019,Cyrille Vigneron,$10 Million,$36 Thousand,281X
+Cartier,2018,Cyrille Vigneron,$10 Million,$36 Thousand,267X
+Champion,2024,Tim Baxter,$5 Million,$31 Thousand,162X
+Champion,2023,Tim Baxter,$5 Million,$31 Thousand,158X
+Champion,2022,Tim Baxter,$5 Million,$30 Thousand,153X
+Champion,2021,Tim Baxter,$4 Million,$30 Thousand,149X
+Champion,2020,Tim Baxter,$4 Million,$29 Thousand,145X
+Champion,2019,Tim Baxter,$4 Million,$28 Thousand,141X
+Champion,2018,Tim Baxter,$4 Million,$28 Thousand,137X
+Chanel,2024,Leena Nair,$15 Million,$36 Thousand,423X
+Chanel,2023,Leena Nair,$15 Million,$36 Thousand,408X
+Chanel,2022,Leena Nair,$14 Million,$36 Thousand,394X
+Chanel,2021,Leena Nair,$14 Million,$36 Thousand,380X
+Chanel,2020,Leena Nair,$13 Million,$36 Thousand,366X
+Chanel,2019,Leena Nair,$13 Million,$36 Thousand,352X
+Chanel,2018,Leena Nair,$12 Million,$36 Thousand,338X
+Chevrolet,2024,Marry Barra,$22 Million,$36 Thousand,620X
+Chevrolet,2023,Marry Barra,$21 Million,$36 Thousand,592X
+Chevrolet,2022,Marry Barra,$20 Million,$36 Thousand,563X
+Chevrolet,2021,Marry Barra,$19 Million,$36 Thousand,535X
+Chevrolet,2020,Marry Barra,$18 Million,$36 Thousand,507X
+Chevrolet,2019,Marry Barra,$17 Million,$36 Thousand,479X
+Chevrolet,2018,Marry Barra,$16 Million,$36 Thousand,451X
+Chiquita Brands International,2024,Jill Surdek,$85 Million,$63 Thousand,1349X
+Chiquita Brands International,2023,Jill Surdek,$80 Million,$61 Thousand,1305X
+Chiquita Brands International,2022,Jill Surdek,$76 Million,$60 Thousand,1262X
+Chiquita Brands International,2021,Jill Surdek,$71 Million,$59 Thousand,1220X
+Chiquita Brands International,2020,Jill Surdek,$67 Million,$57 Thousand,1180X
+Chiquita Brands International,2019,Jill Surdek,$64 Million,$56 Thousand,1141X
+Chiquita Brands International,2018,Jill Surdek,$60 Million,$54 Thousand,1103X
+Church & Dwight,2024,Matthew Farrell,$73 Million,$59 Thousand,1248X
+Church & Dwight,2023,Matthew Farrell,$69 Million,$57 Thousand,1207X
+Church & Dwight,2022,Matthew Farrell,$65 Million,$56 Thousand,1167X
+Church & Dwight,2021,Matthew Farrell,$61 Million,$54 Thousand,1128X
+Church & Dwight,2020,Matthew Farrell,$58 Million,$53 Thousand,1091X
+Church & Dwight,2019,Matthew Farrell,$55 Million,$52 Thousand,1055X
+Church & Dwight,2018,Matthew Farrell,$51 Million,$50 Thousand,1020X
+Cisco Systems,2024,Chuck Robbins,$87 Million,$57 Thousand,1526X
+Cisco Systems,2023,Chuck Robbins,$82 Million,$56 Thousand,1476X
+Cisco Systems,2022,Chuck Robbins,$77 Million,$54 Thousand,1427X
+Cisco Systems,2021,Chuck Robbins,$73 Million,$53 Thousand,1380X
+Cisco Systems,2020,Chuck Robbins,$69 Million,$52 Thousand,1334X
+Cisco Systems,2019,Chuck Robbins,$65 Million,$50 Thousand,1290X
+Cisco Systems,2018,Chuck Robbins,$61 Million,$49 Thousand,1248X
+Clarks,2024,Cyrus Macpherson,$16 Million,$51 Thousand,314X
+Clarks,2023,Cyrus Macpherson,$15 Million,$50 Thousand,305X
+Clarks,2022,Cyrus Macpherson,$14 Million,$49 Thousand,296X
+Clarks,2021,Cyrus Macpherson,$14 Million,$48 Thousand,288X
+Clarks,2020,Cyrus Macpherson,$13 Million,$47 Thousand,280X
+Clarks,2019,Cyrus Macpherson,$12 Million,$46 Thousand,272X
+Clarks,2018,Cyrus Macpherson,$12 Million,$45 Thousand,264X
+Clorox,2024,Linda Rendle,$66 Million,$55 Thousand,1200X
+Clorox,2023,Linda Rendle,$62 Million,$54 Thousand,1160X
+Clorox,2022,Linda Rendle,$59 Million,$52 Thousand,1122X
+Clorox,2021,Linda Rendle,$55 Million,$51 Thousand,1085X
+Clorox,2020,Linda Rendle,$52 Million,$50 Thousand,1049X
+Clorox,2019,Linda Rendle,$49 Million,$49 Thousand,1015X
+Clorox,2018,Linda Rendle,$47 Million,$47 Thousand,981X
+Coca-Cola,2024,James Quincey,$35 Million,$38 Thousand,921X
+Coca-Cola,2023,James Quincey,$33 Million,$37 Thousand,891X
+Coca-Cola,2022,James Quincey,$31 Million,$36 Thousand,861X
+Coca-Cola,2021,James Quincey,$29 Million,$35 Thousand,833X
+Coca-Cola,2020,James Quincey,$28 Million,$34 Thousand,805X
+Coca-Cola,2019,James Quincey,$26 Million,$34 Thousand,779X
+Coca-Cola,2018,James Quincey,$25 Million,$33 Thousand,753X
+Colgate-Palmolive,2024,Noel Wallace,$24 Million,$34 Thousand,706X
+Colgate-Palmolive,2023,Noel Wallace,$23 Million,$33 Thousand,683X
+Colgate-Palmolive,2022,Noel Wallace,$21 Million,$32 Thousand,660X
+Colgate-Palmolive,2021,Noel Wallace,$20 Million,$32 Thousand,638X
+Colgate-Palmolive,2020,Noel Wallace,$19 Million,$31 Thousand,617X
+Colgate-Palmolive,2019,Noel Wallace,$18 Million,$30 Thousand,597X
+Colgate-Palmolive,2018,Noel Wallace,$17 Million,$29 Thousand,577X
+Columbia Sportswear,2024,Tim Boyle,$3 Million,$28 Thousand,117X
+Columbia Sportswear,2023,Tim Boyle,$3 Million,$28 Thousand,114X
+Columbia Sportswear,2022,Tim Boyle,$3 Million,$27 Thousand,110X
+Columbia Sportswear,2021,Tim Boyle,$3 Million,$27 Thousand,107X
+Columbia Sportswear,2020,Tim Boyle,$3 Million,$26 Thousand,104X
+Columbia Sportswear,2019,Tim Boyle,$3 Million,$26 Thousand,101X
+Columbia Sportswear,2018,Tim Boyle,$2 Million,$25 Thousand,98X
+Conagra Brands,2024,Sean Connolly,$45 Million,$43 Thousand,1047X
+Conagra Brands,2023,Sean Connolly,$42 Million,$42 Thousand,1012X
+Conagra Brands,2022,Sean Connolly,$40 Million,$41 Thousand,979X
+Conagra Brands,2021,Sean Connolly,$38 Million,$40 Thousand,946X
+Conagra Brands,2020,Sean Connolly,$36 Million,$39 Thousand,915X
+Conagra Brands,2019,Sean Connolly,$34 Million,$38 Thousand,885X
+Conagra Brands,2018,Sean Connolly,$32 Million,$37 Thousand,855X
+Converse,2024,Scott Uzzell,$14 Million,$47 Thousand,297X
+Converse,2023,Scott Uzzell,$13 Million,$46 Thousand,289X
+Converse,2022,Scott Uzzell,$13 Million,$46 Thousand,281X
+Converse,2021,Scott Uzzell,$12 Million,$45 Thousand,273X
+Converse,2020,Scott Uzzell,$12 Million,$44 Thousand,265X
+Converse,2019,Scott Uzzell,$11 Million,$43 Thousand,257X
+Converse,2018,Scott Uzzell,$11 Million,$42 Thousand,250X
+Corning,2024,Wendell Weeks,$111 Million,$66 Thousand,1682X
+Corning,2023,Wendell Weeks,$105 Million,$64 Thousand,1626X
+Corning,2022,Wendell Weeks,$99 Million,$63 Thousand,1573X
+Corning,2021,Wendell Weeks,$93 Million,$61 Thousand,1521X
+Corning,2020,Wendell Weeks,$88 Million,$60 Thousand,1470X
+Corning,2019,Wendell Weeks,$83 Million,$58 Thousand,1422X
+Corning,2018,Wendell Weeks,$78 Million,$57 Thousand,1375X
+Coty Inc.,2024,Sue Nabi,$17 Million,$31 Thousand,557X
+Coty Inc.,2023,Sue Nabi,$16 Million,$30 Thousand,539X
+Coty Inc.,2022,Sue Nabi,$15 Million,$29 Thousand,521X
+Coty Inc.,2021,Sue Nabi,$14 Million,$28 Thousand,504X
+Coty Inc.,2020,Sue Nabi,$13 Million,$28 Thousand,487X
+Coty Inc.,2019,Sue Nabi,$13 Million,$27 Thousand,471X
+Coty Inc.,2018,Sue Nabi,$12 Million,$26 Thousand,456X
+Crocs,2024,Jayson Scharf,$9 Million,$38 Thousand,230X
+Crocs,2023,Jayson Scharf,$8 Million,$37 Thousand,224X
+Crocs,2022,Jayson Scharf,$8 Million,$36 Thousand,217X
+Crocs,2021,Jayson Scharf,$8 Million,$36 Thousand,211X
+Crocs,2020,Jayson Scharf,$7 Million,$35 Thousand,205X
+Crocs,2019,Jayson Scharf,$7 Million,$34 Thousand,199X
+Crocs,2018,Jayson Scharf,$6 Million,$34 Thousand,193X
+Crunchyroll,2024,Cliff Edgard,$66 Million,$56 Thousand,1179X
+Crunchyroll,2023,Cliff Edgard,$62 Million,$55 Thousand,1129X
+Crunchyroll,2022,Cliff Edgard,$58 Million,$53 Thousand,1082X
+Crunchyroll,2021,Cliff Edgard,$54 Million,$52 Thousand,1036X
+Crunchyroll,2020,Cliff Edgard,$50 Million,$51 Thousand,992X
+Crunchyroll,2019,Cliff Edgard,$47 Million,$49 Thousand,951X
+Crunchyroll,2018,Cliff Edgard,$44 Million,$48 Thousand,911X
+CSL Limited,2024,Paul Perreault,$93 Million,$66 Thousand,1409X
+CSL Limited,2023,Paul Perreault,$88 Million,$64 Thousand,1363X
+CSL Limited,2022,Paul Perreault,$83 Million,$63 Thousand,1318X
+CSL Limited,2021,Paul Perreault,$78 Million,$61 Thousand,1274X
+CSL Limited,2020,Paul Perreault,$74 Million,$60 Thousand,1232X
+CSL Limited,2019,Paul Perreault,$70 Million,$58 Thousand,1191X
+CSL Limited,2018,Paul Perreault,$66 Million,$57 Thousand,1152X
+Daiichi Sankyo,2024,Sunao Manabe,$30 Million,$38 Thousand,789X
+Daiichi Sankyo,2023,Sunao Manabe,$28 Million,$37 Thousand,763X
+Daiichi Sankyo,2022,Sunao Manabe,$27 Million,$36 Thousand,738X
+Daiichi Sankyo,2021,Sunao Manabe,$25 Million,$35 Thousand,714X
+Daiichi Sankyo,2020,Sunao Manabe,$24 Million,$34 Thousand,690X
+Daiichi Sankyo,2019,Sunao Manabe,$22 Million,$34 Thousand,668X
+Daiichi Sankyo,2018,Sunao Manabe,$21 Million,$33 Thousand,645X
+Dailymotion,2024,Maxime Saada,$26 Million,$36 Thousand,722X
+Dailymotion,2023,Maxime Saada,$24 Million,$35 Thousand,692X
+Dailymotion,2022,Maxime Saada,$23 Million,$34 Thousand,663X
+Dailymotion,2021,Maxime Saada,$21 Million,$33 Thousand,635X
+Dailymotion,2020,Maxime Saada,$20 Million,$33 Thousand,608X
+Dailymotion,2019,Maxime Saada,$19 Million,$32 Thousand,583X
+Dailymotion,2018,Maxime Saada,$17 Million,$31 Thousand,558X
+Dairy Farmers of America,2024,Rick Smith,$55 Million,$48 Thousand,1146X
+Dairy Farmers of America,2023,Rick Smith,$52 Million,$47 Thousand,1108X
+Dairy Farmers of America,2022,Rick Smith,$49 Million,$46 Thousand,1071X
+Dairy Farmers of America,2021,Rick Smith,$46 Million,$45 Thousand,1036X
+Dairy Farmers of America,2020,Rick Smith,$44 Million,$43 Thousand,1002X
+Dairy Farmers of America,2019,Rick Smith,$41 Million,$42 Thousand,969X
+Dairy Farmers of America,2018,Rick Smith,$39 Million,$41 Thousand,937X
+Danone,2024,Emmanuel Faber,$85 Million,$63 Thousand,1349X
+Danone,2023,Emmanuel Faber,$80 Million,$61 Thousand,1305X
+Danone,2022,Emmanuel Faber,$76 Million,$60 Thousand,1262X
+Danone,2021,Emmanuel Faber,$71 Million,$59 Thousand,1220X
+Danone,2020,Emmanuel Faber,$67 Million,$57 Thousand,1180X
+Danone,2019,Emmanuel Faber,$64 Million,$56 Thousand,1141X
+Danone,2018,Emmanuel Faber,$60 Million,$54 Thousand,1103X
+Deckers Outdoor Corporation,2024,Dave Powers,$11 Million,$41 Thousand,256X
+Deckers Outdoor Corporation,2023,Dave Powers,$10 Million,$40 Thousand,249X
+Deckers Outdoor Corporation,2022,Dave Powers,$10 Million,$39 Thousand,242X
+Deckers Outdoor Corporation,2021,Dave Powers,$9 Million,$39 Thousand,235X
+Deckers Outdoor Corporation,2020,Dave Powers,$9 Million,$38 Thousand,228X
+Deckers Outdoor Corporation,2019,Dave Powers,$8 Million,$37 Thousand,222X
+Deckers Outdoor Corporation,2018,Dave Powers,$8 Million,$36 Thousand,215X
+Deezer,2024,Hans-Holger Albrecht,$50 Million,$48 Thousand,1042X
+Deezer,2023,Hans-Holger Albrecht,$47 Million,$47 Thousand,998X
+Deezer,2022,Hans-Holger Albrecht,$44 Million,$46 Thousand,956X
+Deezer,2021,Hans-Holger Albrecht,$41 Million,$45 Thousand,916X
+Deezer,2020,Hans-Holger Albrecht,$38 Million,$43 Thousand,877X
+Deezer,2019,Hans-Holger Albrecht,$36 Million,$42 Thousand,840X
+Deezer,2018,Hans-Holger Albrecht,$33 Million,$41 Thousand,805X
+Dell Technologies,2024,Michael Dell,$123 Million,$71 Thousand,1745X
+Dell Technologies,2023,Michael Dell,$116 Million,$69 Thousand,1687X
+Dell Technologies,2022,Michael Dell,$109 Million,$67 Thousand,1631X
+Dell Technologies,2021,Michael Dell,$103 Million,$65 Thousand,1577X
+Dell Technologies,2020,Michael Dell,$97 Million,$64 Thousand,1525X
+Dell Technologies,2019,Michael Dell,$92 Million,$62 Thousand,1475X
+Dell Technologies,2018,Michael Dell,$87 Million,$61 Thousand,1426X
+Diageo,2024,Ivan Menezes,$45 Million,$43 Thousand,1047X
+Diageo,2023,Ivan Menezes,$42 Million,$42 Thousand,1012X
+Diageo,2022,Ivan Menezes,$40 Million,$41 Thousand,979X
+Diageo,2021,Ivan Menezes,$38 Million,$40 Thousand,946X
+Diageo,2020,Ivan Menezes,$36 Million,$39 Thousand,915X
+Diageo,2019,Ivan Menezes,$34 Million,$38 Thousand,885X
+Diageo,2018,Ivan Menezes,$32 Million,$37 Thousand,855X
+Dior,2024,Delphine Arnault,$15 Million,$36 Thousand,405X
+Dior,2023,Delphine Arnault,$14 Million,$36 Thousand,391X
+Dior,2022,Delphine Arnault,$14 Million,$36 Thousand,377X
+Dior,2021,Delphine Arnault,$13 Million,$36 Thousand,363X
+Dior,2020,Delphine Arnault,$13 Million,$36 Thousand,349X
+Dior,2019,Delphine Arnault,$12 Million,$36 Thousand,335X
+Dior,2018,Delphine Arnault,$12 Million,$36 Thousand,321X
+Discord,2024,Jason Citron,$18 Million,$32 Thousand,563X
+Discord,2023,Jason Citron,$17 Million,$31 Thousand,539X
+Discord,2022,Jason Citron,$16 Million,$30 Thousand,516X
+Discord,2021,Jason Citron,$15 Million,$30 Thousand,494X
+Discord,2020,Jason Citron,$14 Million,$29 Thousand,474X
+Discord,2019,Jason Citron,$13 Million,$28 Thousand,454X
+Discord,2018,Jason Citron,$12 Million,$28 Thousand,435X
+Discovery,2024,David Zaslav,$66 Million,$56 Thousand,1179X
+Discovery,2023,David Zaslav,$62 Million,$55 Thousand,1129X
+Discovery,2022,David Zaslav,$58 Million,$53 Thousand,1082X
+Discovery,2021,David Zaslav,$54 Million,$52 Thousand,1036X
+Discovery,2020,David Zaslav,$50 Million,$51 Thousand,992X
+Discovery,2019,David Zaslav,$47 Million,$49 Thousand,951X
+Discovery,2018,David Zaslav,$44 Million,$48 Thousand,911X
+Disney,2024,Bob Iger,$50 Million,$48 Thousand,1042X
+Disney,2023,Bob Iger,$47 Million,$47 Thousand,998X
+Disney,2022,Bob Iger,$44 Million,$46 Thousand,956X
+Disney,2021,Bob Iger,$41 Million,$45 Thousand,916X
+Disney,2020,Bob Iger,$38 Million,$43 Thousand,877X
+Disney,2019,Bob Iger,$36 Million,$42 Thousand,840X
+Disney,2018,Bob Iger,$33 Million,$41 Thousand,805X
+DLive,2024,Charles Wayn,$42 Million,$44 Thousand,955X
+DLive,2023,Charles Wayn,$39 Million,$43 Thousand,914X
+DLive,2022,Charles Wayn,$37 Million,$42 Thousand,876X
+DLive,2021,Charles Wayn,$34 Million,$41 Thousand,839X
+DLive,2020,Charles Wayn,$32 Million,$40 Thousand,804X
+DLive,2019,Charles Wayn,$30 Million,$39 Thousand,770X
+DLive,2018,Charles Wayn,$28 Million,$38 Thousand,738X
+Dole Food Company,2024,Terry Lundgren,$95 Million,$68 Thousand,1397X
+Dole Food Company,2023,Terry Lundgren,$90 Million,$66 Thousand,1351X
+Dole Food Company,2022,Terry Lundgren,$85 Million,$65 Thousand,1306X
+Dole Food Company,2021,Terry Lundgren,$80 Million,$63 Thousand,1263X
+Dole Food Company,2020,Terry Lundgren,$75 Million,$62 Thousand,1221X
+Dole Food Company,2019,Terry Lundgren,$71 Million,$60 Thousand,1181X
+Dole Food Company,2018,Terry Lundgren,$67 Million,$59 Thousand,1142X
+Dr. Martens,2024,Mike Murphy,$12 Million,$44 Thousand,278X
+Dr. Martens,2023,Mike Murphy,$12 Million,$43 Thousand,270X
+Dr. Martens,2022,Mike Murphy,$11 Million,$42 Thousand,263X
+Dr. Martens,2021,Mike Murphy,$11 Million,$42 Thousand,255X
+Dr. Martens,2020,Mike Murphy,$10 Million,$41 Thousand,248X
+Dr. Martens,2019,Mike Murphy,$10 Million,$40 Thousand,241X
+Dr. Martens,2018,Mike Murphy,$9 Million,$39 Thousand,234X
+Dropbox,2024,Drew Houston,$87 Million,$57 Thousand,1526X
+Dropbox,2023,Drew Houston,$82 Million,$56 Thousand,1476X
+Dropbox,2022,Drew Houston,$77 Million,$54 Thousand,1427X
+Dropbox,2021,Drew Houston,$73 Million,$53 Thousand,1380X
+Dropbox,2020,Drew Houston,$69 Million,$52 Thousand,1334X
+Dropbox,2019,Drew Houston,$65 Million,$50 Thousand,1290X
+Dropbox,2018,Drew Houston,$61 Million,$49 Thousand,1248X
+eBay,2024,Jamie Iannone,$63 Million,$48 Thousand,1313X
+eBay,2023,Jamie Iannone,$59 Million,$47 Thousand,1269X
+eBay,2022,Jamie Iannone,$56 Million,$46 Thousand,1227X
+eBay,2021,Jamie Iannone,$53 Million,$45 Thousand,1187X
+eBay,2020,Jamie Iannone,$50 Million,$43 Thousand,1148X
+eBay,2019,Jamie Iannone,$47 Million,$42 Thousand,1110X
+eBay,2018,Jamie Iannone,$44 Million,$41 Thousand,1073X
+Edgewell Personal Care,2024,David Hatfield,$24 Million,$34 Thousand,706X
+Edgewell Personal Care,2023,David Hatfield,$23 Million,$33 Thousand,683X
+Edgewell Personal Care,2022,David Hatfield,$21 Million,$32 Thousand,660X
+Edgewell Personal Care,2021,David Hatfield,$20 Million,$32 Thousand,638X
+Edgewell Personal Care,2020,David Hatfield,$19 Million,$31 Thousand,617X
+Edgewell Personal Care,2019,David Hatfield,$18 Million,$30 Thousand,597X
+Edgewell Personal Care,2018,David Hatfield,$17 Million,$29 Thousand,577X
+Eisai,2024,Haruo Naito,$30 Million,$38 Thousand,789X
+Eisai,2023,Haruo Naito,$28 Million,$37 Thousand,763X
+Eisai,2022,Haruo Naito,$27 Million,$36 Thousand,738X
+Eisai,2021,Haruo Naito,$25 Million,$35 Thousand,714X
+Eisai,2020,Haruo Naito,$24 Million,$34 Thousand,690X
+Eisai,2019,Haruo Naito,$22 Million,$34 Thousand,668X
+Eisai,2018,Haruo Naito,$21 Million,$33 Thousand,645X
+Eli Lilly,2024,David Ricks,$21 Million,$34 Thousand,618X
+Eli Lilly,2023,David Ricks,$20 Million,$33 Thousand,597X
+Eli Lilly,2022,David Ricks,$19 Million,$32 Thousand,578X
+Eli Lilly,2021,David Ricks,$18 Million,$32 Thousand,558X
+Eli Lilly,2020,David Ricks,$17 Million,$31 Thousand,540X
+Eli Lilly,2019,David Ricks,$16 Million,$30 Thousand,522X
+Eli Lilly,2018,David Ricks,$15 Million,$29 Thousand,505X
+Endo International,2024,Rajiv De Silva,$39 Million,$42 Thousand,929X
+Endo International,2023,Rajiv De Silva,$37 Million,$41 Thousand,898X
+Endo International,2022,Rajiv De Silva,$35 Million,$40 Thousand,868X
+Endo International,2021,Rajiv De Silva,$33 Million,$39 Thousand,840X
+Endo International,2020,Rajiv De Silva,$31 Million,$38 Thousand,812X
+Endo International,2019,Rajiv De Silva,$29 Million,$37 Thousand,785X
+Endo International,2018,Rajiv De Silva,$27 Million,$36 Thousand,759X
+Everlane,2024,Michael Preysman,$9 Million,$38 Thousand,230X
+Everlane,2023,Michael Preysman,$8 Million,$37 Thousand,224X
+Everlane,2022,Michael Preysman,$8 Million,$36 Thousand,217X
+Everlane,2021,Michael Preysman,$8 Million,$36 Thousand,211X
+Everlane,2020,Michael Preysman,$7 Million,$35 Thousand,205X
+Everlane,2019,Michael Preysman,$7 Million,$34 Thousand,199X
+Everlane,2018,Michael Preysman,$6 Million,$34 Thousand,193X
+Ferrari,2024,Benedetto Vigna,$15 Million,$37 Thousand,405X
+Ferrari,2023,Benedetto Vigna,$15 Million,$37 Thousand,392X
+Ferrari,2022,Benedetto Vigna,$14 Million,$37 Thousand,378X
+Ferrari,2021,Benedetto Vigna,$14 Million,$37 Thousand,365X
+Ferrari,2020,Benedetto Vigna,$13 Million,$37 Thousand,351X
+Ferrari,2019,Benedetto Vigna,$13 Million,$37 Thousand,338X
+Ferrari,2018,Benedetto Vigna,$12 Million,$37 Thousand,324X
+Ferrero Group,2024,Lapo Civiletti,$105 Million,$73 Thousand,1438X
+Ferrero Group,2023,Lapo Civiletti,$99 Million,$71 Thousand,1391X
+Ferrero Group,2022,Lapo Civiletti,$93 Million,$69 Thousand,1345X
+Ferrero Group,2021,Lapo Civiletti,$88 Million,$68 Thousand,1301X
+Ferrero Group,2020,Lapo Civiletti,$83 Million,$66 Thousand,1258X
+Ferrero Group,2019,Lapo Civiletti,$78 Million,$65 Thousand,1216X
+Ferrero Group,2018,Lapo Civiletti,$74 Million,$63 Thousand,1176X
+Fila,2024,Yonggeun Lee,$5 Million,$31 Thousand,162X
+Fila,2023,Yonggeun Lee,$5 Million,$31 Thousand,158X
+Fila,2022,Yonggeun Lee,$5 Million,$30 Thousand,153X
+Fila,2021,Yonggeun Lee,$4 Million,$30 Thousand,149X
+Fila,2020,Yonggeun Lee,$4 Million,$29 Thousand,145X
+Fila,2019,Yonggeun Lee,$4 Million,$28 Thousand,141X
+Fila,2018,Yonggeun Lee,$4 Million,$28 Thousand,137X
+Fitbit,2024,James Park,$7 Million,$34 Thousand,194X
+Fitbit,2023,James Park,$6 Million,$34 Thousand,185X
+Fitbit,2022,James Park,$6 Million,$34 Thousand,176X
+Fitbit,2021,James Park,$6 Million,$34 Thousand,167X
+Fitbit,2020,James Park,$5 Million,$34 Thousand,158X
+Fitbit,2019,James Park,$5 Million,$34 Thousand,149X
+Fitbit,2018,James Park,$5 Million,$34 Thousand,140X
+Fitbit (Google),2024,James Park,$111 Million,$66 Thousand,1682X
+Fitbit (Google),2023,James Park,$105 Million,$64 Thousand,1626X
+Fitbit (Google),2022,James Park,$99 Million,$63 Thousand,1573X
+Fitbit (Google),2021,James Park,$93 Million,$61 Thousand,1521X
+Fitbit (Google),2020,James Park,$88 Million,$60 Thousand,1470X
+Fitbit (Google),2019,James Park,$83 Million,$58 Thousand,1422X
+Fitbit (Google),2018,James Park,$78 Million,$57 Thousand,1375X
+Ford,2024,James Duncan Farley Jr,$21 Million,$36 Thousand,583X
+Ford,2023,James Duncan Farley Jr,$20 Million,$36 Thousand,556X
+Ford,2022,James Duncan Farley Jr,$20 Million,$36 Thousand,542X
+Ford,2021,James Duncan Farley Jr,$19 Million,$36 Thousand,528X
+Ford,2020,James Duncan Farley Jr,$19 Million,$36 Thousand,514X
+Ford,2019,James Duncan Farley Jr,$18 Million,$36 Thousand,500X
+Ford,2018,James Duncan Farley Jr,$18 Million,$36 Thousand,486X
+Fossil,2024,Franco Fogliato,$7 Million,$34 Thousand,207X
+Fossil,2023,Franco Fogliato,$7 Million,$34 Thousand,198X
+Fossil,2022,Franco Fogliato,$6 Million,$34 Thousand,189X
+Fossil,2021,Franco Fogliato,$6 Million,$34 Thousand,180X
+Fossil,2020,Franco Fogliato,$6 Million,$34 Thousand,172X
+Fossil,2019,Franco Fogliato,$6 Million,$34 Thousand,163X
+Fossil,2018,Franco Fogliato,$5 Million,$34 Thousand,154X
+Fresenius,2024,Stefan Sturm,$75 Million,$58 Thousand,1293X
+Fresenius,2023,Stefan Sturm,$71 Million,$57 Thousand,1250X
+Fresenius,2022,Stefan Sturm,$67 Million,$55 Thousand,1209X
+Fresenius,2021,Stefan Sturm,$63 Million,$54 Thousand,1169X
+Fresenius,2020,Stefan Sturm,$59 Million,$53 Thousand,1131X
+Fresenius,2019,Stefan Sturm,$56 Million,$51 Thousand,1093X
+Fresenius,2018,Stefan Sturm,$53 Million,$50 Thousand,1057X
+Frigidaire,2024,Yannick Fierling,$7 Million,$33 Thousand,205X
+Frigidaire,2023,Yannick Fierling,$7 Million,$33 Thousand,199X
+Frigidaire,2022,Yannick Fierling,$6 Million,$33 Thousand,193X
+Frigidaire,2021,Yannick Fierling,$6 Million,$33 Thousand,184X
+Frigidaire,2020,Yannick Fierling,$6 Million,$33 Thousand,175X
+Frigidaire,2019,Yannick Fierling,$6 Million,$33 Thousand,166X
+Frigidaire,2018,Yannick Fierling,$5 Million,$33 Thousand,157X
+FuboTV,2024,David Gandler,$82 Million,$64 Thousand,1281X
+FuboTV,2023,David Gandler,$77 Million,$62 Thousand,1227X
+FuboTV,2022,David Gandler,$72 Million,$61 Thousand,1176X
+FuboTV,2021,David Gandler,$67 Million,$59 Thousand,1126X
+FuboTV,2020,David Gandler,$63 Million,$58 Thousand,1079X
+FuboTV,2019,David Gandler,$58 Million,$57 Thousand,1033X
+FuboTV,2018,David Gandler,$55 Million,$55 Thousand,990X
+Gaia,2024,Jirka Rysavy,$18 Million,$32 Thousand,563X
+Gaia,2023,Jirka Rysavy,$17 Million,$31 Thousand,539X
+Gaia,2022,Jirka Rysavy,$16 Million,$30 Thousand,516X
+Gaia,2021,Jirka Rysavy,$15 Million,$30 Thousand,494X
+Gaia,2020,Jirka Rysavy,$14 Million,$29 Thousand,474X
+Gaia,2019,Jirka Rysavy,$13 Million,$28 Thousand,454X
+Gaia,2018,Jirka Rysavy,$12 Million,$28 Thousand,435X
+Garmin,2024,Cliff Pemble,$27 Million,$35 Thousand,783X
+Garmin,2023,Cliff Pemble,$25 Million,$34 Thousand,757X
+Garmin,2022,Cliff Pemble,$24 Million,$33 Thousand,732X
+Garmin,2021,Cliff Pemble,$23 Million,$32 Thousand,708X
+Garmin,2020,Cliff Pemble,$21 Million,$31 Thousand,684X
+Garmin,2019,Cliff Pemble,$20 Million,$30 Thousand,662X
+Garmin,2018,Cliff Pemble,$19 Million,$30 Thousand,640X
+GE Appliances,2024,Kevin Nolan,$8 Million,$34 Thousand,224X
+GE Appliances,2023,Kevin Nolan,$7 Million,$34 Thousand,218X
+GE Appliances,2022,Kevin Nolan,$7 Million,$34 Thousand,212X
+GE Appliances,2021,Kevin Nolan,$7 Million,$34 Thousand,203X
+GE Appliances,2020,Kevin Nolan,$7 Million,$34 Thousand,194X
+GE Appliances,2019,Kevin Nolan,$6 Million,$34 Thousand,188X
+GE Appliances,2018,Kevin Nolan,$6 Million,$34 Thousand,179X
+General Mills,2024,Jeff Harmening,$15 Million,$28 Thousand,536X
+General Mills,2023,Jeff Harmening,$14 Million,$27 Thousand,518X
+General Mills,2022,Jeff Harmening,$13 Million,$27 Thousand,501X
+General Mills,2021,Jeff Harmening,$13 Million,$26 Thousand,484X
+General Mills,2020,Jeff Harmening,$12 Million,$25 Thousand,468X
+General Mills,2019,Jeff Harmening,$11 Million,$25 Thousand,453X
+General Mills,2018,Jeff Harmening,$11 Million,$24 Thousand,438X
+Gilead Sciences,2024,Daniel O’Day,$39 Million,$42 Thousand,929X
+Gilead Sciences,2023,Daniel O’Day,$37 Million,$41 Thousand,898X
+Gilead Sciences,2022,Daniel O’Day,$35 Million,$40 Thousand,868X
+Gilead Sciences,2021,Daniel O’Day,$33 Million,$39 Thousand,840X
+Gilead Sciences,2020,Daniel O’Day,$31 Million,$38 Thousand,812X
+Gilead Sciences,2019,Daniel O’Day,$29 Million,$37 Thousand,785X
+Gilead Sciences,2018,Daniel O’Day,$27 Million,$36 Thousand,759X
+GlaxoSmithKline Consumer Healthcare,2024,Brian McNamara,$73 Million,$59 Thousand,1248X
+GlaxoSmithKline Consumer Healthcare,2023,Brian McNamara,$69 Million,$57 Thousand,1207X
+GlaxoSmithKline Consumer Healthcare,2022,Brian McNamara,$65 Million,$56 Thousand,1167X
+GlaxoSmithKline Consumer Healthcare,2021,Brian McNamara,$61 Million,$54 Thousand,1128X
+GlaxoSmithKline Consumer Healthcare,2020,Brian McNamara,$58 Million,$53 Thousand,1091X
+GlaxoSmithKline Consumer Healthcare,2019,Brian McNamara,$55 Million,$52 Thousand,1055X
+GlaxoSmithKline Consumer Healthcare,2018,Brian McNamara,$51 Million,$50 Thousand,1020X
+GM,2024,Marry Barra,$29 Million,$36 Thousand,806X
+GM,2023,Marry Barra,$28 Million,$36 Thousand,778X
+GM,2022,Marry Barra,$27 Million,$36 Thousand,750X
+GM,2021,Marry Barra,$26 Million,$36 Thousand,722X
+GM,2020,Marry Barra,$25 Million,$36 Thousand,694X
+GM,2019,Marry Barra,$24 Million,$36 Thousand,667X
+GM,2018,Marry Barra,$23 Million,$36 Thousand,639X
+Godrej Consumer Products,2024,Nadir Godrej,$31 Million,$38 Thousand,827X
+Godrej Consumer Products,2023,Nadir Godrej,$29 Million,$37 Thousand,799X
+Godrej Consumer Products,2022,Nadir Godrej,$28 Million,$36 Thousand,773X
+Godrej Consumer Products,2021,Nadir Godrej,$26 Million,$35 Thousand,748X
+Godrej Consumer Products,2020,Nadir Godrej,$25 Million,$34 Thousand,723X
+Godrej Consumer Products,2019,Nadir Godrej,$23 Million,$33 Thousand,699X
+Godrej Consumer Products,2018,Nadir Godrej,$22 Million,$32 Thousand,676X
+Google,2024,Sundar Pichai,$11 Million,$35 Thousand,306X
+Google,2023,Sundar Pichai,$9 Million,$35 Thousand,251X
+Google,2022,Sundar Pichai,$226 Million,$35 Thousand,6457X
+Google,2021,Sundar Pichai,$6 Million,$35 Thousand,180X
+Google,2020,Sundar Pichai,$281 Million,$35 Thousand,8017X
+Google,2019,Sundar Pichai,$281 Million,$35 Thousand,8017X
+Google,2018,Sundar Pichai,$2 Million,$35 Thousand,54X
+GoPro,2024,Nate camera,$15 Million,$30 Thousand,500X
+GoPro,2023,Nate camera,$14 Million,$29 Thousand,483X
+GoPro,2022,Nate camera,$13 Million,$29 Thousand,468X
+GoPro,2021,Nate camera,$13 Million,$28 Thousand,452X
+GoPro,2020,Nate camera,$12 Million,$27 Thousand,437X
+GoPro,2019,Nate camera,$11 Million,$27 Thousand,423X
+GoPro,2018,Nate camera,$11 Million,$26 Thousand,409X
+Grifols,2024,Wolff Luis,$48 Million,$46 Thousand,1043X
+Grifols,2023,Wolff Luis,$45 Million,$45 Thousand,1009X
+Grifols,2022,Wolff Luis,$43 Million,$44 Thousand,976X
+Grifols,2021,Wolff Luis,$40 Million,$43 Thousand,943X
+Grifols,2020,Wolff Luis,$38 Million,$42 Thousand,912X
+Grifols,2019,Wolff Luis,$36 Million,$41 Thousand,882X
+Grifols,2018,Wolff Luis,$34 Million,$40 Thousand,853X
+Grupo Bimbo,2024,Daniel Servitje,$25 Million,$33 Thousand,758X
+Grupo Bimbo,2023,Daniel Servitje,$24 Million,$32 Thousand,732X
+Grupo Bimbo,2022,Daniel Servitje,$22 Million,$31 Thousand,708X
+Grupo Bimbo,2021,Daniel Servitje,$21 Million,$31 Thousand,685X
+Grupo Bimbo,2020,Daniel Servitje,$20 Million,$30 Thousand,662X
+Grupo Bimbo,2019,Daniel Servitje,$19 Million,$29 Thousand,640X
+Grupo Bimbo,2018,Daniel Servitje,$18 Million,$28 Thousand,619X
+Gucci,2024,Stefano Cantino,$13 Million,$35 Thousand,371X
+Gucci,2023,Stefano Cantino,$13 Million,$35 Thousand,357X
+Gucci,2022,Stefano Cantino,$12 Million,$35 Thousand,343X
+Gucci,2021,Stefano Cantino,$12 Million,$35 Thousand,329X
+Gucci,2020,Stefano Cantino,$11 Million,$35 Thousand,314X
+Gucci,2019,Stefano Cantino,$11 Million,$35 Thousand,300X
+Gucci,2018,Stefano Cantino,$10 Million,$35 Thousand,286X
+Gymshark,2024,Steve Hewitt,$3 Million,$28 Thousand,117X
+Gymshark,2023,Steve Hewitt,$3 Million,$28 Thousand,114X
+Gymshark,2022,Steve Hewitt,$3 Million,$27 Thousand,110X
+Gymshark,2021,Steve Hewitt,$3 Million,$27 Thousand,107X
+Gymshark,2020,Steve Hewitt,$3 Million,$26 Thousand,104X
+Gymshark,2019,Steve Hewitt,$3 Million,$26 Thousand,101X
+Gymshark,2018,Steve Hewitt,$2 Million,$25 Thousand,98X
+H. Lundbeck,2024,Jan Nielsen,$57 Million,$50 Thousand,1140X
+H. Lundbeck,2023,Jan Nielsen,$54 Million,$49 Thousand,1102X
+H. Lundbeck,2022,Jan Nielsen,$51 Million,$48 Thousand,1066X
+H. Lundbeck,2021,Jan Nielsen,$48 Million,$46 Thousand,1031X
+H. Lundbeck,2020,Jan Nielsen,$45 Million,$45 Thousand,997X
+H. Lundbeck,2019,Jan Nielsen,$43 Million,$44 Thousand,964X
+H. Lundbeck,2018,Jan Nielsen,$40 Million,$43 Thousand,932X
+H&M,2024,Helena Helmersson,$9 Million,$38 Thousand,230X
+H&M,2023,Helena Helmersson,$8 Million,$37 Thousand,224X
+H&M,2022,Helena Helmersson,$8 Million,$36 Thousand,217X
+H&M,2021,Helena Helmersson,$8 Million,$36 Thousand,211X
+H&M,2020,Helena Helmersson,$7 Million,$35 Thousand,205X
+H&M,2019,Helena Helmersson,$7 Million,$34 Thousand,199X
+H&M,2018,Helena Helmersson,$6 Million,$34 Thousand,193X
+Haier,2024,Zhou Yunjie,$9 Million,$35 Thousand,246X
+Haier,2023,Zhou Yunjie,$8 Million,$35 Thousand,238X
+Haier,2022,Zhou Yunjie,$8 Million,$35 Thousand,229X
+Haier,2021,Zhou Yunjie,$8 Million,$35 Thousand,220X
+Haier,2020,Zhou Yunjie,$7 Million,$35 Thousand,212X
+Haier,2019,Zhou Yunjie,$7 Million,$35 Thousand,203X
+Haier,2018,Zhou Yunjie,$7 Million,$35 Thousand,194X
+Harman Kardon,2024,Michael Mauser,$7 Million,$35 Thousand,208X
+Harman Kardon,2023,Michael Mauser,$7 Million,$35 Thousand,199X
+Harman Kardon,2022,Michael Mauser,$7 Million,$35 Thousand,191X
+Harman Kardon,2021,Michael Mauser,$6 Million,$35 Thousand,182X
+Harman Kardon,2020,Michael Mauser,$6 Million,$35 Thousand,173X
+Harman Kardon,2019,Michael Mauser,$6 Million,$35 Thousand,165X
+Harman Kardon,2018,Michael Mauser,$5 Million,$35 Thousand,156X
+HBO Max,2024,Andy Forssell,$10 Million,$28 Thousand,357X
+HBO Max,2023,Andy Forssell,$9 Million,$27 Thousand,342X
+HBO Max,2022,Andy Forssell,$9 Million,$27 Thousand,328X
+HBO Max,2021,Andy Forssell,$8 Million,$26 Thousand,314X
+HBO Max,2020,Andy Forssell,$8 Million,$25 Thousand,301X
+HBO Max,2019,Andy Forssell,$7 Million,$25 Thousand,288X
+HBO Max,2018,Andy Forssell,$7 Million,$24 Thousand,276X
+Heineken N.V.,2024,Dolf van den Brink,$95 Million,$68 Thousand,1397X
+Heineken N.V.,2023,Dolf van den Brink,$90 Million,$66 Thousand,1351X
+Heineken N.V.,2022,Dolf van den Brink,$85 Million,$65 Thousand,1306X
+Heineken N.V.,2021,Dolf van den Brink,$80 Million,$63 Thousand,1263X
+Heineken N.V.,2020,Dolf van den Brink,$75 Million,$62 Thousand,1221X
+Heineken N.V.,2019,Dolf van den Brink,$71 Million,$60 Thousand,1181X
+Heineken N.V.,2018,Dolf van den Brink,$67 Million,$59 Thousand,1142X
+Henkel,2024,Carsten Knobel,$10 Million,$27 Thousand,370X
+Henkel,2023,Carsten Knobel,$9 Million,$26 Thousand,358X
+Henkel,2022,Carsten Knobel,$9 Million,$26 Thousand,346X
+Henkel,2021,Carsten Knobel,$8 Million,$25 Thousand,335X
+Henkel,2020,Carsten Knobel,$8 Million,$24 Thousand,324X
+Henkel,2019,Carsten Knobel,$7 Million,$24 Thousand,313X
+Henkel,2018,Carsten Knobel,$7 Million,$23 Thousand,303X
+Hermes,2024,Axel Dumas,$16 Million,$36 Thousand,444X
+Hermes,2023,Axel Dumas,$16 Million,$36 Thousand,431X
+Hermes,2022,Axel Dumas,$15 Million,$36 Thousand,417X
+Hermes,2021,Axel Dumas,$15 Million,$36 Thousand,403X
+Hermes,2020,Axel Dumas,$14 Million,$36 Thousand,389X
+Hermes,2019,Axel Dumas,$14 Million,$36 Thousand,375X
+Hermes,2018,Axel Dumas,$13 Million,$36 Thousand,361X
+Hitachi,2024,Toshiaki Higashihara,$99 Million,$62 Thousand,1610X
+Hitachi,2023,Toshiaki Higashihara,$93 Million,$60 Thousand,1557X
+Hitachi,2022,Toshiaki Higashihara,$88 Million,$59 Thousand,1505X
+Hitachi,2021,Toshiaki Higashihara,$83 Million,$57 Thousand,1455X
+Hitachi,2020,Toshiaki Higashihara,$78 Million,$56 Thousand,1407X
+Hitachi,2019,Toshiaki Higashihara,$74 Million,$54 Thousand,1361X
+Hitachi,2018,Toshiaki Higashihara,$70 Million,$53 Thousand,1316X
+Honda,2024,Toshihiro Mibe,$4 Million,$35 Thousand,101X
+Honda,2023,Toshihiro Mibe,$3 Million,$35 Thousand,96X
+Honda,2022,Toshihiro Mibe,$3 Million,$35 Thousand,90X
+Honda,2021,Toshihiro Mibe,$3 Million,$35 Thousand,87X
+Honda,2020,Toshihiro Mibe,$3 Million,$35 Thousand,84X
+Honda,2019,Toshihiro Mibe,$3 Million,$35 Thousand,81X
+Honda,2018,Toshihiro Mibe,$3 Million,$35 Thousand,75X
+Hormel Foods,2024,Jim Snee,$25 Million,$33 Thousand,758X
+Hormel Foods,2023,Jim Snee,$24 Million,$32 Thousand,732X
+Hormel Foods,2022,Jim Snee,$22 Million,$31 Thousand,708X
+Hormel Foods,2021,Jim Snee,$21 Million,$31 Thousand,685X
+Hormel Foods,2020,Jim Snee,$20 Million,$30 Thousand,662X
+Hormel Foods,2019,Jim Snee,$19 Million,$29 Thousand,640X
+Hormel Foods,2018,Jim Snee,$18 Million,$28 Thousand,619X
+HP Inc.,2024,Enrique Lores,$87 Million,$57 Thousand,1526X
+HP Inc.,2023,Enrique Lores,$82 Million,$56 Thousand,1476X
+HP Inc.,2022,Enrique Lores,$77 Million,$54 Thousand,1427X
+HP Inc.,2021,Enrique Lores,$73 Million,$53 Thousand,1380X
+HP Inc.,2020,Enrique Lores,$69 Million,$52 Thousand,1334X
+HP Inc.,2019,Enrique Lores,$65 Million,$50 Thousand,1290X
+HP Inc.,2018,Enrique Lores,$61 Million,$49 Thousand,1248X
+Huawei,2024,Ren Zhengfei,$111 Million,$66 Thousand,1682X
+Huawei,2023,Ren Zhengfei,$105 Million,$64 Thousand,1626X
+Huawei,2022,Ren Zhengfei,$99 Million,$63 Thousand,1573X
+Huawei,2021,Ren Zhengfei,$93 Million,$61 Thousand,1521X
+Huawei,2020,Ren Zhengfei,$88 Million,$60 Thousand,1470X
+Huawei,2019,Ren Zhengfei,$83 Million,$58 Thousand,1422X
+Huawei,2018,Ren Zhengfei,$78 Million,$57 Thousand,1375X
+Hulu,2024,Kelly Campbell,$82 Million,$64 Thousand,1281X
+Hulu,2023,Kelly Campbell,$77 Million,$62 Thousand,1227X
+Hulu,2022,Kelly Campbell,$72 Million,$61 Thousand,1176X
+Hulu,2021,Kelly Campbell,$67 Million,$59 Thousand,1126X
+Hulu,2020,Kelly Campbell,$63 Million,$58 Thousand,1079X
+Hulu,2019,Kelly Campbell,$58 Million,$57 Thousand,1033X
+Hulu,2018,Kelly Campbell,$55 Million,$55 Thousand,990X
+IBM,2024,Arvind Krishna,$63 Million,$48 Thousand,1313X
+IBM,2023,Arvind Krishna,$59 Million,$47 Thousand,1269X
+IBM,2022,Arvind Krishna,$56 Million,$46 Thousand,1227X
+IBM,2021,Arvind Krishna,$53 Million,$45 Thousand,1187X
+IBM,2020,Arvind Krishna,$50 Million,$43 Thousand,1148X
+IBM,2019,Arvind Krishna,$47 Million,$42 Thousand,1110X
+IBM,2018,Arvind Krishna,$44 Million,$41 Thousand,1073X
+iHeartMedia,2024,Bob Pittman,$66 Million,$56 Thousand,1179X
+iHeartMedia,2023,Bob Pittman,$62 Million,$55 Thousand,1129X
+iHeartMedia,2022,Bob Pittman,$58 Million,$53 Thousand,1082X
+iHeartMedia,2021,Bob Pittman,$54 Million,$52 Thousand,1036X
+iHeartMedia,2020,Bob Pittman,$50 Million,$51 Thousand,992X
+iHeartMedia,2019,Bob Pittman,$47 Million,$49 Thousand,951X
+iHeartMedia,2018,Bob Pittman,$44 Million,$48 Thousand,911X
+IMDB TV,2024,Ashwin Navin,$34 Million,$40 Thousand,850X
+IMDB TV,2023,Ashwin Navin,$32 Million,$39 Thousand,814X
+IMDB TV,2022,Ashwin Navin,$30 Million,$38 Thousand,780X
+IMDB TV,2021,Ashwin Navin,$28 Million,$37 Thousand,747X
+IMDB TV,2020,Ashwin Navin,$26 Million,$36 Thousand,716X
+IMDB TV,2019,Ashwin Navin,$24 Million,$35 Thousand,686X
+IMDB TV,2018,Ashwin Navin,$23 Million,$34 Thousand,657X
+Inditex,2024,Óscar García Maceiras,$5 Million,$31 Thousand,162X
+Inditex,2023,Óscar García Maceiras,$5 Million,$31 Thousand,158X
+Inditex,2022,Óscar García Maceiras,$5 Million,$30 Thousand,153X
+Inditex,2021,Óscar García Maceiras,$4 Million,$30 Thousand,149X
+Inditex,2020,Óscar García Maceiras,$4 Million,$29 Thousand,145X
+Inditex,2019,Óscar García Maceiras,$4 Million,$28 Thousand,141X
+Inditex,2018,Óscar García Maceiras,$4 Million,$28 Thousand,137X
+Infineon Technologies,2024,Jochen Hanebeck,$75 Million,$53 Thousand,1429X
+Infineon Technologies,2023,Jochen Hanebeck,$71 Million,$51 Thousand,1381X
+Infineon Technologies,2022,Jochen Hanebeck,$67 Million,$50 Thousand,1336X
+Infineon Technologies,2021,Jochen Hanebeck,$63 Million,$49 Thousand,1292X
+Infineon Technologies,2020,Jochen Hanebeck,$59 Million,$48 Thousand,1249X
+Infineon Technologies,2019,Jochen Hanebeck,$56 Million,$46 Thousand,1208X
+Infineon Technologies,2018,Jochen Hanebeck,$53 Million,$45 Thousand,1168X
+Ingredion Incorporated,2024,James Zallie,$75 Million,$58 Thousand,1293X
+Ingredion Incorporated,2023,James Zallie,$71 Million,$57 Thousand,1250X
+Ingredion Incorporated,2022,James Zallie,$67 Million,$55 Thousand,1209X
+Ingredion Incorporated,2021,James Zallie,$63 Million,$54 Thousand,1169X
+Ingredion Incorporated,2020,James Zallie,$59 Million,$53 Thousand,1131X
+Ingredion Incorporated,2019,James Zallie,$56 Million,$51 Thousand,1093X
+Ingredion Incorporated,2018,James Zallie,$53 Million,$50 Thousand,1057X
+Intel,2024,Pat Gelsinger,$51 Million,$44 Thousand,1172X
+Intel,2023,Pat Gelsinger,$48 Million,$42 Thousand,1134X
+Intel,2022,Pat Gelsinger,$45 Million,$41 Thousand,1096X
+Intel,2021,Pat Gelsinger,$43 Million,$40 Thousand,1060X
+Intel,2020,Pat Gelsinger,$40 Million,$39 Thousand,1025X
+Intel,2019,Pat Gelsinger,$38 Million,$38 Thousand,991X
+Intel,2018,Pat Gelsinger,$36 Million,$38 Thousand,958X
+Ipsen,2024,David Meek,$21 Million,$34 Thousand,618X
+Ipsen,2023,David Meek,$20 Million,$33 Thousand,597X
+Ipsen,2022,David Meek,$19 Million,$32 Thousand,578X
+Ipsen,2021,David Meek,$18 Million,$32 Thousand,558X
+Ipsen,2020,David Meek,$17 Million,$31 Thousand,540X
+Ipsen,2019,David Meek,$16 Million,$30 Thousand,522X
+Ipsen,2018,David Meek,$15 Million,$29 Thousand,505X
+Jaguar,2024,Adrian Mardell,$9 Million,$36 Thousand,238X
+Jaguar,2023,Adrian Mardell,$8 Million,$36 Thousand,224X
+Jaguar,2022,Adrian Mardell,$8 Million,$36 Thousand,210X
+Jaguar,2021,Adrian Mardell,$7 Million,$36 Thousand,196X
+Jaguar,2020,Adrian Mardell,$7 Million,$36 Thousand,182X
+Jaguar,2019,Adrian Mardell,$6 Million,$36 Thousand,168X
+Jaguar,2018,Adrian Mardell,$6 Million,$36 Thousand,154X
+Jazz Pharmaceuticals,2024,Bruce Cozadd,$66 Million,$54 Thousand,1222X
+Jazz Pharmaceuticals,2023,Bruce Cozadd,$62 Million,$53 Thousand,1182X
+Jazz Pharmaceuticals,2022,Bruce Cozadd,$59 Million,$51 Thousand,1143X
+Jazz Pharmaceuticals,2021,Bruce Cozadd,$55 Million,$50 Thousand,1105X
+Jazz Pharmaceuticals,2020,Bruce Cozadd,$52 Million,$49 Thousand,1069X
+Jazz Pharmaceuticals,2019,Bruce Cozadd,$49 Million,$48 Thousand,1033X
+Jazz Pharmaceuticals,2018,Bruce Cozadd,$47 Million,$47 Thousand,999X
+JBL,2024,Dinesh C. Paliwal,$7 Million,$34 Thousand,191X
+JBL,2023,Dinesh C. Paliwal,$6 Million,$34 Thousand,185X
+JBL,2022,Dinesh C. Paliwal,$6 Million,$34 Thousand,179X
+JBL,2021,Dinesh C. Paliwal,$6 Million,$34 Thousand,174X
+JBL,2020,Dinesh C. Paliwal,$6 Million,$34 Thousand,168X
+JBL,2019,Dinesh C. Paliwal,$6 Million,$34 Thousand,162X
+JBL,2018,Dinesh C. Paliwal,$5 Million,$34 Thousand,156X
+JBS S.A.,2024,Gilberto Tomazoni,$65 Million,$53 Thousand,1226X
+JBS S.A.,2023,Gilberto Tomazoni,$61 Million,$52 Thousand,1186X
+JBS S.A.,2022,Gilberto Tomazoni,$58 Million,$50 Thousand,1147X
+JBS S.A.,2021,Gilberto Tomazoni,$55 Million,$49 Thousand,1109X
+JBS S.A.,2020,Gilberto Tomazoni,$51 Million,$48 Thousand,1072X
+JBS S.A.,2019,Gilberto Tomazoni,$49 Million,$47 Thousand,1037X
+JBS S.A.,2018,Gilberto Tomazoni,$46 Million,$46 Thousand,1003X
+Johnson & Johnson (Consumer),2024,Joaquin Duato,$31 Million,$38 Thousand,827X
+Johnson & Johnson (Consumer),2023,Joaquin Duato,$29 Million,$37 Thousand,799X
+Johnson & Johnson (Consumer),2022,Joaquin Duato,$28 Million,$36 Thousand,773X
+Johnson & Johnson (Consumer),2021,Joaquin Duato,$26 Million,$35 Thousand,748X
+Johnson & Johnson (Consumer),2020,Joaquin Duato,$25 Million,$34 Thousand,723X
+Johnson & Johnson (Consumer),2019,Joaquin Duato,$23 Million,$33 Thousand,699X
+Johnson & Johnson (Consumer),2018,Joaquin Duato,$22 Million,$32 Thousand,676X
+Kao Corporation,2024,Hideto Yoshida,$52 Million,$48 Thousand,1083X
+Kao Corporation,2023,Hideto Yoshida,$49 Million,$47 Thousand,1048X
+Kao Corporation,2022,Hideto Yoshida,$46 Million,$46 Thousand,1013X
+Kao Corporation,2021,Hideto Yoshida,$44 Million,$45 Thousand,980X
+Kao Corporation,2020,Hideto Yoshida,$41 Million,$43 Thousand,947X
+Kao Corporation,2019,Hideto Yoshida,$39 Million,$42 Thousand,916X
+Kao Corporation,2018,Hideto Yoshida,$37 Million,$41 Thousand,886X
+Kellogg Company,2024,Steve Cahillane,$25 Million,$33 Thousand,758X
+Kellogg Company,2023,Steve Cahillane,$24 Million,$32 Thousand,732X
+Kellogg Company,2022,Steve Cahillane,$22 Million,$31 Thousand,708X
+Kellogg Company,2021,Steve Cahillane,$21 Million,$31 Thousand,685X
+Kellogg Company,2020,Steve Cahillane,$20 Million,$30 Thousand,662X
+Kellogg Company,2019,Steve Cahillane,$19 Million,$29 Thousand,640X
+Kellogg Company,2018,Steve Cahillane,$18 Million,$28 Thousand,619X
+Kering,2024,François-Henri Pinault,$18 Million,$54 Thousand,329X
+Kering,2023,François-Henri Pinault,$17 Million,$53 Thousand,320X
+Kering,2022,François-Henri Pinault,$16 Million,$52 Thousand,310X
+Kering,2021,François-Henri Pinault,$15 Million,$51 Thousand,302X
+Kering,2020,François-Henri Pinault,$15 Million,$50 Thousand,293X
+Kering,2019,François-Henri Pinault,$14 Million,$49 Thousand,285X
+Kering,2018,François-Henri Pinault,$13 Million,$48 Thousand,277X
+Keurig Dr Pepper,2024,Bob Gamgort,$95 Million,$68 Thousand,1397X
+Keurig Dr Pepper,2023,Bob Gamgort,$90 Million,$66 Thousand,1351X
+Keurig Dr Pepper,2022,Bob Gamgort,$85 Million,$65 Thousand,1306X
+Keurig Dr Pepper,2021,Bob Gamgort,$80 Million,$63 Thousand,1263X
+Keurig Dr Pepper,2020,Bob Gamgort,$75 Million,$62 Thousand,1221X
+Keurig Dr Pepper,2019,Bob Gamgort,$71 Million,$60 Thousand,1181X
+Keurig Dr Pepper,2018,Bob Gamgort,$67 Million,$59 Thousand,1142X
+Kimberly-Clark,2024,Michael Hsu,$45 Million,$45 Thousand,1011X
+Kimberly-Clark,2023,Michael Hsu,$42 Million,$43 Thousand,978X
+Kimberly-Clark,2022,Michael Hsu,$40 Million,$42 Thousand,946X
+Kimberly-Clark,2021,Michael Hsu,$38 Million,$41 Thousand,914X
+Kimberly-Clark,2020,Michael Hsu,$36 Million,$40 Thousand,884X
+Kimberly-Clark,2019,Michael Hsu,$34 Million,$39 Thousand,855X
+Kimberly-Clark,2018,Michael Hsu,$32 Million,$38 Thousand,827X
+Kirin Holdings,2024,Yoshinori Isozaki,$75 Million,$58 Thousand,1293X
+Kirin Holdings,2023,Yoshinori Isozaki,$71 Million,$57 Thousand,1250X
+Kirin Holdings,2022,Yoshinori Isozaki,$67 Million,$55 Thousand,1209X
+Kirin Holdings,2021,Yoshinori Isozaki,$63 Million,$54 Thousand,1169X
+Kirin Holdings,2020,Yoshinori Isozaki,$59 Million,$53 Thousand,1131X
+Kirin Holdings,2019,Yoshinori Isozaki,$56 Million,$51 Thousand,1093X
+Kirin Holdings,2018,Yoshinori Isozaki,$53 Million,$50 Thousand,1057X
+KitchenAid,2024,Marc Bitzer,$7 Million,$33 Thousand,197X
+KitchenAid,2023,Marc Bitzer,$6 Million,$33 Thousand,191X
+KitchenAid,2022,Marc Bitzer,$6 Million,$33 Thousand,182X
+KitchenAid,2021,Marc Bitzer,$6 Million,$33 Thousand,176X
+KitchenAid,2020,Marc Bitzer,$6 Million,$33 Thousand,167X
+KitchenAid,2019,Marc Bitzer,$5 Million,$33 Thousand,161X
+KitchenAid,2018,Marc Bitzer,$5 Million,$33 Thousand,152X
+Kraft Heinz,2024,Miguel Patricio,$75 Million,$58 Thousand,1293X
+Kraft Heinz,2023,Miguel Patricio,$71 Million,$57 Thousand,1250X
+Kraft Heinz,2022,Miguel Patricio,$67 Million,$55 Thousand,1209X
+Kraft Heinz,2021,Miguel Patricio,$63 Million,$54 Thousand,1169X
+Kraft Heinz,2020,Miguel Patricio,$59 Million,$53 Thousand,1131X
+Kraft Heinz,2019,Miguel Patricio,$56 Million,$51 Thousand,1093X
+Kraft Heinz,2018,Miguel Patricio,$53 Million,$50 Thousand,1057X
+L’Oréal,2024,Nicolas Hieronimus,$38 Million,$41 Thousand,927X
+L’Oréal,2023,Nicolas Hieronimus,$36 Million,$40 Thousand,896X
+L’Oréal,2022,Nicolas Hieronimus,$34 Million,$39 Thousand,867X
+L’Oréal,2021,Nicolas Hieronimus,$32 Million,$38 Thousand,838X
+L’Oréal,2020,Nicolas Hieronimus,$30 Million,$37 Thousand,810X
+L’Oréal,2019,Nicolas Hieronimus,$28 Million,$36 Thousand,784X
+L’Oréal,2018,Nicolas Hieronimus,$27 Million,$35 Thousand,758X
+Lam Research,2024,Tim Archer,$63 Million,$48 Thousand,1313X
+Lam Research,2023,Tim Archer,$59 Million,$47 Thousand,1269X
+Lam Research,2022,Tim Archer,$56 Million,$46 Thousand,1227X
+Lam Research,2021,Tim Archer,$53 Million,$45 Thousand,1187X
+Lam Research,2020,Tim Archer,$50 Million,$43 Thousand,1148X
+Lam Research,2019,Tim Archer,$47 Million,$42 Thousand,1110X
+Lam Research,2018,Tim Archer,$44 Million,$41 Thousand,1073X
+Lamb Weston,2024,Tom Werner,$105 Million,$73 Thousand,1438X
+Lamb Weston,2023,Tom Werner,$99 Million,$71 Thousand,1391X
+Lamb Weston,2022,Tom Werner,$93 Million,$69 Thousand,1345X
+Lamb Weston,2021,Tom Werner,$88 Million,$68 Thousand,1301X
+Lamb Weston,2020,Tom Werner,$83 Million,$66 Thousand,1258X
+Lamb Weston,2019,Tom Werner,$78 Million,$65 Thousand,1216X
+Lamb Weston,2018,Tom Werner,$74 Million,$63 Thousand,1176X
+Lamborghini,2024,Stephan Winkelmann,$11 Million,$37 Thousand,285X
+Lamborghini,2023,Stephan Winkelmann,$10 Million,$37 Thousand,272X
+Lamborghini,2022,Stephan Winkelmann,$10 Million,$37 Thousand,258X
+Lamborghini,2021,Stephan Winkelmann,$9 Million,$37 Thousand,245X
+Lamborghini,2020,Stephan Winkelmann,$9 Million,$37 Thousand,231X
+Lamborghini,2019,Stephan Winkelmann,$8 Million,$37 Thousand,217X
+Lamborghini,2018,Stephan Winkelmann,$8 Million,$37 Thousand,204X
+Lenovo,2024,Yang Yuanqing,$19 Million,$50 Thousand,388X
+Lenovo,2023,Yang Yuanqing,$19 Million,$50 Thousand,380X
+Lenovo,2022,Yang Yuanqing,$19 Million,$50 Thousand,370X
+Lenovo,2021,Yang Yuanqing,$18 Million,$50 Thousand,360X
+Lenovo,2020,Yang Yuanqing,$18 Million,$50 Thousand,350X
+Lenovo,2019,Yang Yuanqing,$17 Million,$50 Thousand,340X
+Lenovo,2018,Yang Yuanqing,$17 Million,$50 Thousand,330X
+Levi Strauss & Co.,2024,Chip Bergh,$2 Million,$25 Thousand,60X
+Levi Strauss & Co.,2023,Chip Bergh,$1 Million,$25 Thousand,58X
+Levi Strauss & Co.,2022,Chip Bergh,$1 Million,$24 Thousand,57X
+Levi Strauss & Co.,2021,Chip Bergh,$1 Million,$24 Thousand,55X
+Levi Strauss & Co.,2020,Chip Bergh,$1 Million,$23 Thousand,53X
+Levi Strauss & Co.,2019,Chip Bergh,$1 Million,$23 Thousand,52X
+Levi Strauss & Co.,2018,Chip Bergh,$1 Million,$22 Thousand,50X
+Lexus,2024,Kajo Sato,$6 Million,$35 Thousand,171X
+Lexus,2023,Kajo Sato,$6 Million,$35 Thousand,166X
+Lexus,2022,Kajo Sato,$6 Million,$35 Thousand,160X
+Lexus,2021,Kajo Sato,$5 Million,$35 Thousand,154X
+Lexus,2020,Kajo Sato,$5 Million,$35 Thousand,149X
+Lexus,2019,Kajo Sato,$5 Million,$35 Thousand,143X
+Lexus,2018,Kajo Sato,$5 Million,$35 Thousand,137X
+LG Electronics,2024,Kwon Bong-seok,$75 Million,$53 Thousand,1429X
+LG Electronics,2023,Kwon Bong-seok,$71 Million,$51 Thousand,1381X
+LG Electronics,2022,Kwon Bong-seok,$67 Million,$50 Thousand,1336X
+LG Electronics,2021,Kwon Bong-seok,$63 Million,$49 Thousand,1292X
+LG Electronics,2020,Kwon Bong-seok,$59 Million,$48 Thousand,1249X
+LG Electronics,2019,Kwon Bong-seok,$56 Million,$46 Thousand,1208X
+LG Electronics,2018,Kwon Bong-seok,$53 Million,$45 Thousand,1168X
+LG Household & Health Care,2024,Suk-Woo Nam,$45 Million,$45 Thousand,1011X
+LG Household & Health Care,2023,Suk-Woo Nam,$42 Million,$43 Thousand,978X
+LG Household & Health Care,2022,Suk-Woo Nam,$40 Million,$42 Thousand,946X
+LG Household & Health Care,2021,Suk-Woo Nam,$38 Million,$41 Thousand,914X
+LG Household & Health Care,2020,Suk-Woo Nam,$36 Million,$40 Thousand,884X
+LG Household & Health Care,2019,Suk-Woo Nam,$34 Million,$39 Thousand,855X
+LG Household & Health Care,2018,Suk-Woo Nam,$32 Million,$38 Thousand,827X
+Logitech,2024,Bracken Darrell,$111 Million,$66 Thousand,1682X
+Logitech,2023,Bracken Darrell,$105 Million,$64 Thousand,1626X
+Logitech,2022,Bracken Darrell,$99 Million,$63 Thousand,1573X
+Logitech,2021,Bracken Darrell,$93 Million,$61 Thousand,1521X
+Logitech,2020,Bracken Darrell,$88 Million,$60 Thousand,1470X
+Logitech,2019,Bracken Darrell,$83 Million,$58 Thousand,1422X
+Logitech,2018,Bracken Darrell,$78 Million,$57 Thousand,1375X
+Lonza,2024,Pierre-Alain Ruffieux,$93 Million,$66 Thousand,1409X
+Lonza,2023,Pierre-Alain Ruffieux,$88 Million,$64 Thousand,1363X
+Lonza,2022,Pierre-Alain Ruffieux,$83 Million,$63 Thousand,1318X
+Lonza,2021,Pierre-Alain Ruffieux,$78 Million,$61 Thousand,1274X
+Lonza,2020,Pierre-Alain Ruffieux,$74 Million,$60 Thousand,1232X
+Lonza,2019,Pierre-Alain Ruffieux,$70 Million,$58 Thousand,1191X
+Lonza,2018,Pierre-Alain Ruffieux,$66 Million,$57 Thousand,1152X
+Lucid,2024,Marc Winterhof,$5 Million,$35 Thousand,129X
+Lucid,2023,Marc Winterhof,$4 Million,$35 Thousand,121X
+Lucid,2022,Marc Winterhof,$4 Million,$35 Thousand,112X
+Lucid,2021,Marc Winterhof,$4 Million,$35 Thousand,103X
+Lucid,2020,Marc Winterhof,$3 Million,$35 Thousand,95X
+Lucid,2019,Marc Winterhof,$3 Million,$35 Thousand,86X
+Lucid,2018,Marc Winterhof,$3 Million,$35 Thousand,78X
+LVMH (Perfumes & Cosmetics),2024,Bernard Arnault,$59 Million,$52 Thousand,1146X
+LVMH (Perfumes & Cosmetics),2023,Bernard Arnault,$56 Million,$50 Thousand,1108X
+LVMH (Perfumes & Cosmetics),2022,Bernard Arnault,$53 Million,$49 Thousand,1071X
+LVMH (Perfumes & Cosmetics),2021,Bernard Arnault,$50 Million,$48 Thousand,1036X
+LVMH (Perfumes & Cosmetics),2020,Bernard Arnault,$47 Million,$47 Thousand,1002X
+LVMH (Perfumes & Cosmetics),2019,Bernard Arnault,$44 Million,$46 Thousand,969X
+LVMH (Perfumes & Cosmetics),2018,Bernard Arnault,$42 Million,$44 Thousand,937X
+Lululemon,2024,Calvin McDonald,$2 Million,$25 Thousand,60X
+Lululemon,2023,Calvin McDonald,$1 Million,$25 Thousand,58X
+Lululemon,2022,Calvin McDonald,$1 Million,$24 Thousand,57X
+Lululemon,2021,Calvin McDonald,$1 Million,$24 Thousand,55X
+Lululemon,2020,Calvin McDonald,$1 Million,$23 Thousand,53X
+Lululemon,2019,Calvin McDonald,$1 Million,$23 Thousand,52X
+Lululemon,2018,Calvin McDonald,$1 Million,$22 Thousand,50X
+Lupin,2024,Vinita Gupta,$84 Million,$62 Thousand,1355X
+Lupin,2023,Vinita Gupta,$79 Million,$60 Thousand,1310X
+Lupin,2022,Vinita Gupta,$75 Million,$59 Thousand,1267X
+Lupin,2021,Vinita Gupta,$71 Million,$58 Thousand,1225X
+Lupin,2020,Vinita Gupta,$67 Million,$56 Thousand,1185X
+Lupin,2019,Vinita Gupta,$63 Million,$55 Thousand,1145X
+Lupin,2018,Vinita Gupta,$59 Million,$53 Thousand,1108X
+Mallinckrodt,2024,Mark Trudeau,$75 Million,$58 Thousand,1293X
+Mallinckrodt,2023,Mark Trudeau,$71 Million,$57 Thousand,1250X
+Mallinckrodt,2022,Mark Trudeau,$67 Million,$55 Thousand,1209X
+Mallinckrodt,2021,Mark Trudeau,$63 Million,$54 Thousand,1169X
+Mallinckrodt,2020,Mark Trudeau,$59 Million,$53 Thousand,1131X
+Mallinckrodt,2019,Mark Trudeau,$56 Million,$51 Thousand,1093X
+Mallinckrodt,2018,Mark Trudeau,$53 Million,$50 Thousand,1057X
+Mandom Corporation,2024,Tsutomu Sugimura,$24 Million,$34 Thousand,706X
+Mandom Corporation,2023,Tsutomu Sugimura,$23 Million,$33 Thousand,683X
+Mandom Corporation,2022,Tsutomu Sugimura,$21 Million,$32 Thousand,660X
+Mandom Corporation,2021,Tsutomu Sugimura,$20 Million,$32 Thousand,638X
+Mandom Corporation,2020,Tsutomu Sugimura,$19 Million,$31 Thousand,617X
+Mandom Corporation,2019,Tsutomu Sugimura,$18 Million,$30 Thousand,597X
+Mandom Corporation,2018,Tsutomu Sugimura,$17 Million,$29 Thousand,577X
+"Mars, Incorporated",2024,Grant Reid,$35 Million,$38 Thousand,921X
+"Mars, Incorporated",2023,Grant Reid,$33 Million,$37 Thousand,891X
+"Mars, Incorporated",2022,Grant Reid,$31 Million,$36 Thousand,861X
+"Mars, Incorporated",2021,Grant Reid,$29 Million,$35 Thousand,833X
+"Mars, Incorporated",2020,Grant Reid,$28 Million,$34 Thousand,805X
+"Mars, Incorporated",2019,Grant Reid,$26 Million,$34 Thousand,779X
+"Mars, Incorporated",2018,Grant Reid,$25 Million,$33 Thousand,753X
+Marshall,2024,eremy de Maillard,$6 Million,$34 Thousand,171X
+Marshall,2023,eremy de Maillard,$6 Million,$34 Thousand,162X
+Marshall,2022,eremy de Maillard,$5 Million,$34 Thousand,153X
+Marshall,2021,eremy de Maillard,$5 Million,$34 Thousand,145X
+Marshall,2020,eremy de Maillard,$5 Million,$34 Thousand,136X
+Marshall,2019,eremy de Maillard,$4 Million,$34 Thousand,127X
+Marshall,2018,eremy de Maillard,$4 Million,$34 Thousand,118X
+Marvell Technology,2024,Matt Murphy,$51 Million,$44 Thousand,1172X
+Marvell Technology,2023,Matt Murphy,$48 Million,$42 Thousand,1134X
+Marvell Technology,2022,Matt Murphy,$45 Million,$41 Thousand,1096X
+Marvell Technology,2021,Matt Murphy,$43 Million,$40 Thousand,1060X
+Marvell Technology,2020,Matt Murphy,$40 Million,$39 Thousand,1025X
+Marvell Technology,2019,Matt Murphy,$38 Million,$38 Thousand,991X
+Marvell Technology,2018,Matt Murphy,$36 Million,$38 Thousand,958X
+Mary Kay,2024,David Holl,$59 Million,$52 Thousand,1146X
+Mary Kay,2023,David Holl,$56 Million,$50 Thousand,1108X
+Mary Kay,2022,David Holl,$53 Million,$49 Thousand,1071X
+Mary Kay,2021,David Holl,$50 Million,$48 Thousand,1036X
+Mary Kay,2020,David Holl,$47 Million,$47 Thousand,1002X
+Mary Kay,2019,David Holl,$44 Million,$46 Thousand,969X
+Mary Kay,2018,David Holl,$42 Million,$44 Thousand,937X
+Maserati,2024,Davide Grasso,$10 Million,$36 Thousand,265X
+Maserati,2023,Davide Grasso,$9 Million,$36 Thousand,251X
+Maserati,2022,Davide Grasso,$9 Million,$36 Thousand,237X
+Maserati,2021,Davide Grasso,$8 Million,$36 Thousand,223X
+Maserati,2020,Davide Grasso,$8 Million,$36 Thousand,209X
+Maserati,2019,Davide Grasso,$7 Million,$36 Thousand,195X
+Maserati,2018,Davide Grasso,$7 Million,$36 Thousand,181X
+Maxim Integrated,2024,Tunc Doluca,$75 Million,$53 Thousand,1429X
+Maxim Integrated,2023,Tunc Doluca,$71 Million,$51 Thousand,1381X
+Maxim Integrated,2022,Tunc Doluca,$67 Million,$50 Thousand,1336X
+Maxim Integrated,2021,Tunc Doluca,$63 Million,$49 Thousand,1292X
+Maxim Integrated,2020,Tunc Doluca,$59 Million,$48 Thousand,1249X
+Maxim Integrated,2019,Tunc Doluca,$56 Million,$46 Thousand,1208X
+Maxim Integrated,2018,Tunc Doluca,$53 Million,$45 Thousand,1168X
+Maytag,2024,Marc Bitzer,$6 Million,$33 Thousand,186X
+Maytag,2023,Marc Bitzer,$6 Million,$33 Thousand,180X
+Maytag,2022,Marc Bitzer,$6 Million,$33 Thousand,174X
+Maytag,2021,Marc Bitzer,$6 Million,$33 Thousand,168X
+Maytag,2020,Marc Bitzer,$5 Million,$33 Thousand,162X
+Maytag,2019,Marc Bitzer,$5 Million,$33 Thousand,156X
+Maytag,2018,Marc Bitzer,$5 Million,$33 Thousand,150X
+McCormick & Company,2024,Lawrence Kurzius,$15 Million,$28 Thousand,536X
+McCormick & Company,2023,Lawrence Kurzius,$14 Million,$27 Thousand,518X
+McCormick & Company,2022,Lawrence Kurzius,$13 Million,$27 Thousand,501X
+McCormick & Company,2021,Lawrence Kurzius,$13 Million,$26 Thousand,484X
+McCormick & Company,2020,Lawrence Kurzius,$12 Million,$25 Thousand,468X
+McCormick & Company,2019,Lawrence Kurzius,$11 Million,$25 Thousand,453X
+McCormick & Company,2018,Lawrence Kurzius,$11 Million,$24 Thousand,438X
+Mediaset Infinity,2024,Pier Silvio Berlusconi,$58 Million,$52 Thousand,1115X
+Mediaset Infinity,2023,Pier Silvio Berlusconi,$54 Million,$51 Thousand,1069X
+Mediaset Infinity,2022,Pier Silvio Berlusconi,$51 Million,$49 Thousand,1024X
+Mediaset Infinity,2021,Pier Silvio Berlusconi,$47 Million,$48 Thousand,981X
+Mediaset Infinity,2020,Pier Silvio Berlusconi,$44 Million,$47 Thousand,939X
+Mediaset Infinity,2019,Pier Silvio Berlusconi,$41 Million,$46 Thousand,900X
+Mediaset Infinity,2018,Pier Silvio Berlusconi,$39 Million,$45 Thousand,862X
+Meiji Holdings,2024,Tetsuro Izumi,$45 Million,$43 Thousand,1047X
+Meiji Holdings,2023,Tetsuro Izumi,$42 Million,$42 Thousand,1012X
+Meiji Holdings,2022,Tetsuro Izumi,$40 Million,$41 Thousand,979X
+Meiji Holdings,2021,Tetsuro Izumi,$38 Million,$40 Thousand,946X
+Meiji Holdings,2020,Tetsuro Izumi,$36 Million,$39 Thousand,915X
+Meiji Holdings,2019,Tetsuro Izumi,$34 Million,$38 Thousand,885X
+Meiji Holdings,2018,Tetsuro Izumi,$32 Million,$37 Thousand,855X
+Mercedez,2024,Ola Kaellenius,$11 Million,$36 Thousand,307X
+Mercedez,2023,Ola Kaellenius,$11 Million,$36 Thousand,293X
+Mercedez,2022,Ola Kaellenius,$10 Million,$36 Thousand,279X
+Mercedez,2021,Ola Kaellenius,$10 Million,$36 Thousand,265X
+Mercedez,2020,Ola Kaellenius,$9 Million,$36 Thousand,251X
+Mercedez,2019,Ola Kaellenius,$9 Million,$36 Thousand,237X
+Mercedez,2018,Ola Kaellenius,$8 Million,$36 Thousand,223X
+Merck & Co.,2024,Robert Davis,$48 Million,$46 Thousand,1043X
+Merck & Co.,2023,Robert Davis,$45 Million,$45 Thousand,1009X
+Merck & Co.,2022,Robert Davis,$43 Million,$44 Thousand,976X
+Merck & Co.,2021,Robert Davis,$40 Million,$43 Thousand,943X
+Merck & Co.,2020,Robert Davis,$38 Million,$42 Thousand,912X
+Merck & Co.,2019,Robert Davis,$36 Million,$41 Thousand,882X
+Merck & Co.,2018,Robert Davis,$34 Million,$40 Thousand,853X
+Meta,2024,Mark Zuckerberg,$27 Million,$417 Thousand,65X
+Meta,2023,Mark Zuckerberg,$24 Million,$379 Thousand,64X
+Meta,2022,Mark Zuckerberg,$23 Million,$375 Thousand,61X
+Meta,2021,Mark Zuckerberg,$22 Million,$370 Thousand,59X
+Meta,2020,Mark Zuckerberg,$21 Million,$365 Thousand,58X
+Meta,2019,Mark Zuckerberg,$20 Million,$350 Thousand,57X
+Meta,2018,Mark Zuckerberg,$19 Million,$340 Thousand,56X
+Microsoft,2024,Satya Nadella,$79 Million,$50 Thousand,1580X
+Microsoft,2023,Satya Nadella,$49 Million,$50 Thousand,970X
+Microsoft,2022,Satya Nadella,$43 Million,$50 Thousand,860X
+Microsoft,2021,Satya Nadella,$40 Million,$50 Thousand,800X
+Microsoft,2020,Satya Nadella,$38 Million,$50 Thousand,760X
+Microsoft,2019,Satya Nadella,$35 Million,$50 Thousand,700X
+Microsoft,2018,Satya Nadella,$32 Million,$50 Thousand,640X
+Microsoft Technologies,2024,Satya Nadella,$39 Million,$39 Thousand,1000X
+Microsoft Technologies,2023,Satya Nadella,$37 Million,$38 Thousand,967X
+Microsoft Technologies,2022,Satya Nadella,$35 Million,$37 Thousand,935X
+Microsoft Technologies,2021,Satya Nadella,$33 Million,$36 Thousand,904X
+Microsoft Technologies,2020,Satya Nadella,$31 Million,$35 Thousand,874X
+Microsoft Technologies,2019,Satya Nadella,$29 Million,$34 Thousand,845X
+Microsoft Technologies,2018,Satya Nadella,$27 Million,$34 Thousand,817X
+Mixcloud,2024,Nicolas Bui,$26 Million,$36 Thousand,722X
+Mixcloud,2023,Nicolas Bui,$24 Million,$35 Thousand,692X
+Mixcloud,2022,Nicolas Bui,$23 Million,$34 Thousand,663X
+Mixcloud,2021,Nicolas Bui,$21 Million,$33 Thousand,635X
+Mixcloud,2020,Nicolas Bui,$20 Million,$33 Thousand,608X
+Mixcloud,2019,Nicolas Bui,$19 Million,$32 Thousand,583X
+Mixcloud,2018,Nicolas Bui,$17 Million,$31 Thousand,558X
+Moderna,2024,Stephane Bancel,$12 Million,$30 Thousand,400X
+Moderna,2023,Stephane Bancel,$11 Million,$29 Thousand,387X
+Moderna,2022,Stephane Bancel,$11 Million,$29 Thousand,374X
+Moderna,2021,Stephane Bancel,$10 Million,$28 Thousand,362X
+Moderna,2020,Stephane Bancel,$10 Million,$27 Thousand,350X
+Moderna,2019,Stephane Bancel,$9 Million,$27 Thousand,338X
+Moderna,2018,Stephane Bancel,$8 Million,$26 Thousand,327X
+Molson Coors Beverage Company,2024,Gavin Hattersley,$35 Million,$38 Thousand,921X
+Molson Coors Beverage Company,2023,Gavin Hattersley,$33 Million,$37 Thousand,891X
+Molson Coors Beverage Company,2022,Gavin Hattersley,$31 Million,$36 Thousand,861X
+Molson Coors Beverage Company,2021,Gavin Hattersley,$29 Million,$35 Thousand,833X
+Molson Coors Beverage Company,2020,Gavin Hattersley,$28 Million,$34 Thousand,805X
+Molson Coors Beverage Company,2019,Gavin Hattersley,$26 Million,$34 Thousand,779X
+Molson Coors Beverage Company,2018,Gavin Hattersley,$25 Million,$33 Thousand,753X
+Moncler,2024,Remo Ruffini,$2 Million,$25 Thousand,60X
+Moncler,2023,Remo Ruffini,$1 Million,$25 Thousand,58X
+Moncler,2022,Remo Ruffini,$1 Million,$24 Thousand,57X
+Moncler,2021,Remo Ruffini,$1 Million,$24 Thousand,55X
+Moncler,2020,Remo Ruffini,$1 Million,$23 Thousand,53X
+Moncler,2019,Remo Ruffini,$1 Million,$23 Thousand,52X
+Moncler,2018,Remo Ruffini,$1 Million,$22 Thousand,50X
+Mondelez International,2024,Dirk Van de Put,$105 Million,$73 Thousand,1438X
+Mondelez International,2023,Dirk Van de Put,$99 Million,$71 Thousand,1391X
+Mondelez International,2022,Dirk Van de Put,$93 Million,$69 Thousand,1345X
+Mondelez International,2021,Dirk Van de Put,$88 Million,$68 Thousand,1301X
+Mondelez International,2020,Dirk Van de Put,$83 Million,$66 Thousand,1258X
+Mondelez International,2019,Dirk Van de Put,$78 Million,$65 Thousand,1216X
+Mondelez International,2018,Dirk Van de Put,$74 Million,$63 Thousand,1176X
+Mubi,2024,Efe Cakarel,$82 Million,$64 Thousand,1281X
+Mubi,2023,Efe Cakarel,$77 Million,$62 Thousand,1227X
+Mubi,2022,Efe Cakarel,$72 Million,$61 Thousand,1176X
+Mubi,2021,Efe Cakarel,$67 Million,$59 Thousand,1126X
+Mubi,2020,Efe Cakarel,$63 Million,$58 Thousand,1079X
+Mubi,2019,Efe Cakarel,$58 Million,$57 Thousand,1033X
+Mubi,2018,Efe Cakarel,$55 Million,$55 Thousand,990X
+Mylan,2024,Robert Coury,$66 Million,$54 Thousand,1222X
+Mylan,2023,Robert Coury,$62 Million,$53 Thousand,1182X
+Mylan,2022,Robert Coury,$59 Million,$51 Thousand,1143X
+Mylan,2021,Robert Coury,$55 Million,$50 Thousand,1105X
+Mylan,2020,Robert Coury,$52 Million,$49 Thousand,1069X
+Mylan,2019,Robert Coury,$49 Million,$48 Thousand,1033X
+Mylan,2018,Robert Coury,$47 Million,$47 Thousand,999X
+Natura &Co,2024,Roberto Marques,$10 Million,$27 Thousand,370X
+Natura &Co,2023,Roberto Marques,$9 Million,$26 Thousand,358X
+Natura &Co,2022,Roberto Marques,$9 Million,$26 Thousand,346X
+Natura &Co,2021,Roberto Marques,$8 Million,$25 Thousand,335X
+Natura &Co,2020,Roberto Marques,$8 Million,$24 Thousand,324X
+Natura &Co,2019,Roberto Marques,$7 Million,$24 Thousand,313X
+Natura &Co,2018,Roberto Marques,$7 Million,$23 Thousand,303X
+NEC Corporation,2024,Takashi Niino,$99 Million,$62 Thousand,1610X
+NEC Corporation,2023,Takashi Niino,$93 Million,$60 Thousand,1557X
+NEC Corporation,2022,Takashi Niino,$88 Million,$59 Thousand,1505X
+NEC Corporation,2021,Takashi Niino,$83 Million,$57 Thousand,1455X
+NEC Corporation,2020,Takashi Niino,$78 Million,$56 Thousand,1407X
+NEC Corporation,2019,Takashi Niino,$74 Million,$54 Thousand,1361X
+NEC Corporation,2018,Takashi Niino,$70 Million,$53 Thousand,1316X
+Nestlé,2024,Mark Schneider,$15 Million,$28 Thousand,536X
+Nestlé,2023,Mark Schneider,$14 Million,$27 Thousand,518X
+Nestlé,2022,Mark Schneider,$13 Million,$27 Thousand,501X
+Nestlé,2021,Mark Schneider,$13 Million,$26 Thousand,484X
+Nestlé,2020,Mark Schneider,$12 Million,$25 Thousand,468X
+Nestlé,2019,Mark Schneider,$11 Million,$25 Thousand,453X
+Nestlé,2018,Mark Schneider,$11 Million,$24 Thousand,438X
+NetEase,2024,William Ding,$87 Million,$57 Thousand,1526X
+NetEase,2023,William Ding,$82 Million,$56 Thousand,1476X
+NetEase,2022,William Ding,$77 Million,$54 Thousand,1427X
+NetEase,2021,William Ding,$73 Million,$53 Thousand,1380X
+NetEase,2020,William Ding,$69 Million,$52 Thousand,1334X
+NetEase,2019,William Ding,$65 Million,$50 Thousand,1290X
+NetEase,2018,William Ding,$61 Million,$49 Thousand,1248X
+Netflix,2024,Ted Sarandos,$26 Million,$36 Thousand,722X
+Netflix,2023,Ted Sarandos,$24 Million,$35 Thousand,692X
+Netflix,2022,Ted Sarandos,$23 Million,$34 Thousand,663X
+Netflix,2021,Ted Sarandos,$21 Million,$33 Thousand,635X
+Netflix,2020,Ted Sarandos,$20 Million,$33 Thousand,608X
+Netflix,2019,Ted Sarandos,$19 Million,$32 Thousand,583X
+Netflix,2018,Ted Sarandos,$17 Million,$31 Thousand,558X
+New Balance,2024,Joe Preston,$7 Million,$35 Thousand,199X
+New Balance,2023,Joe Preston,$7 Million,$34 Thousand,194X
+New Balance,2022,Joe Preston,$6 Million,$33 Thousand,188X
+New Balance,2021,Joe Preston,$6 Million,$33 Thousand,183X
+New Balance,2020,Joe Preston,$6 Million,$32 Thousand,178X
+New Balance,2019,Joe Preston,$5 Million,$31 Thousand,173X
+New Balance,2018,Joe Preston,$5 Million,$31 Thousand,168X
+Nike,2024,Elliot Hill,$32 Million,$36 Thousand,901X
+Nike,2023,Elliot Hill,$32 Million,$35 Thousand,907X
+Nike,2022,Elliot Hill,$33 Million,$35 Thousand,940X
+Nike,2021,Elliot Hill,$30 Million,$35 Thousand,862X
+Nike,2020,Elliot Hill,$28 Million,$35 Thousand,809X
+Nike,2019,Elliot Hill,$26 Million,$34 Thousand,756X
+Nike,2018,Elliot Hill,$24 Million,$34 Thousand,702X
+Novartis,2024,Vas Narasimhan,$39 Million,$42 Thousand,929X
+Novartis,2023,Vas Narasimhan,$37 Million,$41 Thousand,898X
+Novartis,2022,Vas Narasimhan,$35 Million,$40 Thousand,868X
+Novartis,2021,Vas Narasimhan,$33 Million,$39 Thousand,840X
+Novartis,2020,Vas Narasimhan,$31 Million,$38 Thousand,812X
+Novartis,2019,Vas Narasimhan,$29 Million,$37 Thousand,785X
+Novartis,2018,Vas Narasimhan,$27 Million,$36 Thousand,759X
+Novo Nordisk,2024,Lars Fruergaard Jørgensen,$48 Million,$46 Thousand,1043X
+Novo Nordisk,2023,Lars Fruergaard Jørgensen,$45 Million,$45 Thousand,1009X
+Novo Nordisk,2022,Lars Fruergaard Jørgensen,$43 Million,$44 Thousand,976X
+Novo Nordisk,2021,Lars Fruergaard Jørgensen,$40 Million,$43 Thousand,943X
+Novo Nordisk,2020,Lars Fruergaard Jørgensen,$38 Million,$42 Thousand,912X
+Novo Nordisk,2019,Lars Fruergaard Jørgensen,$36 Million,$41 Thousand,882X
+Novo Nordisk,2018,Lars Fruergaard Jørgensen,$34 Million,$40 Thousand,853X
+Nvidia,2024,Jensen Huang,$27 Million,$35 Thousand,783X
+Nvidia,2023,Jensen Huang,$25 Million,$34 Thousand,757X
+Nvidia,2022,Jensen Huang,$24 Million,$33 Thousand,732X
+Nvidia,2021,Jensen Huang,$23 Million,$32 Thousand,708X
+Nvidia,2020,Jensen Huang,$21 Million,$31 Thousand,684X
+Nvidia,2019,Jensen Huang,$20 Million,$30 Thousand,662X
+Nvidia,2018,Jensen Huang,$19 Million,$30 Thousand,640X
+Off-White,2024,Riccardo Rizzo,$16 Million,$51 Thousand,314X
+Off-White,2023,Riccardo Rizzo,$15 Million,$50 Thousand,305X
+Off-White,2022,Riccardo Rizzo,$14 Million,$49 Thousand,296X
+Off-White,2021,Riccardo Rizzo,$14 Million,$48 Thousand,288X
+Off-White,2020,Riccardo Rizzo,$13 Million,$47 Thousand,280X
+Off-White,2019,Riccardo Rizzo,$12 Million,$46 Thousand,272X
+Off-White,2018,Riccardo Rizzo,$12 Million,$45 Thousand,264X
+Omega,2024,Raynald Aeschlimann,$8 Million,$34 Thousand,234X
+Omega,2023,Raynald Aeschlimann,$8 Million,$34 Thousand,225X
+Omega,2022,Raynald Aeschlimann,$7 Million,$34 Thousand,216X
+Omega,2021,Raynald Aeschlimann,$7 Million,$34 Thousand,208X
+Omega,2020,Raynald Aeschlimann,$7 Million,$34 Thousand,199X
+Omega,2019,Raynald Aeschlimann,$7 Million,$34 Thousand,190X
+Omega,2018,Raynald Aeschlimann,$6 Million,$34 Thousand,181X
+On Running,2024,Caspar Coppetti,$3 Million,$28 Thousand,117X
+On Running,2023,Caspar Coppetti,$3 Million,$28 Thousand,114X
+On Running,2022,Caspar Coppetti,$3 Million,$27 Thousand,110X
+On Running,2021,Caspar Coppetti,$3 Million,$27 Thousand,107X
+On Running,2020,Caspar Coppetti,$3 Million,$26 Thousand,104X
+On Running,2019,Caspar Coppetti,$3 Million,$26 Thousand,101X
+On Running,2018,Caspar Coppetti,$2 Million,$25 Thousand,98X
+ON Semiconductor,2024,Keith Jackson,$99 Million,$62 Thousand,1610X
+ON Semiconductor,2023,Keith Jackson,$93 Million,$60 Thousand,1557X
+ON Semiconductor,2022,Keith Jackson,$88 Million,$59 Thousand,1505X
+ON Semiconductor,2021,Keith Jackson,$83 Million,$57 Thousand,1455X
+ON Semiconductor,2020,Keith Jackson,$78 Million,$56 Thousand,1407X
+ON Semiconductor,2019,Keith Jackson,$74 Million,$54 Thousand,1361X
+ON Semiconductor,2018,Keith Jackson,$70 Million,$53 Thousand,1316X
+Oriflame,2024,Magnus Brännström,$38 Million,$41 Thousand,927X
+Oriflame,2023,Magnus Brännström,$36 Million,$40 Thousand,896X
+Oriflame,2022,Magnus Brännström,$34 Million,$39 Thousand,867X
+Oriflame,2021,Magnus Brännström,$32 Million,$38 Thousand,838X
+Oriflame,2020,Magnus Brännström,$30 Million,$37 Thousand,810X
+Oriflame,2019,Magnus Brännström,$28 Million,$36 Thousand,784X
+Oriflame,2018,Magnus Brännström,$27 Million,$35 Thousand,758X
+Otsuka Holdings,2024,Yoshiyuki Hayashi,$35 Million,$38 Thousand,921X
+Otsuka Holdings,2023,Yoshiyuki Hayashi,$33 Million,$37 Thousand,891X
+Otsuka Holdings,2022,Yoshiyuki Hayashi,$31 Million,$36 Thousand,861X
+Otsuka Holdings,2021,Yoshiyuki Hayashi,$29 Million,$35 Thousand,833X
+Otsuka Holdings,2020,Yoshiyuki Hayashi,$28 Million,$34 Thousand,805X
+Otsuka Holdings,2019,Yoshiyuki Hayashi,$26 Million,$34 Thousand,779X
+Otsuka Holdings,2018,Yoshiyuki Hayashi,$25 Million,$33 Thousand,753X
+Outdoor Voices,2024,Tyler Haney,$11 Million,$41 Thousand,256X
+Outdoor Voices,2023,Tyler Haney,$10 Million,$40 Thousand,249X
+Outdoor Voices,2022,Tyler Haney,$10 Million,$39 Thousand,242X
+Outdoor Voices,2021,Tyler Haney,$9 Million,$39 Thousand,235X
+Outdoor Voices,2020,Tyler Haney,$9 Million,$38 Thousand,228X
+Outdoor Voices,2019,Tyler Haney,$8 Million,$37 Thousand,222X
+Outdoor Voices,2018,Tyler Haney,$8 Million,$36 Thousand,215X
+Panasonic,2024,Yuki Kusumi,$63 Million,$48 Thousand,1313X
+Panasonic,2023,Yuki Kusumi,$59 Million,$47 Thousand,1269X
+Panasonic,2022,Yuki Kusumi,$56 Million,$46 Thousand,1227X
+Panasonic,2021,Yuki Kusumi,$53 Million,$45 Thousand,1187X
+Panasonic,2020,Yuki Kusumi,$50 Million,$43 Thousand,1148X
+Panasonic,2019,Yuki Kusumi,$47 Million,$42 Thousand,1110X
+Panasonic,2018,Yuki Kusumi,$44 Million,$41 Thousand,1073X
+Pandora,2024,Roger Lynch,$58 Million,$52 Thousand,1115X
+Pandora,2023,Roger Lynch,$54 Million,$51 Thousand,1069X
+Pandora,2022,Roger Lynch,$51 Million,$49 Thousand,1024X
+Pandora,2021,Roger Lynch,$47 Million,$48 Thousand,981X
+Pandora,2020,Roger Lynch,$44 Million,$47 Thousand,939X
+Pandora,2019,Roger Lynch,$41 Million,$46 Thousand,900X
+Pandora,2018,Roger Lynch,$39 Million,$45 Thousand,862X
+Paramount Global,2024,Bob Bakish,$58 Million,$52 Thousand,1115X
+Paramount Global,2023,Bob Bakish,$54 Million,$51 Thousand,1069X
+Paramount Global,2022,Bob Bakish,$51 Million,$49 Thousand,1024X
+Paramount Global,2021,Bob Bakish,$47 Million,$48 Thousand,981X
+Paramount Global,2020,Bob Bakish,$44 Million,$47 Thousand,939X
+Paramount Global,2019,Bob Bakish,$41 Million,$46 Thousand,900X
+Paramount Global,2018,Bob Bakish,$39 Million,$45 Thousand,862X
+Patagonia,2024,Ryan Gellert,$16 Million,$51 Thousand,314X
+Patagonia,2023,Ryan Gellert,$15 Million,$50 Thousand,305X
+Patagonia,2022,Ryan Gellert,$14 Million,$49 Thousand,296X
+Patagonia,2021,Ryan Gellert,$14 Million,$48 Thousand,288X
+Patagonia,2020,Ryan Gellert,$13 Million,$47 Thousand,280X
+Patagonia,2019,Ryan Gellert,$12 Million,$46 Thousand,272X
+Patagonia,2018,Ryan Gellert,$12 Million,$45 Thousand,264X
+Patek Philippe,2024,Laurent Bernasconi,$10 Million,$35 Thousand,275X
+Patek Philippe,2023,Laurent Bernasconi,$9 Million,$35 Thousand,261X
+Patek Philippe,2022,Laurent Bernasconi,$9 Million,$35 Thousand,246X
+Patek Philippe,2021,Laurent Bernasconi,$8 Million,$35 Thousand,232X
+Patek Philippe,2020,Laurent Bernasconi,$8 Million,$35 Thousand,217X
+Patek Philippe,2019,Laurent Bernasconi,$7 Million,$35 Thousand,203X
+Patek Philippe,2018,Laurent Bernasconi,$7 Million,$35 Thousand,188X
+PayPal,2024,Dan Schulman,$75 Million,$53 Thousand,1429X
+PayPal,2023,Dan Schulman,$71 Million,$51 Thousand,1381X
+PayPal,2022,Dan Schulman,$67 Million,$50 Thousand,1336X
+PayPal,2021,Dan Schulman,$63 Million,$49 Thousand,1292X
+PayPal,2020,Dan Schulman,$59 Million,$48 Thousand,1249X
+PayPal,2019,Dan Schulman,$56 Million,$46 Thousand,1208X
+PayPal,2018,Dan Schulman,$53 Million,$45 Thousand,1168X
+Peacock,2024,Matt Strauss,$82 Million,$64 Thousand,1281X
+Peacock,2023,Matt Strauss,$77 Million,$62 Thousand,1227X
+Peacock,2022,Matt Strauss,$72 Million,$61 Thousand,1176X
+Peacock,2021,Matt Strauss,$67 Million,$59 Thousand,1126X
+Peacock,2020,Matt Strauss,$63 Million,$58 Thousand,1079X
+Peacock,2019,Matt Strauss,$58 Million,$57 Thousand,1033X
+Peacock,2018,Matt Strauss,$55 Million,$55 Thousand,990X
+Pepsi Lipton,2024,James Andrew Quincey,$105 Million,$73 Thousand,1438X
+Pepsi Lipton,2023,James Andrew Quincey,$99 Million,$71 Thousand,1391X
+Pepsi Lipton,2022,James Andrew Quincey,$93 Million,$69 Thousand,1345X
+Pepsi Lipton,2021,James Andrew Quincey,$88 Million,$68 Thousand,1301X
+Pepsi Lipton,2020,James Andrew Quincey,$83 Million,$66 Thousand,1258X
+Pepsi Lipton,2019,James Andrew Quincey,$78 Million,$65 Thousand,1216X
+Pepsi Lipton,2018,James Andrew Quincey,$74 Million,$63 Thousand,1176X
+PepsiCo,2024,Ramon L. Laguarta,$25 Million,$33 Thousand,758X
+PepsiCo,2023,Ramon L. Laguarta,$24 Million,$32 Thousand,732X
+PepsiCo,2022,Ramon L. Laguarta,$22 Million,$31 Thousand,708X
+PepsiCo,2021,Ramon L. Laguarta,$21 Million,$31 Thousand,685X
+PepsiCo,2020,Ramon L. Laguarta,$20 Million,$30 Thousand,662X
+PepsiCo,2019,Ramon L. Laguarta,$19 Million,$29 Thousand,640X
+PepsiCo,2018,Ramon L. Laguarta,$18 Million,$28 Thousand,619X
+Perrigo,2024,Joseph Papa,$84 Million,$62 Thousand,1355X
+Perrigo,2023,Joseph Papa,$79 Million,$60 Thousand,1310X
+Perrigo,2022,Joseph Papa,$75 Million,$59 Thousand,1267X
+Perrigo,2021,Joseph Papa,$71 Million,$58 Thousand,1225X
+Perrigo,2020,Joseph Papa,$67 Million,$56 Thousand,1185X
+Perrigo,2019,Joseph Papa,$63 Million,$55 Thousand,1145X
+Perrigo,2018,Joseph Papa,$59 Million,$53 Thousand,1108X
+Pfizer,2024,Albert Bourla,$21 Million,$34 Thousand,618X
+Pfizer,2023,Albert Bourla,$20 Million,$33 Thousand,597X
+Pfizer,2022,Albert Bourla,$19 Million,$32 Thousand,578X
+Pfizer,2021,Albert Bourla,$18 Million,$32 Thousand,558X
+Pfizer,2020,Albert Bourla,$17 Million,$31 Thousand,540X
+Pfizer,2019,Albert Bourla,$16 Million,$30 Thousand,522X
+Pfizer,2018,Albert Bourla,$15 Million,$29 Thousand,505X
+Pilgrim's Pride,2024,Fabio Sandri,$4 Million,$35 Thousand,113X
+Pilgrim's Pride,2023,Fabio Sandri,$4 Million,$35 Thousand,113X
+Pilgrim's Pride,2022,Fabio Sandri,$4 Million,$35 Thousand,113X
+Pilgrim's Pride,2021,Fabio Sandri,$4 Million,$35 Thousand,113X
+Pilgrim's Pride,2020,Fabio Sandri,$4 Million,$35 Thousand,113X
+Pilgrim's Pride,2019,Fabio Sandri,$4 Million,$35 Thousand,113X
+Pilgrim's Pride,2018,Fabio Sandri,$4 Million,$35 Thousand,113X
+Pinterest,2024,Bill Ready,$10 Million,$28 Thousand,357X
+Pinterest,2023,Bill Ready,$9 Million,$27 Thousand,342X
+Pinterest,2022,Bill Ready,$9 Million,$27 Thousand,328X
+Pinterest,2021,Bill Ready,$8 Million,$26 Thousand,314X
+Pinterest,2020,Bill Ready,$8 Million,$25 Thousand,301X
+Pinterest,2019,Bill Ready,$7 Million,$25 Thousand,288X
+Pinterest,2018,Bill Ready,$7 Million,$24 Thousand,276X
+Pluto TV,2024,Tom Ryan,$26 Million,$36 Thousand,722X
+Pluto TV,2023,Tom Ryan,$24 Million,$35 Thousand,692X
+Pluto TV,2022,Tom Ryan,$23 Million,$34 Thousand,663X
+Pluto TV,2021,Tom Ryan,$21 Million,$33 Thousand,635X
+Pluto TV,2020,Tom Ryan,$20 Million,$33 Thousand,608X
+Pluto TV,2019,Tom Ryan,$19 Million,$32 Thousand,583X
+Pluto TV,2018,Tom Ryan,$17 Million,$31 Thousand,558X
+Polar,2024,Ralph Crowley,$5 Million,$33 Thousand,150X
+Polar,2023,Ralph Crowley,$5 Million,$33 Thousand,144X
+Polar,2022,Ralph Crowley,$5 Million,$33 Thousand,138X
+Polar,2021,Ralph Crowley,$4 Million,$33 Thousand,132X
+Polar,2020,Ralph Crowley,$4 Million,$33 Thousand,126X
+Polar,2019,Ralph Crowley,$4 Million,$33 Thousand,120X
+Polar,2018,Ralph Crowley,$4 Million,$33 Thousand,114X
+Porsche,2024,Oliver Blume,$12 Million,$37 Thousand,329X
+Porsche,2023,Oliver Blume,$12 Million,$37 Thousand,315X
+Porsche,2022,Oliver Blume,$11 Million,$37 Thousand,301X
+Porsche,2021,Oliver Blume,$11 Million,$37 Thousand,288X
+Porsche,2020,Oliver Blume,$10 Million,$37 Thousand,274X
+Porsche,2019,Oliver Blume,$10 Million,$37 Thousand,260X
+Porsche,2018,Oliver Blume,$9 Million,$37 Thousand,247X
+Post Holdings,2024,Robert Ehrlich,$15 Million,$28 Thousand,536X
+Post Holdings,2023,Robert Ehrlich,$14 Million,$27 Thousand,518X
+Post Holdings,2022,Robert Ehrlich,$13 Million,$27 Thousand,501X
+Post Holdings,2021,Robert Ehrlich,$13 Million,$26 Thousand,484X
+Post Holdings,2020,Robert Ehrlich,$12 Million,$25 Thousand,468X
+Post Holdings,2019,Robert Ehrlich,$11 Million,$25 Thousand,453X
+Post Holdings,2018,Robert Ehrlich,$11 Million,$24 Thousand,438X
+Prada,2024,Andrea Guerra,$11 Million,$35 Thousand,318X
+Prada,2023,Andrea Guerra,$11 Million,$35 Thousand,303X
+Prada,2022,Andrea Guerra,$10 Million,$35 Thousand,289X
+Prada,2021,Andrea Guerra,$10 Million,$35 Thousand,275X
+Prada,2020,Andrea Guerra,$9 Million,$35 Thousand,260X
+Prada,2019,Andrea Guerra,$9 Million,$35 Thousand,246X
+Prada,2018,Andrea Guerra,$8 Million,$35 Thousand,231X
+Procter & Gamble,2024,Jon R. Moeller,$10 Million,$27 Thousand,370X
+Procter & Gamble,2023,Jon R. Moeller,$9 Million,$26 Thousand,358X
+Procter & Gamble,2022,Jon R. Moeller,$9 Million,$26 Thousand,346X
+Procter & Gamble,2021,Jon R. Moeller,$8 Million,$25 Thousand,335X
+Procter & Gamble,2020,Jon R. Moeller,$8 Million,$24 Thousand,324X
+Procter & Gamble,2019,Jon R. Moeller,$7 Million,$24 Thousand,313X
+Procter & Gamble,2018,Jon R. Moeller,$7 Million,$23 Thousand,303X
+Puma,2024,Bjørn Gulden,$11 Million,$41 Thousand,256X
+Puma,2023,Bjørn Gulden,$10 Million,$40 Thousand,249X
+Puma,2022,Bjørn Gulden,$10 Million,$39 Thousand,242X
+Puma,2021,Bjørn Gulden,$9 Million,$39 Thousand,235X
+Puma,2020,Bjørn Gulden,$9 Million,$38 Thousand,228X
+Puma,2019,Bjørn Gulden,$8 Million,$37 Thousand,222X
+Puma,2018,Bjørn Gulden,$8 Million,$36 Thousand,215X
+Qualcomm,2024,Cristiano Amon,$99 Million,$62 Thousand,1610X
+Qualcomm,2023,Cristiano Amon,$93 Million,$60 Thousand,1557X
+Qualcomm,2022,Cristiano Amon,$88 Million,$59 Thousand,1505X
+Qualcomm,2021,Cristiano Amon,$83 Million,$57 Thousand,1455X
+Qualcomm,2020,Cristiano Amon,$78 Million,$56 Thousand,1407X
+Qualcomm,2019,Cristiano Amon,$74 Million,$54 Thousand,1361X
+Qualcomm,2018,Cristiano Amon,$70 Million,$53 Thousand,1316X
+Quibi,2024,Meg Whitman,$66 Million,$56 Thousand,1179X
+Quibi,2023,Meg Whitman,$62 Million,$55 Thousand,1129X
+Quibi,2022,Meg Whitman,$58 Million,$53 Thousand,1082X
+Quibi,2021,Meg Whitman,$54 Million,$52 Thousand,1036X
+Quibi,2020,Meg Whitman,$50 Million,$51 Thousand,992X
+Quibi,2019,Meg Whitman,$47 Million,$49 Thousand,951X
+Quibi,2018,Meg Whitman,$44 Million,$48 Thousand,911X
+Quiksilver,2024,Chris Gentry,$12 Million,$44 Thousand,278X
+Quiksilver,2023,Chris Gentry,$12 Million,$43 Thousand,270X
+Quiksilver,2022,Chris Gentry,$11 Million,$42 Thousand,263X
+Quiksilver,2021,Chris Gentry,$11 Million,$42 Thousand,255X
+Quiksilver,2020,Chris Gentry,$10 Million,$41 Thousand,248X
+Quiksilver,2019,Chris Gentry,$10 Million,$40 Thousand,241X
+Quiksilver,2018,Chris Gentry,$9 Million,$39 Thousand,234X
+Range Rover,2024,Adrian Mardell,$10 Million,$36 Thousand,275X
+Range Rover,2023,Adrian Mardell,$10 Million,$36 Thousand,261X
+Range Rover,2022,Adrian Mardell,$9 Million,$36 Thousand,247X
+Range Rover,2021,Adrian Mardell,$9 Million,$36 Thousand,234X
+Range Rover,2020,Adrian Mardell,$8 Million,$36 Thousand,220X
+Range Rover,2019,Adrian Mardell,$8 Million,$36 Thousand,206X
+Range Rover,2018,Adrian Mardell,$7 Million,$36 Thousand,192X
+Reckitt Benckiser,2024,Laxman Narasimhan,$52 Million,$48 Thousand,1083X
+Reckitt Benckiser,2023,Laxman Narasimhan,$49 Million,$47 Thousand,1048X
+Reckitt Benckiser,2022,Laxman Narasimhan,$46 Million,$46 Thousand,1013X
+Reckitt Benckiser,2021,Laxman Narasimhan,$44 Million,$45 Thousand,980X
+Reckitt Benckiser,2020,Laxman Narasimhan,$41 Million,$43 Thousand,947X
+Reckitt Benckiser,2019,Laxman Narasimhan,$39 Million,$42 Thousand,916X
+Reckitt Benckiser,2018,Laxman Narasimhan,$37 Million,$41 Thousand,886X
+Reddit,2024,Steve Huffman,$18 Million,$32 Thousand,563X
+Reddit,2023,Steve Huffman,$17 Million,$31 Thousand,539X
+Reddit,2022,Steve Huffman,$16 Million,$30 Thousand,516X
+Reddit,2021,Steve Huffman,$15 Million,$30 Thousand,494X
+Reddit,2020,Steve Huffman,$14 Million,$29 Thousand,474X
+Reddit,2019,Steve Huffman,$13 Million,$28 Thousand,454X
+Reddit,2018,Steve Huffman,$12 Million,$28 Thousand,435X
+Reebok,2024,Matthew O’Toole,$7 Million,$35 Thousand,199X
+Reebok,2023,Matthew O’Toole,$7 Million,$34 Thousand,194X
+Reebok,2022,Matthew O’Toole,$6 Million,$33 Thousand,188X
+Reebok,2021,Matthew O’Toole,$6 Million,$33 Thousand,183X
+Reebok,2020,Matthew O’Toole,$6 Million,$32 Thousand,178X
+Reebok,2019,Matthew O’Toole,$5 Million,$31 Thousand,173X
+Reebok,2018,Matthew O’Toole,$5 Million,$31 Thousand,168X
+Regeneron Pharmaceuticals,2024,Leonard Schleifer,$93 Million,$66 Thousand,1409X
+Regeneron Pharmaceuticals,2023,Leonard Schleifer,$88 Million,$64 Thousand,1363X
+Regeneron Pharmaceuticals,2022,Leonard Schleifer,$83 Million,$63 Thousand,1318X
+Regeneron Pharmaceuticals,2021,Leonard Schleifer,$78 Million,$61 Thousand,1274X
+Regeneron Pharmaceuticals,2020,Leonard Schleifer,$74 Million,$60 Thousand,1232X
+Regeneron Pharmaceuticals,2019,Leonard Schleifer,$70 Million,$58 Thousand,1191X
+Regeneron Pharmaceuticals,2018,Leonard Schleifer,$66 Million,$57 Thousand,1152X
+Rivian,2024,Robert Joseph Scaringe,$4 Million,$34 Thousand,111X
+Rivian,2023,Robert Joseph Scaringe,$4 Million,$34 Thousand,102X
+Rivian,2022,Robert Joseph Scaringe,$3 Million,$34 Thousand,94X
+Rivian,2021,Robert Joseph Scaringe,$3 Million,$34 Thousand,85X
+Rivian,2020,Robert Joseph Scaringe,$3 Million,$34 Thousand,76X
+Rivian,2019,Robert Joseph Scaringe,$2 Million,$34 Thousand,67X
+Rivian,2018,Robert Joseph Scaringe,$2 Million,$34 Thousand,58X
+Roche,2024,Severin Schwan,$30 Million,$38 Thousand,789X
+Roche,2023,Severin Schwan,$28 Million,$37 Thousand,763X
+Roche,2022,Severin Schwan,$27 Million,$36 Thousand,738X
+Roche,2021,Severin Schwan,$25 Million,$35 Thousand,714X
+Roche,2020,Severin Schwan,$24 Million,$34 Thousand,690X
+Roche,2019,Severin Schwan,$22 Million,$34 Thousand,668X
+Roche,2018,Severin Schwan,$21 Million,$33 Thousand,645X
+Roku,2024,Anthony Wood,$42 Million,$44 Thousand,955X
+Roku,2023,Anthony Wood,$39 Million,$43 Thousand,914X
+Roku,2022,Anthony Wood,$37 Million,$42 Thousand,876X
+Roku,2021,Anthony Wood,$34 Million,$41 Thousand,839X
+Roku,2020,Anthony Wood,$32 Million,$40 Thousand,804X
+Roku,2019,Anthony Wood,$30 Million,$39 Thousand,770X
+Roku,2018,Anthony Wood,$28 Million,$38 Thousand,738X
+Rolex,2024,Jean-Frédéric Dufour,$10 Million,$35 Thousand,286X
+Rolex,2023,Jean-Frédéric Dufour,$10 Million,$35 Thousand,271X
+Rolex,2022,Jean-Frédéric Dufour,$9 Million,$35 Thousand,257X
+Rolex,2021,Jean-Frédéric Dufour,$9 Million,$35 Thousand,243X
+Rolex,2020,Jean-Frédéric Dufour,$8 Million,$35 Thousand,229X
+Rolex,2019,Jean-Frédéric Dufour,$8 Million,$35 Thousand,214X
+Rolex,2018,Jean-Frédéric Dufour,$7 Million,$35 Thousand,200X
+Rolls-Royce,2024,Tufan Erginbilgiç,$13 Million,$37 Thousand,349X
+Rolls-Royce,2023,Tufan Erginbilgiç,$13 Million,$37 Thousand,336X
+Rolls-Royce,2022,Tufan Erginbilgiç,$12 Million,$37 Thousand,323X
+Rolls-Royce,2021,Tufan Erginbilgiç,$12 Million,$37 Thousand,309X
+Rolls-Royce,2020,Tufan Erginbilgiç,$11 Million,$37 Thousand,296X
+Rolls-Royce,2019,Tufan Erginbilgiç,$11 Million,$37 Thousand,282X
+Rolls-Royce,2018,Tufan Erginbilgiç,$10 Million,$37 Thousand,269X
+Salesforce,2024,Marc Benioff,$39 Million,$39 Thousand,1000X
+Salesforce,2023,Marc Benioff,$37 Million,$38 Thousand,967X
+Salesforce,2022,Marc Benioff,$35 Million,$37 Thousand,935X
+Salesforce,2021,Marc Benioff,$33 Million,$36 Thousand,904X
+Salesforce,2020,Marc Benioff,$31 Million,$35 Thousand,874X
+Salesforce,2019,Marc Benioff,$29 Million,$34 Thousand,845X
+Salesforce,2018,Marc Benioff,$27 Million,$34 Thousand,817X
+Salomon,2024,Jérôme Blanchet,$12 Million,$44 Thousand,278X
+Salomon,2023,Jérôme Blanchet,$12 Million,$43 Thousand,270X
+Salomon,2022,Jérôme Blanchet,$11 Million,$42 Thousand,263X
+Salomon,2021,Jérôme Blanchet,$11 Million,$42 Thousand,255X
+Salomon,2020,Jérôme Blanchet,$10 Million,$41 Thousand,248X
+Salomon,2019,Jérôme Blanchet,$10 Million,$40 Thousand,241X
+Salomon,2018,Jérôme Blanchet,$9 Million,$39 Thousand,234X
+Samsung Electronics,2024,Han Jong-hee,$27 Million,$35 Thousand,783X
+Samsung Electronics,2023,Han Jong-hee,$25 Million,$34 Thousand,757X
+Samsung Electronics,2022,Han Jong-hee,$24 Million,$33 Thousand,732X
+Samsung Electronics,2021,Han Jong-hee,$23 Million,$32 Thousand,708X
+Samsung Electronics,2020,Han Jong-hee,$21 Million,$31 Thousand,684X
+Samsung Electronics,2019,Han Jong-hee,$20 Million,$30 Thousand,662X
+Samsung Electronics,2018,Han Jong-hee,$19 Million,$30 Thousand,640X
+Sanderson Farms,2024,Joe F. Sanderson Jr.,$3 Million,$45 Thousand,63X
+Sanderson Farms,2023,Joe F. Sanderson Jr.,$3 Million,$45 Thousand,63X
+Sanderson Farms,2022,Joe F. Sanderson Jr.,$3 Million,$45 Thousand,63X
+Sanderson Farms,2021,Joe F. Sanderson Jr.,$3 Million,$45 Thousand,63X
+Sanderson Farms,2020,Joe F. Sanderson Jr.,$3 Million,$45 Thousand,63X
+Sanderson Farms,2019,Joe F. Sanderson Jr.,$3 Million,$45 Thousand,63X
+Sanderson Farms,2018,Joe F. Sanderson Jr.,$3 Million,$45 Thousand,63X
+Sanofi,2024,Paul Hudson,$57 Million,$50 Thousand,1140X
+Sanofi,2023,Paul Hudson,$54 Million,$49 Thousand,1102X
+Sanofi,2022,Paul Hudson,$51 Million,$48 Thousand,1066X
+Sanofi,2021,Paul Hudson,$48 Million,$46 Thousand,1031X
+Sanofi,2020,Paul Hudson,$45 Million,$45 Thousand,997X
+Sanofi,2019,Paul Hudson,$43 Million,$44 Thousand,964X
+Sanofi,2018,Paul Hudson,$40 Million,$43 Thousand,932X
+Seagate Technology,2024,Dave Mosley,$123 Million,$71 Thousand,1745X
+Seagate Technology,2023,Dave Mosley,$116 Million,$69 Thousand,1687X
+Seagate Technology,2022,Dave Mosley,$109 Million,$67 Thousand,1631X
+Seagate Technology,2021,Dave Mosley,$103 Million,$65 Thousand,1577X
+Seagate Technology,2020,Dave Mosley,$97 Million,$64 Thousand,1525X
+Seagate Technology,2019,Dave Mosley,$92 Million,$62 Thousand,1475X
+Seagate Technology,2018,Dave Mosley,$87 Million,$61 Thousand,1426X
+Sharp,2024,Takuji Takahashi,$15 Million,$30 Thousand,500X
+Sharp,2023,Takuji Takahashi,$14 Million,$29 Thousand,483X
+Sharp,2022,Takuji Takahashi,$13 Million,$29 Thousand,468X
+Sharp,2021,Takuji Takahashi,$13 Million,$28 Thousand,452X
+Sharp,2020,Takuji Takahashi,$12 Million,$27 Thousand,437X
+Sharp,2019,Takuji Takahashi,$11 Million,$27 Thousand,423X
+Sharp,2018,Takuji Takahashi,$11 Million,$26 Thousand,409X
+Shire,2024,Matthews Skarlatos,$84 Million,$62 Thousand,1355X
+Shire,2023,Matthews Skarlatos,$79 Million,$60 Thousand,1310X
+Shire,2022,Matthews Skarlatos,$75 Million,$59 Thousand,1267X
+Shire,2021,Matthews Skarlatos,$71 Million,$58 Thousand,1225X
+Shire,2020,Matthews Skarlatos,$67 Million,$56 Thousand,1185X
+Shire,2019,Matthews Skarlatos,$63 Million,$55 Thousand,1145X
+Shire,2018,Matthews Skarlatos,$59 Million,$53 Thousand,1108X
+Shiseido,2024,Masahiko Uotani,$31 Million,$38 Thousand,827X
+Shiseido,2023,Masahiko Uotani,$29 Million,$37 Thousand,799X
+Shiseido,2022,Masahiko Uotani,$28 Million,$36 Thousand,773X
+Shiseido,2021,Masahiko Uotani,$26 Million,$35 Thousand,748X
+Shiseido,2020,Masahiko Uotani,$25 Million,$34 Thousand,723X
+Shiseido,2019,Masahiko Uotani,$23 Million,$33 Thousand,699X
+Shiseido,2018,Masahiko Uotani,$22 Million,$32 Thousand,676X
+Shudder,2024,Craig Engler,$74 Million,$60 Thousand,1233X
+Shudder,2023,Craig Engler,$69 Million,$59 Thousand,1181X
+Shudder,2022,Craig Engler,$65 Million,$57 Thousand,1132X
+Shudder,2021,Craig Engler,$60 Million,$56 Thousand,1084X
+Shudder,2020,Craig Engler,$56 Million,$54 Thousand,1039X
+Shudder,2019,Craig Engler,$53 Million,$53 Thousand,995X
+Shudder,2018,Craig Engler,$49 Million,$52 Thousand,953X
+Skechers,2024,Robert Greenberg,$9 Million,$38 Thousand,230X
+Skechers,2023,Robert Greenberg,$8 Million,$37 Thousand,224X
+Skechers,2022,Robert Greenberg,$8 Million,$36 Thousand,217X
+Skechers,2021,Robert Greenberg,$8 Million,$36 Thousand,211X
+Skechers,2020,Robert Greenberg,$7 Million,$35 Thousand,205X
+Skechers,2019,Robert Greenberg,$7 Million,$34 Thousand,199X
+Skechers,2018,Robert Greenberg,$6 Million,$34 Thousand,193X
+Skechers USA,2024,Michael Greenberg,$2 Million,$25 Thousand,60X
+Skechers USA,2023,Michael Greenberg,$1 Million,$25 Thousand,58X
+Skechers USA,2022,Michael Greenberg,$1 Million,$24 Thousand,57X
+Skechers USA,2021,Michael Greenberg,$1 Million,$24 Thousand,55X
+Skechers USA,2020,Michael Greenberg,$1 Million,$23 Thousand,53X
+Skechers USA,2019,Michael Greenberg,$1 Million,$23 Thousand,52X
+Skechers USA,2018,Michael Greenberg,$1 Million,$22 Thousand,50X
+Snap Inc.,2024,Evan Spiegel,$74 Million,$60 Thousand,1233X
+Snap Inc.,2023,Evan Spiegel,$69 Million,$59 Thousand,1181X
+Snap Inc.,2022,Evan Spiegel,$65 Million,$57 Thousand,1132X
+Snap Inc.,2021,Evan Spiegel,$60 Million,$56 Thousand,1084X
+Snap Inc.,2020,Evan Spiegel,$56 Million,$54 Thousand,1039X
+Snap Inc.,2019,Evan Spiegel,$53 Million,$53 Thousand,995X
+Snap Inc.,2018,Evan Spiegel,$49 Million,$52 Thousand,953X
+Sonos,2024,Tim Conard,$7 Million,$34 Thousand,198X
+Sonos,2023,Tim Conard,$7 Million,$34 Thousand,190X
+Sonos,2022,Tim Conard,$6 Million,$34 Thousand,181X
+Sonos,2021,Tim Conard,$6 Million,$34 Thousand,172X
+Sonos,2020,Tim Conard,$6 Million,$34 Thousand,163X
+Sonos,2019,Tim Conard,$5 Million,$34 Thousand,155X
+Sonos,2018,Tim Conard,$5 Million,$34 Thousand,146X
+Sony,2024,Kenichiro Yoshida,$75 Million,$53 Thousand,1429X
+Sony,2023,Kenichiro Yoshida,$71 Million,$51 Thousand,1381X
+Sony,2022,Kenichiro Yoshida,$67 Million,$50 Thousand,1336X
+Sony,2021,Kenichiro Yoshida,$63 Million,$49 Thousand,1292X
+Sony,2020,Kenichiro Yoshida,$59 Million,$48 Thousand,1249X
+Sony,2019,Kenichiro Yoshida,$56 Million,$46 Thousand,1208X
+Sony,2018,Kenichiro Yoshida,$53 Million,$45 Thousand,1168X
+SoundCloud,2024,Michael Weissman,$10 Million,$28 Thousand,357X
+SoundCloud,2023,Michael Weissman,$9 Million,$27 Thousand,342X
+SoundCloud,2022,Michael Weissman,$9 Million,$27 Thousand,328X
+SoundCloud,2021,Michael Weissman,$8 Million,$26 Thousand,314X
+SoundCloud,2020,Michael Weissman,$8 Million,$25 Thousand,301X
+SoundCloud,2019,Michael Weissman,$7 Million,$25 Thousand,288X
+SoundCloud,2018,Michael Weissman,$7 Million,$24 Thousand,276X
+Spotify,2024,Daniel Ek,$123 Million,$71 Thousand,1745X
+Spotify,2023,Daniel Ek,$116 Million,$69 Thousand,1687X
+Spotify,2022,Daniel Ek,$109 Million,$67 Thousand,1631X
+Spotify,2021,Daniel Ek,$103 Million,$65 Thousand,1577X
+Spotify,2020,Daniel Ek,$97 Million,$64 Thousand,1525X
+Spotify,2019,Daniel Ek,$92 Million,$62 Thousand,1475X
+Spotify,2018,Daniel Ek,$87 Million,$61 Thousand,1426X
+Square,2024,Jack Dorsey,$27 Million,$35 Thousand,783X
+Square,2023,Jack Dorsey,$25 Million,$34 Thousand,757X
+Square,2022,Jack Dorsey,$24 Million,$33 Thousand,732X
+Square,2021,Jack Dorsey,$23 Million,$32 Thousand,708X
+Square,2020,Jack Dorsey,$21 Million,$31 Thousand,684X
+Square,2019,Jack Dorsey,$20 Million,$30 Thousand,662X
+Square,2018,Jack Dorsey,$19 Million,$30 Thousand,640X
+STMicroelectronics,2024,Jean-Marc Chéry,$63 Million,$48 Thousand,1313X
+STMicroelectronics,2023,Jean-Marc Chéry,$59 Million,$47 Thousand,1269X
+STMicroelectronics,2022,Jean-Marc Chéry,$56 Million,$46 Thousand,1227X
+STMicroelectronics,2021,Jean-Marc Chéry,$53 Million,$45 Thousand,1187X
+STMicroelectronics,2020,Jean-Marc Chéry,$50 Million,$43 Thousand,1148X
+STMicroelectronics,2019,Jean-Marc Chéry,$47 Million,$42 Thousand,1110X
+STMicroelectronics,2018,Jean-Marc Chéry,$44 Million,$41 Thousand,1073X
+Stone Island,2024,Massimo Rossetti,$12 Million,$44 Thousand,278X
+Stone Island,2023,Massimo Rossetti,$12 Million,$43 Thousand,270X
+Stone Island,2022,Massimo Rossetti,$11 Million,$42 Thousand,263X
+Stone Island,2021,Massimo Rossetti,$11 Million,$42 Thousand,255X
+Stone Island,2020,Massimo Rossetti,$10 Million,$41 Thousand,248X
+Stone Island,2019,Massimo Rossetti,$10 Million,$40 Thousand,241X
+Stone Island,2018,Massimo Rossetti,$9 Million,$39 Thousand,234X
+Stryker,2024,Kevin Lobo,$21 Million,$34 Thousand,618X
+Stryker,2023,Kevin Lobo,$20 Million,$33 Thousand,597X
+Stryker,2022,Kevin Lobo,$19 Million,$32 Thousand,578X
+Stryker,2021,Kevin Lobo,$18 Million,$32 Thousand,558X
+Stryker,2020,Kevin Lobo,$17 Million,$31 Thousand,540X
+Stryker,2019,Kevin Lobo,$16 Million,$30 Thousand,522X
+Stryker,2018,Kevin Lobo,$15 Million,$29 Thousand,505X
+Sub-Zero,2024,James J. Bakke,$8 Million,$34 Thousand,229X
+Sub-Zero,2023,James J. Bakke,$8 Million,$34 Thousand,220X
+Sub-Zero,2022,James J. Bakke,$7 Million,$34 Thousand,211X
+Sub-Zero,2021,James J. Bakke,$7 Million,$34 Thousand,202X
+Sub-Zero,2020,James J. Bakke,$7 Million,$34 Thousand,194X
+Sub-Zero,2019,James J. Bakke,$6 Million,$34 Thousand,185X
+Sub-Zero,2018,James J. Bakke,$6 Million,$34 Thousand,176X
+Sun Pharmaceutical,2024,Dilip Shanghvi,$12 Million,$30 Thousand,400X
+Sun Pharmaceutical,2023,Dilip Shanghvi,$11 Million,$29 Thousand,387X
+Sun Pharmaceutical,2022,Dilip Shanghvi,$11 Million,$29 Thousand,374X
+Sun Pharmaceutical,2021,Dilip Shanghvi,$10 Million,$28 Thousand,362X
+Sun Pharmaceutical,2020,Dilip Shanghvi,$10 Million,$27 Thousand,350X
+Sun Pharmaceutical,2019,Dilip Shanghvi,$9 Million,$27 Thousand,338X
+Sun Pharmaceutical,2018,Dilip Shanghvi,$8 Million,$26 Thousand,327X
+Suntory Beverage & Food,2024,Takuji Nakashima,$85 Million,$63 Thousand,1349X
+Suntory Beverage & Food,2023,Takuji Nakashima,$80 Million,$61 Thousand,1305X
+Suntory Beverage & Food,2022,Takuji Nakashima,$76 Million,$60 Thousand,1262X
+Suntory Beverage & Food,2021,Takuji Nakashima,$71 Million,$59 Thousand,1220X
+Suntory Beverage & Food,2020,Takuji Nakashima,$67 Million,$57 Thousand,1180X
+Suntory Beverage & Food,2019,Takuji Nakashima,$64 Million,$56 Thousand,1141X
+Suntory Beverage & Food,2018,Takuji Nakashima,$60 Million,$54 Thousand,1103X
+Supreme,2024,James Jebbia,$18 Million,$54 Thousand,329X
+Supreme,2023,James Jebbia,$17 Million,$53 Thousand,320X
+Supreme,2022,James Jebbia,$16 Million,$52 Thousand,310X
+Supreme,2021,James Jebbia,$15 Million,$51 Thousand,302X
+Supreme,2020,James Jebbia,$15 Million,$50 Thousand,293X
+Supreme,2019,James Jebbia,$14 Million,$49 Thousand,285X
+Supreme,2018,James Jebbia,$13 Million,$48 Thousand,277X
+Sysco Corporation,2024,Kevin Hourican,$65 Million,$53 Thousand,1226X
+Sysco Corporation,2023,Kevin Hourican,$61 Million,$52 Thousand,1186X
+Sysco Corporation,2022,Kevin Hourican,$58 Million,$50 Thousand,1147X
+Sysco Corporation,2021,Kevin Hourican,$55 Million,$49 Thousand,1109X
+Sysco Corporation,2020,Kevin Hourican,$51 Million,$48 Thousand,1072X
+Sysco Corporation,2019,Kevin Hourican,$49 Million,$47 Thousand,1037X
+Sysco Corporation,2018,Kevin Hourican,$46 Million,$46 Thousand,1003X
+Taiwan Semiconductor Manufacturing Company (TSMC),2024,C.C. Wei,$15 Million,$30 Thousand,500X
+Taiwan Semiconductor Manufacturing Company (TSMC),2023,C.C. Wei,$14 Million,$29 Thousand,483X
+Taiwan Semiconductor Manufacturing Company (TSMC),2022,C.C. Wei,$13 Million,$29 Thousand,468X
+Taiwan Semiconductor Manufacturing Company (TSMC),2021,C.C. Wei,$13 Million,$28 Thousand,452X
+Taiwan Semiconductor Manufacturing Company (TSMC),2020,C.C. Wei,$12 Million,$27 Thousand,437X
+Taiwan Semiconductor Manufacturing Company (TSMC),2019,C.C. Wei,$11 Million,$27 Thousand,423X
+Taiwan Semiconductor Manufacturing Company (TSMC),2018,C.C. Wei,$11 Million,$26 Thousand,409X
+Takeda Pharmaceutical,2024,Christophe Weber,$57 Million,$50 Thousand,1140X
+Takeda Pharmaceutical,2023,Christophe Weber,$54 Million,$49 Thousand,1102X
+Takeda Pharmaceutical,2022,Christophe Weber,$51 Million,$48 Thousand,1066X
+Takeda Pharmaceutical,2021,Christophe Weber,$48 Million,$46 Thousand,1031X
+Takeda Pharmaceutical,2020,Christophe Weber,$45 Million,$45 Thousand,997X
+Takeda Pharmaceutical,2019,Christophe Weber,$43 Million,$44 Thousand,964X
+Takeda Pharmaceutical,2018,Christophe Weber,$40 Million,$43 Thousand,932X
+Tencent,2024,Ma Huateng,$42 Million,$44 Thousand,955X
+Tencent,2023,Ma Huateng,$39 Million,$43 Thousand,914X
+Tencent,2022,Ma Huateng,$37 Million,$42 Thousand,876X
+Tencent,2021,Ma Huateng,$34 Million,$41 Thousand,839X
+Tencent,2020,Ma Huateng,$32 Million,$40 Thousand,804X
+Tencent,2019,Ma Huateng,$30 Million,$39 Thousand,770X
+Tencent,2018,Ma Huateng,$28 Million,$38 Thousand,738X
+Tesla,2024,Elon Musk,$0 Million,$35 Thousand,0X
+Tesla,2023,Elon Musk,$19000 Million,$34 Thousand,553936X
+Tesla,2022,Elon Musk,$0 Million,$34 Thousand,0X
+Tesla,2021,Elon Musk,$56000 Million,$34 Thousand,1651917X
+Tesla,2020,Elon Musk,$0 Million,$34 Thousand,0X
+Tesla,2019,Elon Musk,$0 Million,$34 Thousand,0X
+Tesla,2018,Elon Musk,$230 Million,$33 Thousand,6907X
+Teva Pharmaceutical,2024,Kåre Schultz,$48 Million,$46 Thousand,1043X
+Teva Pharmaceutical,2023,Kåre Schultz,$45 Million,$45 Thousand,1009X
+Teva Pharmaceutical,2022,Kåre Schultz,$43 Million,$44 Thousand,976X
+Teva Pharmaceutical,2021,Kåre Schultz,$40 Million,$43 Thousand,943X
+Teva Pharmaceutical,2020,Kåre Schultz,$38 Million,$42 Thousand,912X
+Teva Pharmaceutical,2019,Kåre Schultz,$36 Million,$41 Thousand,882X
+Teva Pharmaceutical,2018,Kåre Schultz,$34 Million,$40 Thousand,853X
+Texas Instruments,2024,Rich Templeton,$39 Million,$39 Thousand,1000X
+Texas Instruments,2023,Rich Templeton,$37 Million,$38 Thousand,967X
+Texas Instruments,2022,Rich Templeton,$35 Million,$37 Thousand,935X
+Texas Instruments,2021,Rich Templeton,$33 Million,$36 Thousand,904X
+Texas Instruments,2020,Rich Templeton,$31 Million,$35 Thousand,874X
+Texas Instruments,2019,Rich Templeton,$29 Million,$34 Thousand,845X
+Texas Instruments,2018,Rich Templeton,$27 Million,$34 Thousand,817X
+The Estée Lauder Companies,2024,Fabrizio Freda,$66 Million,$55 Thousand,1200X
+The Estée Lauder Companies,2023,Fabrizio Freda,$62 Million,$54 Thousand,1160X
+The Estée Lauder Companies,2022,Fabrizio Freda,$59 Million,$52 Thousand,1122X
+The Estée Lauder Companies,2021,Fabrizio Freda,$55 Million,$51 Thousand,1085X
+The Estée Lauder Companies,2020,Fabrizio Freda,$52 Million,$50 Thousand,1049X
+The Estée Lauder Companies,2019,Fabrizio Freda,$49 Million,$49 Thousand,1015X
+The Estée Lauder Companies,2018,Fabrizio Freda,$47 Million,$47 Thousand,981X
+The Himalaya Drug Company,2024,Madhukar B. Hebbar,$45 Million,$45 Thousand,1011X
+The Himalaya Drug Company,2023,Madhukar B. Hebbar,$42 Million,$43 Thousand,978X
+The Himalaya Drug Company,2022,Madhukar B. Hebbar,$40 Million,$42 Thousand,946X
+The Himalaya Drug Company,2021,Madhukar B. Hebbar,$38 Million,$41 Thousand,914X
+The Himalaya Drug Company,2020,Madhukar B. Hebbar,$36 Million,$40 Thousand,884X
+The Himalaya Drug Company,2019,Madhukar B. Hebbar,$34 Million,$39 Thousand,855X
+The Himalaya Drug Company,2018,Madhukar B. Hebbar,$32 Million,$38 Thousand,827X
+The North Face,2024,Scott Mellin,$14 Million,$47 Thousand,297X
+The North Face,2023,Scott Mellin,$13 Million,$46 Thousand,289X
+The North Face,2022,Scott Mellin,$13 Million,$46 Thousand,281X
+The North Face,2021,Scott Mellin,$12 Million,$45 Thousand,273X
+The North Face,2020,Scott Mellin,$12 Million,$44 Thousand,265X
+The North Face,2019,Scott Mellin,$11 Million,$43 Thousand,257X
+The North Face,2018,Scott Mellin,$11 Million,$42 Thousand,250X
+The Wonderful Company,2024,Stewart Resnick,$25 Million,$33 Thousand,758X
+The Wonderful Company,2023,Stewart Resnick,$24 Million,$32 Thousand,732X
+The Wonderful Company,2022,Stewart Resnick,$22 Million,$31 Thousand,708X
+The Wonderful Company,2021,Stewart Resnick,$21 Million,$31 Thousand,685X
+The Wonderful Company,2020,Stewart Resnick,$20 Million,$30 Thousand,662X
+The Wonderful Company,2019,Stewart Resnick,$19 Million,$29 Thousand,640X
+The Wonderful Company,2018,Stewart Resnick,$18 Million,$28 Thousand,619X
+TicWatch,2024,Zhifei Li,$4 Million,$33 Thousand,122X
+TicWatch,2023,Zhifei Li,$4 Million,$33 Thousand,116X
+TicWatch,2022,Zhifei Li,$4 Million,$33 Thousand,109X
+TicWatch,2021,Zhifei Li,$3 Million,$33 Thousand,103X
+TicWatch,2020,Zhifei Li,$3 Million,$33 Thousand,97X
+TicWatch,2019,Zhifei Li,$3 Million,$33 Thousand,91X
+TicWatch,2018,Zhifei Li,$3 Million,$33 Thousand,85X
+Tidal,2024,Jaime Roldan,$10 Million,$28 Thousand,357X
+Tidal,2023,Jaime Roldan,$9 Million,$27 Thousand,342X
+Tidal,2022,Jaime Roldan,$9 Million,$27 Thousand,328X
+Tidal,2021,Jaime Roldan,$8 Million,$26 Thousand,314X
+Tidal,2020,Jaime Roldan,$8 Million,$25 Thousand,301X
+Tidal,2019,Jaime Roldan,$7 Million,$25 Thousand,288X
+Tidal,2018,Jaime Roldan,$7 Million,$24 Thousand,276X
+Timberland,2024,Michael Barkley,$3 Million,$28 Thousand,117X
+Timberland,2023,Michael Barkley,$3 Million,$28 Thousand,114X
+Timberland,2022,Michael Barkley,$3 Million,$27 Thousand,110X
+Timberland,2021,Michael Barkley,$3 Million,$27 Thousand,107X
+Timberland,2020,Michael Barkley,$3 Million,$26 Thousand,104X
+Timberland,2019,Michael Barkley,$3 Million,$26 Thousand,101X
+Timberland,2018,Michael Barkley,$2 Million,$25 Thousand,98X
+Tingyi (Cayman Islands) Holding Corp,2024,Jia Li,$55 Million,$48 Thousand,1146X
+Tingyi (Cayman Islands) Holding Corp,2023,Jia Li,$52 Million,$47 Thousand,1108X
+Tingyi (Cayman Islands) Holding Corp,2022,Jia Li,$49 Million,$46 Thousand,1071X
+Tingyi (Cayman Islands) Holding Corp,2021,Jia Li,$46 Million,$45 Thousand,1036X
+Tingyi (Cayman Islands) Holding Corp,2020,Jia Li,$44 Million,$43 Thousand,1002X
+Tingyi (Cayman Islands) Holding Corp,2019,Jia Li,$41 Million,$42 Thousand,969X
+Tingyi (Cayman Islands) Holding Corp,2018,Jia Li,$39 Million,$41 Thousand,937X
+Toms Shoes,2024,John Auerbach,$9 Million,$38 Thousand,230X
+Toms Shoes,2023,John Auerbach,$8 Million,$37 Thousand,224X
+Toms Shoes,2022,John Auerbach,$8 Million,$36 Thousand,217X
+Toms Shoes,2021,John Auerbach,$8 Million,$36 Thousand,211X
+Toms Shoes,2020,John Auerbach,$7 Million,$35 Thousand,205X
+Toms Shoes,2019,John Auerbach,$7 Million,$34 Thousand,199X
+Toms Shoes,2018,John Auerbach,$6 Million,$34 Thousand,193X
+Toshiba,2024,Satoshi Tsunakawa,$51 Million,$44 Thousand,1172X
+Toshiba,2023,Satoshi Tsunakawa,$48 Million,$42 Thousand,1134X
+Toshiba,2022,Satoshi Tsunakawa,$45 Million,$41 Thousand,1096X
+Toshiba,2021,Satoshi Tsunakawa,$43 Million,$40 Thousand,1060X
+Toshiba,2020,Satoshi Tsunakawa,$40 Million,$39 Thousand,1025X
+Toshiba,2019,Satoshi Tsunakawa,$38 Million,$38 Thousand,991X
+Toshiba,2018,Satoshi Tsunakawa,$36 Million,$38 Thousand,958X
+Toyota,2024,Kajo Sato,$4 Million,$34 Thousand,118X
+Toyota,2023,Kajo Sato,$4 Million,$34 Thousand,112X
+Toyota,2022,Kajo Sato,$4 Million,$34 Thousand,106X
+Toyota,2021,Kajo Sato,$3 Million,$34 Thousand,100X
+Toyota,2020,Kajo Sato,$3 Million,$34 Thousand,94X
+Toyota,2019,Kajo Sato,$3 Million,$34 Thousand,88X
+Toyota,2018,Kajo Sato,$3 Million,$34 Thousand,82X
+Tribit,2024,Eric He,$4 Million,$33 Thousand,108X
+Tribit,2023,Eric He,$3 Million,$33 Thousand,102X
+Tribit,2022,Eric He,$3 Million,$33 Thousand,95X
+Tribit,2021,Eric He,$3 Million,$33 Thousand,89X
+Tribit,2020,Eric He,$3 Million,$33 Thousand,83X
+Tribit,2019,Eric He,$3 Million,$33 Thousand,77X
+Tribit,2018,Eric He,$2 Million,$33 Thousand,71X
+Tubi,2024,Farhad Massoudi,$58 Million,$52 Thousand,1115X
+Tubi,2023,Farhad Massoudi,$54 Million,$51 Thousand,1069X
+Tubi,2022,Farhad Massoudi,$51 Million,$49 Thousand,1024X
+Tubi,2021,Farhad Massoudi,$47 Million,$48 Thousand,981X
+Tubi,2020,Farhad Massoudi,$44 Million,$47 Thousand,939X
+Tubi,2019,Farhad Massoudi,$41 Million,$46 Thousand,900X
+Tubi,2018,Farhad Massoudi,$39 Million,$45 Thousand,862X
+Twitch,2024,Dan Clancy,$42 Million,$44 Thousand,955X
+Twitch,2023,Dan Clancy,$39 Million,$43 Thousand,914X
+Twitch,2022,Dan Clancy,$37 Million,$42 Thousand,876X
+Twitch,2021,Dan Clancy,$34 Million,$41 Thousand,839X
+Twitch,2020,Dan Clancy,$32 Million,$40 Thousand,804X
+Twitch,2019,Dan Clancy,$30 Million,$39 Thousand,770X
+Twitch,2018,Dan Clancy,$28 Million,$38 Thousand,738X
+X,2024,Linda Yaccarino,$82 Million,$64 Thousand,1281X
+X,2023,Linda Yaccarino,$77 Million,$62 Thousand,1227X
+X,2022,Linda Yaccarino,$72 Million,$61 Thousand,1176X
+X,2021,Linda Yaccarino,$67 Million,$59 Thousand,1126X
+X,2020,Linda Yaccarino,$63 Million,$58 Thousand,1079X
+X,2019,Linda Yaccarino,$58 Million,$57 Thousand,1033X
+X,2018,Linda Yaccarino,$55 Million,$55 Thousand,990X
+Tyson Foods,2024,Donnie D. King,$55 Million,$48 Thousand,1146X
+Tyson Foods,2023,Donnie D. King,$52 Million,$47 Thousand,1108X
+Tyson Foods,2022,Donnie D. King,$49 Million,$46 Thousand,1071X
+Tyson Foods,2021,Donnie D. King,$46 Million,$45 Thousand,1036X
+Tyson Foods,2020,Donnie D. King,$44 Million,$43 Thousand,1002X
+Tyson Foods,2019,Donnie D. King,$41 Million,$42 Thousand,969X
+Tyson Foods,2018,Donnie D. King,$39 Million,$41 Thousand,937X
+UCB,2024,Jean-Christophe Tellier,$57 Million,$50 Thousand,1140X
+UCB,2023,Jean-Christophe Tellier,$54 Million,$49 Thousand,1102X
+UCB,2022,Jean-Christophe Tellier,$51 Million,$48 Thousand,1066X
+UCB,2021,Jean-Christophe Tellier,$48 Million,$46 Thousand,1031X
+UCB,2020,Jean-Christophe Tellier,$45 Million,$45 Thousand,997X
+UCB,2019,Jean-Christophe Tellier,$43 Million,$44 Thousand,964X
+UCB,2018,Jean-Christophe Tellier,$40 Million,$43 Thousand,932X
+Ultimate Ears,2024,Jonah Staw,$5 Million,$33 Thousand,136X
+Ultimate Ears,2023,Jonah Staw,$4 Million,$33 Thousand,130X
+Ultimate Ears,2022,Jonah Staw,$4 Million,$33 Thousand,123X
+Ultimate Ears,2021,Jonah Staw,$4 Million,$33 Thousand,117X
+Ultimate Ears,2020,Jonah Staw,$4 Million,$33 Thousand,111X
+Ultimate Ears,2019,Jonah Staw,$4 Million,$33 Thousand,105X
+Ultimate Ears,2018,Jonah Staw,$3 Million,$33 Thousand,99X
+Under Armour,2024,Colleen O'Neill,$14 Million,$47 Thousand,297X
+Under Armour,2023,Colleen O'Neill,$13 Million,$46 Thousand,289X
+Under Armour,2022,Colleen O'Neill,$13 Million,$46 Thousand,281X
+Under Armour,2021,Colleen O'Neill,$12 Million,$45 Thousand,273X
+Under Armour,2020,Colleen O'Neill,$12 Million,$44 Thousand,265X
+Under Armour,2019,Colleen O'Neill,$11 Million,$43 Thousand,257X
+Under Armour,2018,Colleen O'Neill,$11 Million,$42 Thousand,250X
+Unicharm,2024,Takahisa Takahara,$17 Million,$31 Thousand,557X
+Unicharm,2023,Takahisa Takahara,$16 Million,$30 Thousand,539X
+Unicharm,2022,Takahisa Takahara,$15 Million,$29 Thousand,521X
+Unicharm,2021,Takahisa Takahara,$14 Million,$28 Thousand,504X
+Unicharm,2020,Takahisa Takahara,$13 Million,$28 Thousand,487X
+Unicharm,2019,Takahisa Takahara,$13 Million,$27 Thousand,471X
+Unicharm,2018,Takahisa Takahara,$12 Million,$26 Thousand,456X
+Unilever,2024,Alan Jope,$95 Million,$68 Thousand,1397X
+Unilever,2023,Alan Jope,$90 Million,$66 Thousand,1351X
+Unilever,2022,Alan Jope,$85 Million,$65 Thousand,1306X
+Unilever,2021,Alan Jope,$80 Million,$63 Thousand,1263X
+Unilever,2020,Alan Jope,$75 Million,$62 Thousand,1221X
+Unilever,2019,Alan Jope,$71 Million,$60 Thousand,1181X
+Unilever,2018,Alan Jope,$67 Million,$59 Thousand,1142X
+Valentino,2024,Jacopo Venturini,$10 Million,$35 Thousand,288X
+Valentino,2023,Jacopo Venturini,$10 Million,$35 Thousand,277X
+Valentino,2022,Jacopo Venturini,$9 Million,$35 Thousand,265X
+Valentino,2021,Jacopo Venturini,$9 Million,$35 Thousand,254X
+Valentino,2020,Jacopo Venturini,$8 Million,$35 Thousand,242X
+Valentino,2019,Jacopo Venturini,$8 Million,$35 Thousand,231X
+Valentino,2018,Jacopo Venturini,$8 Million,$35 Thousand,219X
+Valve,2024,Gabe Newell,$1 Million,$61 Thousand,10X
+Valve,2023,Gabe Newell,$1 Million,$61 Thousand,10X
+Valve,2022,Gabe Newell,$1 Million,$61 Thousand,10X
+Valve,2021,Gabe Newell,$1 Million,$61 Thousand,10X
+Valve,2020,Gabe Newell,$1 Million,$61 Thousand,10X
+Valve,2019,Gabe Newell,$1 Million,$61 Thousand,10X
+Valve,2018,Gabe Newell,$1 Million,$61 Thousand,10X
+Vans,2024,Doug Palladini,$18 Million,$54 Thousand,329X
+Vans,2023,Doug Palladini,$17 Million,$53 Thousand,320X
+Vans,2022,Doug Palladini,$16 Million,$52 Thousand,310X
+Vans,2021,Doug Palladini,$15 Million,$51 Thousand,302X
+Vans,2020,Doug Palladini,$15 Million,$50 Thousand,293X
+Vans,2019,Doug Palladini,$14 Million,$49 Thousand,285X
+Vans,2018,Doug Palladini,$13 Million,$48 Thousand,277X
+Veja,2024,Sebastien Kopp,$7 Million,$35 Thousand,199X
+Veja,2023,Sebastien Kopp,$7 Million,$34 Thousand,194X
+Veja,2022,Sebastien Kopp,$6 Million,$33 Thousand,188X
+Veja,2021,Sebastien Kopp,$6 Million,$33 Thousand,183X
+Veja,2020,Sebastien Kopp,$6 Million,$32 Thousand,178X
+Veja,2019,Sebastien Kopp,$5 Million,$31 Thousand,173X
+Veja,2018,Sebastien Kopp,$5 Million,$31 Thousand,168X
+Versace,2024,Emmanuel Gintzburger,$10 Million,$35 Thousand,273X
+Versace,2023,Emmanuel Gintzburger,$9 Million,$35 Thousand,259X
+Versace,2022,Emmanuel Gintzburger,$9 Million,$35 Thousand,244X
+Versace,2021,Emmanuel Gintzburger,$8 Million,$35 Thousand,230X
+Versace,2020,Emmanuel Gintzburger,$8 Million,$35 Thousand,216X
+Versace,2019,Emmanuel Gintzburger,$7 Million,$35 Thousand,201X
+Versace,2018,Emmanuel Gintzburger,$7 Million,$35 Thousand,187X
+Vertex Pharmaceuticals,2024,Reshma Kewalramani,$84 Million,$62 Thousand,1355X
+Vertex Pharmaceuticals,2023,Reshma Kewalramani,$79 Million,$60 Thousand,1310X
+Vertex Pharmaceuticals,2022,Reshma Kewalramani,$75 Million,$59 Thousand,1267X
+Vertex Pharmaceuticals,2021,Reshma Kewalramani,$71 Million,$58 Thousand,1225X
+Vertex Pharmaceuticals,2020,Reshma Kewalramani,$67 Million,$56 Thousand,1185X
+Vertex Pharmaceuticals,2019,Reshma Kewalramani,$63 Million,$55 Thousand,1145X
+Vertex Pharmaceuticals,2018,Reshma Kewalramani,$59 Million,$53 Thousand,1108X
+Vevo,2024,Joey Levin,$34 Million,$40 Thousand,850X
+Vevo,2023,Joey Levin,$32 Million,$39 Thousand,814X
+Vevo,2022,Joey Levin,$30 Million,$38 Thousand,780X
+Vevo,2021,Joey Levin,$28 Million,$37 Thousand,747X
+Vevo,2020,Joey Levin,$26 Million,$36 Thousand,716X
+Vevo,2019,Joey Levin,$24 Million,$35 Thousand,686X
+Vevo,2018,Joey Levin,$23 Million,$34 Thousand,657X
+VF Corporation,2024,Steve Rendle,$12 Million,$44 Thousand,278X
+VF Corporation,2023,Steve Rendle,$12 Million,$43 Thousand,270X
+VF Corporation,2022,Steve Rendle,$11 Million,$42 Thousand,263X
+VF Corporation,2021,Steve Rendle,$11 Million,$42 Thousand,255X
+VF Corporation,2020,Steve Rendle,$10 Million,$41 Thousand,248X
+VF Corporation,2019,Steve Rendle,$10 Million,$40 Thousand,241X
+VF Corporation,2018,Steve Rendle,$9 Million,$39 Thousand,234X
+Vifor Pharma,2024,Fritz Weller,$30 Million,$38 Thousand,789X
+Vifor Pharma,2023,Fritz Weller,$28 Million,$37 Thousand,763X
+Vifor Pharma,2022,Fritz Weller,$27 Million,$36 Thousand,738X
+Vifor Pharma,2021,Fritz Weller,$25 Million,$35 Thousand,714X
+Vifor Pharma,2020,Fritz Weller,$24 Million,$34 Thousand,690X
+Vifor Pharma,2019,Fritz Weller,$22 Million,$34 Thousand,668X
+Vifor Pharma,2018,Fritz Weller,$21 Million,$33 Thousand,645X
+Viki,2024,Chang Kim,$34 Million,$40 Thousand,850X
+Viki,2023,Chang Kim,$32 Million,$39 Thousand,814X
+Viki,2022,Chang Kim,$30 Million,$38 Thousand,780X
+Viki,2021,Chang Kim,$28 Million,$37 Thousand,747X
+Viki,2020,Chang Kim,$26 Million,$36 Thousand,716X
+Viki,2019,Chang Kim,$24 Million,$35 Thousand,686X
+Viki,2018,Chang Kim,$23 Million,$34 Thousand,657X
+Vimeo,2024,Anjali Sud,$34 Million,$40 Thousand,850X
+Vimeo,2023,Anjali Sud,$32 Million,$39 Thousand,814X
+Vimeo,2022,Anjali Sud,$30 Million,$38 Thousand,780X
+Vimeo,2021,Anjali Sud,$28 Million,$37 Thousand,747X
+Vimeo,2020,Anjali Sud,$26 Million,$36 Thousand,716X
+Vimeo,2019,Anjali Sud,$24 Million,$35 Thousand,686X
+Vimeo,2018,Anjali Sud,$23 Million,$34 Thousand,657X
+Vudu,2024,Mike Welch,$74 Million,$60 Thousand,1233X
+Vudu,2023,Mike Welch,$69 Million,$59 Thousand,1181X
+Vudu,2022,Mike Welch,$65 Million,$57 Thousand,1132X
+Vudu,2021,Mike Welch,$60 Million,$56 Thousand,1084X
+Vudu,2020,Mike Welch,$56 Million,$54 Thousand,1039X
+Vudu,2019,Mike Welch,$53 Million,$53 Thousand,995X
+Vudu,2018,Mike Welch,$49 Million,$52 Thousand,953X
+Warner Bros. Discovery,2024,David Zaslav,$74 Million,$60 Thousand,1233X
+Warner Bros. Discovery,2023,David Zaslav,$69 Million,$59 Thousand,1181X
+Warner Bros. Discovery,2022,David Zaslav,$65 Million,$57 Thousand,1132X
+Warner Bros. Discovery,2021,David Zaslav,$60 Million,$56 Thousand,1084X
+Warner Bros. Discovery,2020,David Zaslav,$56 Million,$54 Thousand,1039X
+Warner Bros. Discovery,2019,David Zaslav,$53 Million,$53 Thousand,995X
+Warner Bros. Discovery,2018,David Zaslav,$49 Million,$52 Thousand,953X
+Western Digital,2024,David Goeckeler,$15 Million,$30 Thousand,500X
+Western Digital,2023,David Goeckeler,$14 Million,$29 Thousand,483X
+Western Digital,2022,David Goeckeler,$13 Million,$29 Thousand,468X
+Western Digital,2021,David Goeckeler,$13 Million,$28 Thousand,452X
+Western Digital,2020,David Goeckeler,$12 Million,$27 Thousand,437X
+Western Digital,2019,David Goeckeler,$11 Million,$27 Thousand,423X
+Western Digital,2018,David Goeckeler,$11 Million,$26 Thousand,409X
+Whirlpool,2024,Marc Bitzer,$8 Million,$34 Thousand,241X
+Whirlpool,2023,Marc Bitzer,$8 Million,$34 Thousand,235X
+Whirlpool,2022,Marc Bitzer,$8 Million,$34 Thousand,229X
+Whirlpool,2021,Marc Bitzer,$8 Million,$34 Thousand,221X
+Whirlpool,2020,Marc Bitzer,$7 Million,$34 Thousand,212X
+Whirlpool,2019,Marc Bitzer,$7 Million,$34 Thousand,206X
+Whirlpool,2018,Marc Bitzer,$7 Million,$34 Thousand,200X
+Wolverine World Wide,2024,Blake Krueger,$14 Million,$47 Thousand,297X
+Wolverine World Wide,2023,Blake Krueger,$13 Million,$46 Thousand,289X
+Wolverine World Wide,2022,Blake Krueger,$13 Million,$46 Thousand,281X
+Wolverine World Wide,2021,Blake Krueger,$12 Million,$45 Thousand,273X
+Wolverine World Wide,2020,Blake Krueger,$12 Million,$44 Thousand,265X
+Wolverine World Wide,2019,Blake Krueger,$11 Million,$43 Thousand,257X
+Wolverine World Wide,2018,Blake Krueger,$11 Million,$42 Thousand,250X
+Xeris Pharmaceuticals,2024,Kenneth Waggoner,$57 Million,$50 Thousand,1140X
+Xeris Pharmaceuticals,2023,Kenneth Waggoner,$54 Million,$49 Thousand,1102X
+Xeris Pharmaceuticals,2022,Kenneth Waggoner,$51 Million,$48 Thousand,1066X
+Xeris Pharmaceuticals,2021,Kenneth Waggoner,$48 Million,$46 Thousand,1031X
+Xeris Pharmaceuticals,2020,Kenneth Waggoner,$45 Million,$45 Thousand,997X
+Xeris Pharmaceuticals,2019,Kenneth Waggoner,$43 Million,$44 Thousand,964X
+Xeris Pharmaceuticals,2018,Kenneth Waggoner,$40 Million,$43 Thousand,932X
+Xerox,2024,John Visentin,$39 Million,$39 Thousand,1000X
+Xerox,2023,John Visentin,$37 Million,$38 Thousand,967X
+Xerox,2022,John Visentin,$35 Million,$37 Thousand,935X
+Xerox,2021,John Visentin,$33 Million,$36 Thousand,904X
+Xerox,2020,John Visentin,$31 Million,$35 Thousand,874X
+Xerox,2019,John Visentin,$29 Million,$34 Thousand,845X
+Xerox,2018,John Visentin,$27 Million,$34 Thousand,817X
+Xiaomi,2024,Lei Jun,$39 Million,$39 Thousand,1000X
+Xiaomi,2023,Lei Jun,$37 Million,$38 Thousand,967X
+Xiaomi,2022,Lei Jun,$35 Million,$37 Thousand,935X
+Xiaomi,2021,Lei Jun,$33 Million,$36 Thousand,904X
+Xiaomi,2020,Lei Jun,$31 Million,$35 Thousand,874X
+Xiaomi,2019,Lei Jun,$29 Million,$34 Thousand,845X
+Xiaomi,2018,Lei Jun,$27 Million,$34 Thousand,817X
+Yili Group,2024,Pan Gang,$35 Million,$38 Thousand,921X
+Yili Group,2023,Pan Gang,$33 Million,$37 Thousand,891X
+Yili Group,2022,Pan Gang,$31 Million,$36 Thousand,861X
+Yili Group,2021,Pan Gang,$29 Million,$35 Thousand,833X
+Yili Group,2020,Pan Gang,$28 Million,$34 Thousand,805X
+Yili Group,2019,Pan Gang,$26 Million,$34 Thousand,779X
+Yili Group,2018,Pan Gang,$25 Million,$33 Thousand,753X
+Yves Rocher,2024,Bruno Levesque,$52 Million,$48 Thousand,1083X
+Yves Rocher,2023,Bruno Levesque,$49 Million,$47 Thousand,1048X
+Yves Rocher,2022,Bruno Levesque,$46 Million,$46 Thousand,1013X
+Yves Rocher,2021,Bruno Levesque,$44 Million,$45 Thousand,980X
+Yves Rocher,2020,Bruno Levesque,$41 Million,$43 Thousand,947X
+Yves Rocher,2019,Bruno Levesque,$39 Million,$42 Thousand,916X
+Yves Rocher,2018,Bruno Levesque,$37 Million,$41 Thousand,886X
+Zogenix,2024,Inga Nielsen,$39 Million,$42 Thousand,929X
+Zogenix,2023,Inga Nielsen,$37 Million,$41 Thousand,898X
+Zogenix,2022,Inga Nielsen,$35 Million,$40 Thousand,868X
+Zogenix,2021,Inga Nielsen,$33 Million,$39 Thousand,840X
+Zogenix,2020,Inga Nielsen,$31 Million,$38 Thousand,812X
+Zogenix,2019,Inga Nielsen,$29 Million,$37 Thousand,785X
+Zogenix,2018,Inga Nielsen,$27 Million,$36 Thousand,759X
+Zoom,2024,Eric Yuan,$99 Million,$62 Thousand,1610X
+Zoom,2023,Eric Yuan,$93 Million,$60 Thousand,1557X
+Zoom,2022,Eric Yuan,$88 Million,$59 Thousand,1505X
+Zoom,2021,Eric Yuan,$83 Million,$57 Thousand,1455X
+Zoom,2020,Eric Yuan,$78 Million,$56 Thousand,1407X
+Zoom,2019,Eric Yuan,$74 Million,$54 Thousand,1361X
+Zoom,2018,Eric Yuan,$70 Million,$53 Thousand,1316X
+ZTE,2024,Xu Ziyang,$87 Million,$57 Thousand,1526X
+ZTE,2023,Xu Ziyang,$82 Million,$56 Thousand,1476X
+ZTE,2022,Xu Ziyang,$77 Million,$54 Thousand,1427X
+ZTE,2021,Xu Ziyang,$73 Million,$53 Thousand,1380X
+ZTE,2020,Xu Ziyang,$69 Million,$52 Thousand,1334X
+ZTE,2019,Xu Ziyang,$65 Million,$50 Thousand,1290X
+ZTE,2018,Xu Ziyang,$61 Million,$49 Thousand,1248X
+American Airlines,2024,Robert Isom,$16 Million,$33 Thousand,473X
+American Airlines,2023,Robert Isom,$31 Million,$33 Thousand,952X
+American Airlines,2022,Robert Isom,$5 Million,$33 Thousand,148X
+Delta Air Lines,2024,Ed Bastian,$27 Million,$35 Thousand,774X
+Delta Air Lines,2023,Ed Bastian,$34 Million,$35 Thousand,977X
+Delta Air Lines,2022,Ed Bastian,$10 Million,$35 Thousand,274X
+United Airlines,2024,Scott Kirby,$34 Million,$33 Thousand,1027X
+United Airlines,2023,Scott Kirby,$19 Million,$33 Thousand,564X
+United Airlines,2022,Scott Kirby,$10 Million,$33 Thousand,297X
+Southwest Airlines,2024,Bob Jordan,$11 Million,$30 Thousand,353X
+Southwest Airlines,2023,Bob Jordan,$9 Million,$30 Thousand,310X
+Southwest Airlines,2022,Bob Jordan,$5 Million,$30 Thousand,177X
+Alaska Airlines,2024,Ben Minicucci,$9 Million,$32 Thousand,269X
+Alaska Airlines,2023,Ben Minicucci,$10 Million,$32 Thousand,322X
+JetBlue Airways,2023,Robin Hayes,$11 Million,$29 Thousand,372X
+Spirit Airlines,2023,Ted Christie,$7 Million,$28 Thousand,236X
+Frontier Airlines,2024,Barry Biffle,$1 Million,$28 Thousand,50X
+Frontier Airlines,2023,Barry Biffle,$9 Million,$28 Thousand,304X
+Frontier Airlines,2022,Barry Biffle,$4 Million,$28 Thousand,132X
+SkyWest Airlines,2024,Chip Childs,$5 Million,$26 Thousand,192X
+Sun Country Airlines,2024,Jude Bricker,$4 Million,$26 Thousand,162X
+Allegiant Air,2024,Maurice Gallagher,$4 Million,$27 Thousand,130X
+Hawaiian Airlines,2024,Peter Ingram,$3 Million,$28 Thousand,100X
+Envoy Air,2024,Pedro Fábregas,$2 Million,$25 Thousand,88X
+PSA Airlines,2024,Dion Flannery,$2 Million,$25 Thousand,84X
+Piedmont Airlines,2024,Eric Morgan,$2 Million,$25 Thousand,80X
+Mesa Airlines,2024,Jonathan Ornstein,$2 Million,$24 Thousand,100X
+Republic Airways,2024,Bryan Bedford,$3 Million,$25 Thousand,100X
+Air Wisconsin,2024,Robert Binns,$2 Million,$24 Thousand,88X
+Compass Airlines,2024,Rick Leach,$2 Million,$23 Thousand,87X
+GoJet Airlines,2024,Richard Leach,$2 Million,$23 Thousand,87X
+Elite Airways,2024,John Pearsall,$2 Million,$22 Thousand,68X
+Silver Airways,2024,Steve Rossum,$2 Million,$23 Thousand,78X
+Boutique Air,2024,Shawn Simpson,$1 Million,$22 Thousand,64X
+Southern Airways Express,2024,Stan Little,$2 Million,$22 Thousand,73X
+Ameriflight,2024,Paul Chase,$1 Million,$21 Thousand,62X
+Empire Airlines,2024,Tim Komberec,$1 Million,$21 Thousand,57X
+Wiggins Airways,2024,Patrick Pelkola,$1 Million,$21 Thousand,52X
+Key Lime Air,2024,George Bye,$1 Million,$20 Thousand,50X
+Cape Air,2024,Dan Wolf,$1 Million,$20 Thousand,60X
+Tradewind Aviation,2024,Eric Zipkin,$1 Million,$20 Thousand,55X
+Procter & Gamble,2024,Jon Moeller,$25 Million,$45 Thousand,564X
+Procter & Gamble,2023,Jon Moeller,$24 Million,$44 Thousand,559X
+Procter & Gamble,2022,Jon Moeller,$23 Million,$42 Thousand,545X
+Procter & Gamble,2021,David Taylor,$24 Million,$40 Thousand,598X
+Johnson & Johnson,2024,Joaquin Duato,$28 Million,$47 Thousand,604X
+Johnson & Johnson,2023,Joaquin Duato,$28 Million,$46 Thousand,600X
+Johnson & Johnson,2022,Joaquin Duato,$13 Million,$45 Thousand,294X
+Johnson & Johnson,2021,Alex Gorsky,$27 Million,$43 Thousand,621X
+Colgate-Palmolive,2024,Noel Wallace,$19 Million,$39 Thousand,492X
+Colgate-Palmolive,2023,Noel Wallace,$19 Million,$39 Thousand,483X
+Colgate-Palmolive,2022,Noel Wallace,$18 Million,$37 Thousand,473X
+Colgate-Palmolive,2021,Noel Wallace,$16 Million,$36 Thousand,447X
+Kimberly-Clark,2024,Michael Hsu,$16 Million,$38 Thousand,413X
+Kimberly-Clark,2023,Michael Hsu,$15 Million,$37 Thousand,408X
+Kimberly-Clark,2022,Michael Hsu,$15 Million,$37 Thousand,400X
+Kimberly-Clark,2021,Michael Hsu,$14 Million,$35 Thousand,397X
+Estée Lauder,2024,Fabrizio Freda,$21 Million,$41 Thousand,520X
+Estée Lauder,2023,Fabrizio Freda,$20 Million,$40 Thousand,503X
+Estée Lauder,2022,Fabrizio Freda,$19 Million,$39 Thousand,497X
+Estée Lauder,2021,Fabrizio Freda,$18 Million,$38 Thousand,468X
+Clorox,2024,Linda Rendle,$13 Million,$38 Thousand,344X
+Clorox,2023,Linda Rendle,$13 Million,$36 Thousand,367X
+Clorox,2022,Linda Rendle,$12 Million,$35 Thousand,337X
+Clorox,2021,Linda Rendle,$11 Million,$34 Thousand,315X
+Church & Dwight,2024,Matthew Farrell,$11 Million,$35 Thousand,323X
+Church & Dwight,2023,Matthew Farrell,$11 Million,$34 Thousand,321X
+Church & Dwight,2022,Matthew Farrell,$10 Million,$33 Thousand,309X
+Church & Dwight,2021,Matthew Farrell,$10 Million,$32 Thousand,300X
+Revlon,2024,Debra Perelman,$8 Million,$30 Thousand,260X
+Revlon,2023,Debra Perelman,$8 Million,$29 Thousand,259X
+Revlon,2022,Debra Perelman,$7 Million,$28 Thousand,254X
+Revlon,2021,Debra Perelman,$7 Million,$27 Thousand,252X
+Edgewell Personal Care,2024,Rod Little,$7 Million,$32 Thousand,216X
+Edgewell Personal Care,2023,Rod Little,$7 Million,$31 Thousand,216X
+Edgewell Personal Care,2022,Rod Little,$6 Million,$30 Thousand,213X
+Edgewell Personal Care,2021,Rod Little,$6 Million,$29 Thousand,210X
+Helen of Troy,2024,Julien Mininberg,$11 Million,$34 Thousand,324X
+Helen of Troy,2023,Julien Mininberg,$10 Million,$33 Thousand,315X
+Helen of Troy,2022,Julien Mininberg,$10 Million,$32 Thousand,316X
+Helen of Troy,2021,Julien Mininberg,$10 Million,$31 Thousand,316X
+Coty Inc.,2024,Sue Nabi,$15 Million,$32 Thousand,475X
+Coty Inc.,2023,Sue Nabi,$15 Million,$31 Thousand,474X
+Coty Inc.,2022,Sue Nabi,$14 Million,$30 Thousand,463X
+Coty Inc.,2021,Sue Nabi,$13 Million,$29 Thousand,441X
+E.l.f. Beauty,2024,Tarang Amin,$9 Million,$28 Thousand,329X
+E.l.f. Beauty,2023,Tarang Amin,$9 Million,$28 Thousand,313X
+E.l.f. Beauty,2022,Tarang Amin,$8 Million,$27 Thousand,293X
+E.l.f. Beauty,2021,Tarang Amin,$7 Million,$26 Thousand,277X
+SC Johnson,2024,Fisk Johnson,$14 Million,$31 Thousand,435X
+SC Johnson,2023,Fisk Johnson,$13 Million,$30 Thousand,430X
+SC Johnson,2022,Fisk Johnson,$12 Million,$29 Thousand,417X
+SC Johnson,2021,Fisk Johnson,$11 Million,$28 Thousand,404X
+Shiseido Americas,2024,Ron Gee,$11 Million,$30 Thousand,357X
+Shiseido Americas,2023,Ron Gee,$10 Million,$29 Thousand,348X
+Shiseido Americas,2022,Ron Gee,$10 Million,$28 Thousand,339X
+Shiseido Americas,2021,Ron Gee,$9 Million,$27 Thousand,330X
+JPMorgan Chase & Co.,2024,Jamie Dimon,$39 Million,$35 Thousand,1114X
+Bank of America Corp.,2024,Brian Moynihan,$35 Million,$33 Thousand,1061X
+Wells Fargo & Co.,2024,Charlie Scharf,$31 Million,$32 Thousand,975X
+Citigroup Inc.,2024,Jane Fraser,$35 Million,$30 Thousand,1150X
+Goldman Sachs Group,2024,David Solomon,$39 Million,$40 Thousand,975X
+Morgan Stanley,2024,Ted Pick,$34 Million,$38 Thousand,895X
+U.S. Bancorp,2024,Andrew Cecere,$19 Million,$28 Thousand,689X
+PNC Financial Services,2024,William Demchak,$22 Million,$29 Thousand,771X
+Truist Financial Corp.,2024,William Rogers,$15 Million,$27 Thousand,556X
+Capital One Financial,2024,Richard Fairbank,$26 Million,$31 Thousand,839X
+Charles Schwab,2024,Walt Bettinger,$26 Million,$119 Thousand,222X
+Charles Schwab,2023,Walt Bettinger,$24 Million,$119 Thousand,201X
+Charles Schwab,2022,Walt Bettinger,$22 Million,$119 Thousand,185X
+Charles Schwab,2021,Walt Bettinger,$22 Million,$119 Thousand,181X
+BNY Mellon,2024,Robin Vince,$29 Million,$81 Thousand,363X
+BNY Mellon,2023,Robin Vince,$23 Million,$81 Thousand,285X
+BNY Mellon,2022,Robin Vince,$20 Million,$81 Thousand,247X
+BNY Mellon,2021,Robin Vince,$19 Million,$81 Thousand,229X
+State Street,2024,Ronald O'Hanley,$27 Million,$75 Thousand,360X
+State Street,2023,Ronald O'Hanley,$25 Million,$75 Thousand,333X
+State Street,2022,Ronald O'Hanley,$23 Million,$75 Thousand,307X
+State Street,2021,Ronald O'Hanley,$22 Million,$75 Thousand,293X
+BMO Financial Group,2024,Darryl White,$11 Million,$70 Thousand,157X
+BMO Financial Group,2023,Darryl White,$11 Million,$70 Thousand,150X
+BMO Financial Group,2022,Darryl White,$10 Million,$70 Thousand,143X
+BMO Financial Group,2021,Darryl White,$10 Million,$70 Thousand,136X
+HSBC Bank USA,2024,Michael Roberts,$9 Million,$65 Thousand,138X
+HSBC Bank USA,2023,Michael Roberts,$9 Million,$65 Thousand,131X
+HSBC Bank USA,2022,Michael Roberts,$8 Million,$65 Thousand,123X
+HSBC Bank USA,2021,Michael Roberts,$8 Million,$65 Thousand,115X
+USAA,2024,Wayne Peacock,$5 Million,$60 Thousand,83X
+USAA,2023,Wayne Peacock,$5 Million,$60 Thousand,80X
+USAA,2022,Wayne Peacock,$5 Million,$60 Thousand,75X
+USAA,2021,Wayne Peacock,$4 Million,$60 Thousand,70X
+First Citizens BancShares,2024,Frank Holding Jr.,$4 Million,$55 Thousand,64X
+First Citizens BancShares,2023,Frank Holding Jr.,$3 Million,$55 Thousand,60X
+First Citizens BancShares,2022,Frank Holding Jr.,$3 Million,$55 Thousand,55X
+First Citizens BancShares,2021,Frank Holding Jr.,$3 Million,$55 Thousand,51X
+Citizens Financial Group,2024,Bruce Van Saun,$8 Million,$58 Thousand,138X
+Citizens Financial Group,2023,Bruce Van Saun,$8 Million,$58 Thousand,129X
+Citizens Financial Group,2022,Bruce Van Saun,$7 Million,$58 Thousand,121X
+Citizens Financial Group,2021,Bruce Van Saun,$7 Million,$58 Thousand,112X
+Fifth Third Bank,2024,Tim Spence,$7 Million,$57 Thousand,123X
+Fifth Third Bank,2023,Tim Spence,$7 Million,$57 Thousand,114X
+Fifth Third Bank,2022,Tim Spence,$6 Million,$57 Thousand,105X
+Fifth Third Bank,2021,Tim Spence,$6 Million,$57 Thousand,96X
+M&T Bank,2024,René Jones,$7 Million,$56 Thousand,116X
+M&T Bank,2023,René Jones,$6 Million,$56 Thousand,107X
+M&T Bank,2022,René Jones,$6 Million,$56 Thousand,98X
+M&T Bank,2021,René Jones,$5 Million,$56 Thousand,89X
+UBS,2024,Sergio Ermotti,$17 Million,$120 Thousand,142X
+UBS,2023,Sergio Ermotti,$14 Million,$120 Thousand,118X
+UBS,2022,Ralph Hamers,$13 Million,$120 Thousand,108X
+UBS,2021,Ralph Hamers,$12 Million,$120 Thousand,100X
+Huntington Bancshares,2024,Steve Steinour,$8 Million,$54 Thousand,139X
+Huntington Bancshares,2023,Steve Steinour,$7 Million,$54 Thousand,130X
+Huntington Bancshares,2022,Steve Steinour,$7 Million,$54 Thousand,120X
+Huntington Bancshares,2021,Steve Steinour,$6 Million,$54 Thousand,111X
+Ally Financial,2024,Jeffrey Brown,$9 Million,$59 Thousand,153X
+Ally Financial,2023,Jeffrey Brown,$9 Million,$59 Thousand,144X
+Ally Financial,2022,Jeffrey Brown,$8 Million,$59 Thousand,136X
+Ally Financial,2021,Jeffrey Brown,$8 Million,$59 Thousand,127X
+KeyCorp,2024,Christopher Gorman,$6 Million,$53 Thousand,113X
+KeyCorp,2023,Christopher Gorman,$6 Million,$53 Thousand,104X
+KeyCorp,2022,Christopher Gorman,$5 Million,$53 Thousand,94X
+KeyCorp,2021,Christopher Gorman,$5 Million,$53 Thousand,85X
+Ameriprise Financial,2024,James Cracchiolo,$29 Million,$134 Thousand,214X
+Ameriprise Financial,2023,James Cracchiolo,$26 Million,$134 Thousand,191X
+Ameriprise Financial,2022,James Cracchiolo,$24 Million,$134 Thousand,179X
+Ameriprise Financial,2021,James Cracchiolo,$23 Million,$134 Thousand,168X
+Versace  ,2024,John D. Idol,$10.5Million,$31.5Thousand,335X
+Versace  ,2023,John D. Idol,$14.4Million,$29Thousand,497X
+Patek Philippe,2024,Thierry Stern,$5Million ,$90Thousand ,56X 
+Patek Philippe,2023,Thierry Stern,$4.8Million ,$88Thousand ,55X 
+Patek Philippe,2022,Thierry Stern,$4.5Million ,$86Thousand ,52X 
+Patek Philippe,2021,Thierry Stern,$4.2Million ,$85Thousand ,49X 
+Audemars Piguet,2024,Ilaria Resta,$4.5Million ,$87Thousand ,52X 
+Audemars Piguet,2023,Ilaria Resta,$4.3Million ,$85Thousand ,51X 
+Audemars Piguet,2022,François-Henry Bennahmias,$4.2Million ,$83Thousand ,51X 
+Audemars Piguet,2021,François-Henry Bennahmias,$4Million ,$82Thousand ,49X 
+Huawei,2024,Ren Zhengfei,$10Million ,$45Thousand ,222X 
+Huawei,2023,Ren Zhengfei,$9.5Million ,$44Thousand ,216X 
+Huawei,2022,Ren Zhengfei,$9Million ,$43Thousand ,209X 
+Huawei,2021,Ren Zhengfei,$8.5Million ,$42Thousand ,202X 
+Acer,2024,Jason Chen,$11Million ,$70Thousand ,157X 
+Acer,2023,Jason Chen,$12Million ,$70Thousand ,171X 
+Acer,2022,Jason Chen,$12.2Million,$70Thousand,174X
+Acer,2021,Jason Chen,$18.7Million,$70Thousand,267X
+HTC,2024,Cher Wang,$3Million ,$30Thousand ,100X 
+HTC,2023,Cher Wang,$2.8Million ,$30Thousand ,93X 
+HTC,2022,Cher Wang,$2.5Million ,$29Thousand ,86X 
+HTC,2021,Cher Wang,$2.3Million ,$29Thousand ,79X 
+Banana Republic (Gap Inc.),2024,Richard Dickson,$20Million,$9.2Thousand,2105X
+Banana Republic (Gap Inc.),2023,Richard Dickson,$12Million,$9Thousand,1263X 
+Banana Republic (Gap Inc.),2022,Sonia Syngal,$18Million,$8Thousand,2118X 
+Banana Republic (Gap Inc.),2021,Sonia Syngal,$15Million,$8Thousand,1875X 
+General Motors,2024,Mary Barra,$30Million,$9.5Thousand,310X
+General Motors,2023,Mary Barra,$28Million,$9.1Thousand,303X
+General Motors,2022,Mary Barra,$29Million,$8Thousand,362X
+General Motors,2021,Mary Barra,$30Million,$7.Thousand,419X
+J.Crew Group (private),2024,Libby Wadle,$6Million,$30Thousand,200X 
+J.Crew Group (private),2023,Libby Wadle,$5.5Million,$29Thousand,186X 
+J.Crew Group (private),2022,Libby Wadle,$5Million,$28Thousand,175X 
+J.Crew Group (private),2021,Libby Wadle,$4.5Million,$28Thousand,161X 
+LG Corporation (proxy: LG Electronics),2024,Cho Joo‑wan,$2.2Million,$88Thousand,26X 
+LG Corporation (proxy: LG Electronics),2023,Cho Joo‑wan,$1.9Million,$85Thousand,21X 
+LG Corporation (proxy: LG Electronics),2022,Cho Joo‑wan,$2Million,$81Thousand,25X 
+LG Corporation (proxy: LG Electronics),2021,Kwon Bong‑seok / transition to Cho Joo‑wan,$2.1Million,$87Thousand,25X 
+Nordstrom,2024,Erik Nordstrom,$5.3Million,$35Thousand,150X
+Nordstrom,2023,Erik Nordstrom,$4.5Million,$35Thousand,127X
+Nordstrom,2022,Erik Nordstrom,$4.8Million,$35Thousand,137X 
+Nordstrom,2021,Erik Nordstrom,$4.6Million,$34Thousand,133X 
+Cargill Meat Solutions,2024,Brian Sikes,$6Million ,$40Thousand,150X
+Cargill Meat Solutions,2023,Brian Sikes,$6Million ,$40Thousand,150X
+Cargill Meat Solutions,2022,David MacLennan,$6Million ,$40Thousand,150X
+Cargill Meat Solutions,2021,David MacLennan,$6Million ,$40Thousand,150X
+Trident Seafoods,2024,Joe Bundrant,$2Million ,$50Thousand,40X
+Trident Seafoods,2023,Joe Bundrant,$2Million ,$50Thousand,40X
+Trident Seafoods,2022,Joe Bundrant,$2Million ,$50Thousand,40X
+Trident Seafoods,2021,Joe Bundrant,$2Million ,$50Thousand,40X
+Mowi USA,2024,Ivan Vindheim,$1.07Million,$40Thousand,27X
+Mowi USA,2023,Ivan Vindheim,$1.2Million ,$40Thousand,30X
+Mowi USA,2022,Ivan Vindheim,$1.7Million,$40Thousand,42X
+Mowi USA,2021,Ivan Vindheim,$1.2Million ,$40Thousand,30X
+Pacific Seafoods,2024,Frank Dulcich,$3Million ,$40Thousand,75X
+Pacific Seafoods,2023,Frank Dulcich,$3Million ,$40Thousand,75X
+Pacific Seafoods,2022,Frank Dulcich,$3Million ,$40Thousand,75X
+Pacific Seafoods,2021,Frank Dulcich,$3Million ,$40Thousand,75X
+American Seafoods Group,2024,Inge Andreassen,$1.5Million ,$40Thousand,38X
+American Seafoods Group,2023,Einar Gustafsson,$1.5Million ,$40Thousand,38X
+American Seafoods Group,2022,Einar Gustafsson,$1.5Million ,$40Thousand,38X
+American Seafoods Group,2021,Mikel Durham,$1.5Million ,$40Thousand,38X
+Taylor Shellfish Farms,2024,Tom Stocks,$2Million ,$45Thousand,44X
+Taylor Shellfish Farms,2023,Tom Stocks,$2Million ,$45Thousand,44X
+Taylor Shellfish Farms,2022,Tom Stocks,$2Million ,$45Thousand,44X
+Taylor Shellfish Farms,2021,Tom Stocks,$2Million ,$45Thousand,44X
+Ward Oyster Company,2024,Chuck Ward ,$1Million ,$35Thousand,29X
+Ward Oyster Company,2023,Chuck Ward ,$1Million ,$35Thousand,29X
+Ward Oyster Company,2022,Chuck Ward ,$1Million ,$35Thousand,29X
+Ward Oyster Company,2021,Chuck Ward ,$1Million ,$35Thousand,29X
+Chatham Shellfish Company,2024,Stephen Wright,$1.5Million ,$40Thousand,38X
+Chatham Shellfish Company,2023,Stephen Wright,$1.5Million ,$40Thousand,38X
+Chatham Shellfish Company,2022,Stephen Wright,$1.5Million ,$40Thousand,38X
+Chatham Shellfish Company,2021,Stephen Wright,$1.5Million ,$40Thousand,38X
+Tomales Bay Oyster Company,2024,John Finger ,$1.2Million ,$35Thousand,34X
+Tomales Bay Oyster Company,2023,John Finger ,$1.2Million ,$35Thousand,34X
+Tomales Bay Oyster Company,2022,John Finger ,$1.2Million ,$35Thousand,34X
+Tomales Bay Oyster Company,2021,John Finger ,$1.2Million ,$35Thousand,34X
+Bevans Oyster Company,2024,Cheryl Hinson,$1Million ,$35Thousand,29X
+Bevans Oyster Company,2023,Cheryl Hinson,$1Million ,$35Thousand,29X
+Bevans Oyster Company,2022,Cheryl Hinson,$1Million ,$35Thousand,29X
+Bevans Oyster Company,2021,Cheryl Hinson,$1Million ,$35Thousand,29X
+Handy Seafood Inc,2024,Todd Conway,$2Million ,$40Thousand,50X
+Handy Seafood Inc,2023,Todd Conway,$2Million ,$40Thousand,50X
+Handy Seafood Inc,2022,Todd Conway,$2Million ,$40Thousand,50X
+Handy Seafood Inc,2021,Todd Conway,$2Million ,$40Thousand,50X
+"Phillips Foods, Inc",2024,Dean Flowers,$3Million ,$35Thousand,86X
+"Phillips Foods, Inc",2023,Dean Flowers,$3Million ,$35Thousand,86X
+"Phillips Foods, Inc",2022,Dean Flowers,$3Million ,$35Thousand,86X
+"Phillips Foods, Inc",2021,Dean Flowers,$3Million ,$35Thousand,86X
+J. M. Clayton Seafood Company,2024,Bill Clayton ,$1.5Million ,$30Thousand,50X
+J. M. Clayton Seafood Company,2023,Bill Clayton ,$1.5Million ,$30Thousand,50X
+J. M. Clayton Seafood Company,2022,Bill Clayton ,$1.5Million ,$30Thousand,50X
+J. M. Clayton Seafood Company,2021,Bill Clayton ,$1.5Million ,$30Thousand,50X
+Boston Lobster Company,2024,Neil Zarella,$1.5Million ,$45Thousand,33X
+Boston Lobster Company,2023,Neil Zarella,$1.5Million ,$45Thousand,33X
+Boston Lobster Company,2022,Neil Zarella,$1.5Million ,$45Thousand,33X
+Boston Lobster Company,2021,Neil Zarella,$1.5Million ,$45Thousand,33X
+Clearwater Seafoods LP,2024,Ian D. Smith,$3Million ,$40Thousand,75X
+Clearwater Seafoods LP,2023,Ian D. Smith,$3Million ,$40Thousand,75X
+Clearwater Seafoods LP,2022,Ian D. Smith,$3Million ,$40Thousand,75X
+Clearwater Seafoods LP,2021,Ian D. Smith,$3Million ,$40Thousand,75X
+Little Bay Lobster,2024,Johnathan Shafmaster,$1Million ,$35Thousand,29X
+Little Bay Lobster,2023,Johnathan Shafmaster,$1Million ,$35Thousand,29X
+Little Bay Lobster,2022,Johnathan Shafmaster,$1Million ,$35Thousand,29X
+Little Bay Lobster,2021,Johnathan Shafmaster,$1Million ,$35Thousand,29X
+Taylor Farms,2024,Bruce Taylor,$4Million ,$31Thousand,129X
+Taylor Farms,2023,Bruce Taylor,$4Million ,$31Thousand,129X
+Taylor Farms,2022,Bruce Taylor,$4Million ,$31Thousand,129X
+Taylor Farms,2021,Bruce Taylor,$4Million ,$31Thousand,129X
+Grimmway Farms,2024,Jeff Huckaby,$3Million ,$35Thousand,86X
+Grimmway Farms,2023,Jeff Huckaby,$3Million ,$35Thousand,86X
+Grimmway Farms,2022,Jeff Huckaby,$3Million ,$35Thousand,86X
+Grimmway Farms,2021,Jeff Huckaby,$3Million ,$35Thousand,86X
+Boskovich Farms,2024,George Boskovich Jr.,$2Million ,$40Thousand,50X
+Boskovich Farms,2023,George Boskovich Jr.,$2Million ,$40Thousand,50X
+Boskovich Farms,2022,George Boskovich Jr.,$2Million ,$40Thousand,50X
+Boskovich Farms,2021,George Boskovich Jr.,$2Million ,$40Thousand,50X
+Pero Family Farms,2024,Peter F. Pero IV,$2Million ,$37Thousand,54X
+Pero Family Farms,2023,Peter F. Pero IV,$2Million ,$37Thousand,54X
+Pero Family Farms,2022,Peter F. Pero IV,$2Million ,$37Thousand,54X
+Pero Family Farms,2021,Peter F. Pero IV,$2Million ,$37Thousand,54X
+Torrey Farms,2024,Maureen Torrey (est.),$2Million ,$40Thousand,50X
+Torrey Farms,2023,Maureen Torrey (est.),$2Million ,$40Thousand,50X
+Torrey Farms,2022,Maureen Torrey (est.),$2Million ,$40Thousand,50X
+Torrey Farms,2021,Maureen Torrey (est.),$2Million ,$40Thousand,50X
+Mastronardi Produce,2024,Paul Mastronardi,$3Million ,$35Thousand,86X
+Mastronardi Produce,2023,Paul Mastronardi,$3Million ,$35Thousand,86X
+Mastronardi Produce,2022,Paul Mastronardi,$3Million ,$35Thousand,86X
+Mastronardi Produce,2021,Paul Mastronardi,$3Million ,$35Thousand,86X
+Windset Farms,2024,Steven Newell,$2Million ,$44Thousand,45X
+Windset Farms,2023,Steven Newell,$2Million ,$44Thousand,45X
+Windset Farms,2022,Steven Newell,$2Million ,$44Thousand,45X
+Windset Farms,2021,Steven Newell,$2Million ,$44Thousand,45X
+Village Farms,2024,Michael A. DeGiglio,$1.7Million,$36Thousand,47X
+Village Farms,2023,Michael A. DeGiglio,$1.7Million ,$36Thousand,47X
+Village Farms,2022,Michael A. DeGiglio,$1.6Million ,$35Thousand,46X
+Village Farms,2021,Michael A. DeGiglio,$1.5Million ,$34Thousand,44X
+BrightFarms,2024,Steve Platt,$2Million ,$40Thousand,50X
+BrightFarms,2023,Steve Platt,$2Million ,$40Thousand,50X
+BrightFarms,2022,Steve Platt,$1.8Million ,$39Thousand,46X
+BrightFarms,2021,Steve Platt,$1.8Million ,$38Thousand,47X
+J.R. Simplot Company,2024,Garrett Lofto,$4Million ,$45Thousand,89X
+J.R. Simplot Company,2023,Garrett Lofto,$4Million ,$45Thousand,89X
+J.R. Simplot Company,2022,Garrett Lofto,$3.8Million ,$44Thousand,86X
+J.R. Simplot Company,2021,Garrett Lofto,$3.5Million ,$43Thousand,81X
+Basic American Foods,2024,George Hume,$3Million ,$35Thousand,86X
+Basic American Foods,2023,George Hume,$3Million ,$35Thousand,86X
+Basic American Foods,2022,George Hume,$2.8Million ,$34Thousand,82X
+Basic American Foods,2021,George Hume,$2.5Million ,$33Thousand,76X
+Barilla America,2024,Melissa Tendick,$2Million ,$48Thousand,42X
+Barilla America,2023,Melissa Tendick,$2Million ,$48Thousand,42X
+Barilla America,2022,Jean-Pierre Comte,$1.9Million ,$47Thousand,40X
+Barilla America,2021,Jean-Pierre Comte,$1.8Million ,$46Thousand,39X
+Costco,2024,Ron Vachris,$12.2Million,$47Thousand,259X
+Costco,2023,Craig Jelinek,$16.8Million,$45Thousand,373X
+Costco,2022,Craig Jelinek,$9.9Million,$43Thousand,230X
+Costco,2021,Craig Jelinek,$8.8Million,$40Thousand,220X
+FoodMaxx,2024,Rob Boney,$2Million ,$32Thousand,63X
+FoodMaxx,2023,Rob Boney,$2Million ,$31Thousand,65X
+FoodMaxx,2022,Rob Boney,$2Million ,$30Thousand,67X
+FoodMaxx,2021,Rob Boney,$2Million ,$29Thousand,69X
+Price Chopper,2024,John Persons,$3Million ,$35Thousand,86X
+Price Chopper,2023,Frank Curci,$3Million ,$34Thousand,88X
+Price Chopper,2022,Frank Curci,$3Million ,$33Thousand,91X
+Price Chopper,2021,Frank Curci,$3Million ,$32Thousand,94X
+Starbucks,2024,Brian Niccol,$95.8Million,$15Thousand,6387X
+Starbucks,2023,Laxman Narasimhan,$21.5Million,$18Thousand,1194X
+Starbucks,2022,Kevin Johnson,$18.3Million,$17Thousand,1076X
+Starbucks,2021,Kevin Johnson,$15Million ,$16Thousand,938X
+Albertsons,2024,Vivek Sankaran,$15.2Million,$35Thousand,434X
+Albertsons,2023,Vivek Sankaran,$15.1Million,$34Thousand,444X
+Albertsons,2022,Vivek Sankaran,$16.1Million,$33Thousand,488X
+Albertsons,2021,Vivek Sankaran,$8.6Million,$32Thousand,269X
+Whole Foods Market,2024,Jason Buechel,$5Million ,$40Thousand,125X
+Whole Foods Market,2023,Jason Buechel,$5Million ,$39Thousand,128X
+Whole Foods Market,2022,John Mackey,$5Million ,$38Thousand,132X
+Whole Foods Market,2021,John Mackey,$5Million ,$37Thousand,135X
+Test Whole Food Market,2025,Test John User,$5Million ,$37Thousand,150X
+Apple,2025,Tim Cook,$74.3 Million,$75 Thousand,991X
+CrowdStrike,2025,George Kurtz,$47.0 Million,$80 Thousand,588X
+Fortinet,2025,Ken Xie,$13.1 Million,$70 Thousand,187X
+Gen Digital (NortonLifeLock),2025,Vincent Pilette,$22.5 Million,$65 Thousand,346X
+Snowflake,2025,Sridhar Ramaswamy,$101.3 Million,$85 Thousand,1192X
+Meta Platforms,2025,Mark Zuckerberg,$28 Million,$80 Thousand,~350X
+Synopsys,2025,Sassine Ghazi,$27.4 Million,$63 Thousand,435X
+Marvell Technology,2025,Matt Murphy,$32.2 Million,$70 Thousand,460X
+MongoDB,2025,Dev Ittycheria,$15.8 Million,$58 Thousand,272X
+Nutanix,2025,Rajiv Ramaswami,$22.6 Million,$70 Thousand,323X
+DocuSign,2025,Allan Thygesen,$26.0 Million,$61 Thousand,426X
+Elastic,2025,Ashutosh Kulkarni,$14.3 Million,$70 Thousand,204X
+PagerDuty,2025,Jennifer Tejada,$19.8 Million,$67 Thousand,296X
+Zscaler,2025,Jay Chaudhry,$29.8 Million,$80 Thousand,373X
+Intuit,2025,Sasan Goodarzi,$36.8 Million,$65 Thousand,566X
+Atlassian,2025,Mike Cannon-Brookes / Scott Farquhar (co-CEOs),$12–$15 Million each,$75 Thousand,~180–200X
+Workday,2025,Carl Eschenbach,$28 Million,$70 Thousand,~400X
+Box,2025,Aaron Levie,$18 Million,$65 Thousand,~277X
+Okta,2025,Todd McKinnon,$22 Million,$68 Thousand,~324X
+Snap Inc.,2025,Evan Spiegel,$180 Million,$70 Thousand,~2571X
+Tesla,2025,Elon Musk,$100 Billion,$55 Thousand,"1,818,181X"
+Intel,2025,Lip-Bu Tan,$27.0 Million,$60 Thousand,450X
+Microsoft,2025,Satya Nadella,$96.5 Million,$70 Thousand,1379X
+Alphabet (Google),2025,Sundar Pichai,$10.7 Million,$75 Thousand,143X
+Netflix,2025,Ted Sarandos / Greg Peters (co-CEOs),$61 Million / $60 Million each,$65 Thousand,~938X / ~923X
+IBM,2025,Arvind Krishna,$25.1 Million,$55 Thousand,456X
+Nvidia,2025,Jensen Huang,$49.9 Million,$80 Thousand,624X
+Oracle,2025,Safra Catz,$1.1 Million,$65 Thousand,17X
+Micron,2025,Sanjay Mehrotra,$18.5 Million,$62 Thousand,298X
+Adobe,2025,Shantanu Narayen,$52.4 Million,$70 Thousand,749X
+Qualcomm,2025,Cristiano Amon,$29.7 Million,$65 Thousand,457X
+Cisco,2025,Chuck Robbins,$52.8 Million,$68 Thousand,776X
+AMD,2025,Lisa Su,$30.2 Million,$72 Thousand,419X
+Uber,2025,Dara Khosrowshahi,$45.1 Million,$58 Thousand,778X
+Okta,2025,Todd McKinnon,$22.0 Million,$68 Thousand,324X
+Palantir,2025,Alex Karp,$1.1 Million,$75 Thousand,15X
+Broadcom,2025,Hock Tan,$161.8 Million,$85 Thousand,1904X
+HP Inc.,2025,Enrique Lores,$18.7 Million,$55 Thousand,340X
+Zoom Video,2025,Eric Yuan,$15.2 Million,$70 Thousand,217X
+Snap Inc.,2025,Evan Spiegel,$180.0 Million,$70 Thousand,2571X
+Twitter/X (est.),2025,Linda Yaccarino,$20.0 Million ,$65 Thousand,308X
+SailPoint,2025,Mark McClain,$15.5 Million,$68 Thousand,228X
+NetApp,2025,George Kurian,$24.8 Million,$70 Thousand,354X
+Western Digital,2025,David Goeckeler,$22.1 Million,$65 Thousand,340X
+"F5, Inc.",2025,François Locoh-Donou,$16.9 Million,$70 Thousand,241X
+Synaptics,2025,Michael Hurlston,$14.2 Million,$62 Thousand,229X
+Varonis,2025,Yakov Faitelson,$12.8 Million,$75 Thousand,171X
+Valentino ,2025,Rachid Mohamed Rachid,$12 Million ,$55 Thousand (est.),~218X
+Tesla,2025,Elon Musk,$100 billion,$55 Thousand,"1,818,181,8X"
+Hyundai ,2025,Chang Jae-hoon (Group),$8 Million,$45 Thousand,178X
+Volvo Cars,2025,Jim Rowan,$16 Million,$50 Thousand,320X
+Nissan,2025,Ivan Espinosa,$1.8 Million,$48 Thousand,38X
+Kia,2025,Ho Sung Song,$2.9 Million,$45 Thousand,64X
+Subaru Corporation,2025,Atsushi Osaki,$1.4 Million,$50 Thousand,28X
+Tata Motors ,2025,Thierry Bolloré (JLR),$5 Million,$45 Thousand,111X
+Porsche,2025,Oliver Blume,$12 Million,$60 Thousand,200X
+Coach  ,2025,Joanne Crevoiserat,$18 Million,$50 Thousand,360X
+Mazda,2025,Masahiro Moro,$2 Million,$48 Thousand,42X
+Dolce & Gabbana ,2025,Alfonso Dolce & Domenico Gabbana (Co-Founders),$50 Million  ,$55 Thousand (est. retail),~909X
+LVMH,2025,Bernard Arnault,$12 Million  ,$55 Thousand,218X
+Estée Lauder Companies,2025,Fabrizio Freda,$25 Million,$50 Thousand,500X
+Chanel ,2025,Leena Nair,$15 Million ,$60 Thousand (est.),250X
+Kering,2025,François-Henri Pinault,$10 Million,$55 Thousand,182X
+Richemont,2025,Nicolas Bos,$12 Million,$55 Thousand,218X
+L’Oréal,2025,Nicolas Hieronimus,$18 Million,$50 Thousand,360X
+Hugo Boss,2025,Daniel Grieder,$8 Million,$50 Thousand,160X
+Burberry,2025,Joshua Schulman,$10 Million,$50 Thousand,200X
+Hermès,2025,Axel Dumas,$15 Million,$55 Thousand,273X
+Michael Kors  ,2025,John Idol,$20 Million,$50 Thousand,400X
+L’Occitane,2025,André Hoffmann,$8 Million,$50 Thousand,160X
+Gap Inc.,2025,Richard Dickson,$19.4 Million,$9 Thousand,2105X
+Bath & Body Works,2025,Gina Boswell,$12.6 Million,$10 Thousand,1291X
+Victoria's Secret,2025,Hillary Super,$15 Million,$12 Thousand,~1250X
+Abercrombie & Fitch,2025,Fran Horowitz,$17.0 Million,$2.5 Thousand,6731X
+Under Armour,2025,Kevin Plank,$11.0 Million,$13 Thousand,874X
+New Balance ,2025,Joe Preston,$10 Million ,$50 Thousand,~200X
+Balenciaga (Kering),2025,Cédric Charbit,$8 Million,$55 Thousand,145X
+Cartier (Richemont),2025,Cyrille Vigneron,$12 Million,$55 Thousand,218X
+Tiffany & Co. ,2025,Anthony Ledru,$15 Million,$55 Thousand,273X
+Moncler,2025,Remo Ruffini,$10 Million,$50 Thousand,200X
+Dr. Martens,2025,Kenny Wilson,$7 Million,$45 Thousand,156X
+Skechers,2025,Robert Greenberg,$15 Million,$50 Thousand,300X
+VF Corporation,2025,Bracken Darrell,$20 Million,$45 Thousand,444X
+Zotye Auto ,2025,N/A (limited disclosure),$2 Million ,$40 Thousand,~50X
+Haval (Great Wall Motor),2025,Wei Jianjun,$5 Million,$40 Thousand,125X
+Lynk & Co (Geely),2025,An Conghui,$4 Million,$40 Thousand,100X
+Roewe (SAIC),2025,Jia Mingdi,$3 Million,$40 Thousand,75X
+E.L.F. Cosmetics,2025,Tarang Amin,$18 Million,$55 Thousand,327X
+Columbia Sportswear,2025,Tim Boyle,$12 Million,$50 Thousand,240X
+Lululemon Athletica,2025,Calvin McDonald,$20 Million,$60 Thousand,333X
+Kiehl’s (L’Oréal),2025,Nicolas Hieronimus,$18 Million,$50 Thousand,360X
+Drunk Elephant (Shiseido),2025,Masahiko Uotani,$10 Million,$50 Thousand,200X
+The Estée Lauder Companies (Sub-brands),2025,Fabrizio Freda,$25 Million,$50 Thousand,500X
+Yves Saint Laurent,2025,Kering Group CEO,$10 Million,$55 Thousand,182X
+Kohl’s,2025,Tom Kingsbury,$12 Million,$45 Thousand,267X
+Coty Inc.,2025,Sue Nabi,$22.5 Million,$50 Thousand,450X
+Urban Decay ,2025,Nicolas Hieronimus (L’Oréal Group),$18 Million,$50 Thousand,360X
+Aldo Group,2025,David Bensadoun,$5 Million ,$45 Thousand,111X
+Charlotte Tilbury  ,2025,Demetra Pinsent (Charlotte Tilbury) / Marc Puig (Puig Group),$12 Million ,$55 Thousand,218X
+Glossier,2025,Kyle Leahy,$5 Million ,$60 Thousand,83X
+La Mer ,2025,Stéphane de La Faverie (Estée Lauder Group),$9.6 Million,$50 Thousand,192X
+Givenchy (LVMH),2025,Bernard Arnault (LVMH Group),$12 Million,$55 Thousand,218X
+Balmain,2025,Rachid Mohamed Rachid,$8 Million ,$55 Thousand,145X
+Stila Cosmetics,2025,N/A (brand-level not disclosed; parent est.),$10 Million ,$55 Thousand,182X
+Nike,2025,Elliott Hill,$25 Million ,$55 Thousand,455X
+Adidas (US ops),2025,Bjørn Gulden,$10 Million,$50 Thousand,200X
+Wolverine Worldwide,2025,Chris Hufnagel,$12 Million,$45 Thousand,267X
+Deckers Brands,2025,Stefano Caroti,$18 Million,$50 Thousand,360X
+Bata USA,2025,Gunther Rada,$4 Million ,$45 Thousand,89X
+Converse (Nike),2025,Scott Uzzell,$20 Million ,$55 Thousand,364X
+Reebok (Authentic Brands US ops),2025,James Bond,$8 Million ,$50 Thousand,160X
+Asics,2025,Yasuhito Hirota,$5 Million,$50 Thousand,100X
+Lowe’s,2025,Marvin Ellison,$20 Million,$45 Thousand,444X
+Steve Madden,2025,Edward Rosenfeld,$15 Million,$50 Thousand,300X
+Crocs,2025,Andrew Rees,$18 Million,$50 Thousand,360X
+Camuto Group,2025,N/A (limited disclosure),$5 Million ,$45 Thousand,111X
+Toms Shoes,2025,CEO (private),$6 Million ,$45 Thousand,133X
+Merrell (Wolverine Worldwide),2025,Chris Hufnagel,$12 Million,$45 Thousand,267X
+Ecco (US ops),2025,Panos Grammatikopoulos,$5 Million ,$50 Thousand,100X
+Naturalizer (Caleres),2025,Jay Schmidt,$10 Million,$45 Thousand,222X
+Dr. Martens (US ops),2025,Kenny Wilson,$7 Million,$45 Thousand,156X
+K-Swiss (Caleres),2025,Jay Schmidt,$10 Million,$45 Thousand,222X
+On Running (US ops),2025,David Allemann,$15 Million,$60 Thousand,250X
+PUMA (US ops),2025,Arne Freundt,$8 Million,$50 Thousand,160X
+Walmart,2025,Doug McMillon,$25 Million,$45 Thousand,556X
+Target,2025,Brian Cornell,$20 Million,$45 Thousand,444X
+Costco,2025,Craig Jelinek (or successor),$18 Million,$50 Thousand,360X
+The Home Depot,2025,Ted Decker,$25 Million,$45 Thousand,556X
+Tractor Supply Company,2025,Hal Lawton,$15 Million,$45 Thousand,333X
+Walgreens Boots Alliance,2025,Tim Wentworth,$15 Million,$45 Thousand,333X
+CVS Health,2025,Karen Lynch,$20 Million,$45 Thousand,444X
+Best Buy,2025,Corie Barry,$18 Million,$45 Thousand,400X
+Macy’s,2025,Tony Spring,$15 Million,$45 Thousand,333X
+Dollar General,2025,Todd Vasos,$12 Million,$40 Thousand,300X
+West Liberty Foods ,2025,CEO (private),$4 Million ,$40 Thousand,100X
+J.C. Penney,2025,Marc Rosen,$10 Million ,$45 Thousand,222X
+Nordstrom,2025,Erik Nordstrom,$4.5 Million,$45 Thousand,100X
+Michaels Stores ,2025,David Boone,$8 Million ,$45 Thousand,178X
+AutoZone,2025,Phil Daniele,$9.6 Million,$45 Thousand,213X
+O’Reilly Auto Parts,2025,Brad Beckham,$2.8 Million,$45 Thousand,62X
+Ross Stores,2025,Barbara Rentler,$9.6 Million,$45 Thousand,213X
+Dollar Tree,2025,Rick Dreiling (or successor),$10 Million ,$40 Thousand,250X
+7-Eleven (US ops),2025,Group CEO,$15 Million ,$45 Thousand,333X
+Burlington Stores,2025,Michael O'Sullivan,$15.4 Million,$45 Thousand,342X
+Five Below,2025,Joel Anderson  ,$10 Million ,$45 Thousand,222X
+Victoria’s Secret,2025,Hillary Super,$15 Million ,$12 Thousand,1250X
+AutoNation,2025,Mike Manley,$15 Million ,$45 Thousand,333X
+Piggly Wiggly (franchise/private),2025,Franchise-level,$2 Million ,$40 Thousand,50X
+Wegmans Food Markets ,2025,Colleen Wegman,$5 Million ,$45 Thousand,111X
+Hy-Vee ,2025,Randy Edeker,$4 Million ,$45 Thousand,89X
+Weis Markets,2025,Jonathan Weis,$5 Million ,$45 Thousand,111X
+The Fresh Market,2025,Michael McCartney,$6 Million ,$45 Thousand,133X
+Price Rite,2025,Joseph Sheridan,$10 Million ,$45 Thousand,222X
+Food Lion (Ahold Delhaize US ops),2025,Frans Muller,$8 Million ,$45 Thousand,178X
+Giant Food,2025,Frans Muller,$12 Million,$45 Thousand,267X
+Safeway,2025,Vivek Sankaran,$20 Million ,$45 Thousand,444X
+Kroger,2025,Rodney McMullen,$5 Million ,$45 Thousand,111X
+Trader Joe’s,2025,Bryan Reed,$6 Million ,$45 Thousand,133X
+Aldi US,2025,Markus Giesler,$10 Million,$45 Thousand,222X
+Dollar Tree / Family Dollar,2025,Rick Dreiling,$10 Million,$40 Thousand,250X
+The Fresh Market,2025,Michael McCartney,$4 Million ,$45 Thousand,89X
+Price Rite,2025,Joseph Sheridan,$5 Million ,$45 Thousand,111X
+Bashas',2025,Edward Basha,$3 Million ,$45 Thousand,67X
+Harris Teeter,2025,Rodney McMullen,$20 Million ,$45 Thousand,444X
+Wayne Farms,2025,CEO (private),$5 Million ,$40 Thousand,125X
+PriceSmart,2025,Julián Zegarra,$5 Million,$45 Thousand,111X
+Giant Eagle,2025,Laura Shapira Karet,$6 Million ,$45 Thousand,133X
+Meijer,2025,Hank Meijer,$5 Million ,$45 Thousand,111X
+WinCo Foods,2025,CEO (private),$4 Million ,$45 Thousand,89X
+Food Town,2025,CEO (private),$2 Million ,$45 Thousand,44X
+Earth Fare,2025,CEO (private),$2 Million ,$45 Thousand,44X
+Associated Wholesale Grocers,2025,Dan Funk,$5 Million ,$45 Thousand,111X
+Harps Food Stores,2025,CEO (private),$3 Million ,$45 Thousand,67X
+Food City (K-VA-T),2025,CEO (private),$3 Million ,$45 Thousand,67X
+FoodMaxx,2025,Bob Piccinini,$4 Million ,$45 Thousand,89X
+Tyson Foods,2025,Donnie King,$15 Million,$40 Thousand,375X
+JBS USA,2025,Wesley Batista Filho,$10 Million ,$40 Thousand,250X
+Cargill Meat Solutions,2025,Brian Sikes,$12 Million ,$40 Thousand,300X
+Smithfield Foods,2025,Dennis Treacy,$8 Million ,$40 Thousand,200X
+Hormel Foods,2025,Jim Snee,$12 Million,$45 Thousand,267X
+Perdue Farms,2025,Randy Day,$6 Million ,$40 Thousand,150X
+Sanderson Farms,2025,Joe Sanderson (legacy) / Cargill integration,$5 Million ,$40 Thousand,125X
+National Beef Packing,2025,Tim Klein,$5 Million ,$40 Thousand,125X
+Pilgrim’s Pride,2025,Fabio Sandri,$14 Million,$40 Thousand,350X
+West Liberty Foods,2025,CEO (private),$4 Million ,$40 Thousand,100X
+KeyCorp,2025,Chris Gorman,$12 Million,$55 Thousand,218X
+Koch Foods,2025,Joseph Grendys,$10 Million ,$40 Thousand,250X
+Marfrig Global Foods (US ops),2025,Wesley Batista Filho,$8 Million ,$40 Thousand,200X
+The Chefs’ Warehouse,2025,Chris Pappas,$5.8 Million,$55 Thousand,105X
+Darling Ingredients,2025,Randy Stuewe,$8.2 Million,$45 Thousand,182X
+Olymel ,2025,Olymel CEO,$4 Million ,$45 Thousand,89X
+General Mills,2025,Jeff Harmening,$12.5 Million,$50 Thousand,250X
+Kellogg Company (WK Kellogg),2025,Gary Pilnick,$6.1 Million,$50 Thousand,122X
+Conagra Brands,2025,Sean Connolly,$15 Million,$45 Thousand,333X
+Campbell Soup Company,2025,Mick Beekhuizen,$9.9 Million,$45 Thousand,220X
+Mondelez International,2025,Dirk Van de Put,$22.3 Million,$50 Thousand,446X
+TreeHouse Foods,2025,TreeHouse CEO,$10 Million ,$45 Thousand,222X
+House Foods (US ops),2025,House Foods Group CEO,$3 Million ,$50 Thousand,60X
+B&G Foods,2025,Kenneth Romanzi,$8 Million ,$45 Thousand,178X
+Post Holdings,2025,Rob Vitale,$12 Million,$45 Thousand,267X
+Cal-Maine Foods,2025,Sherman Miller,$5 Million ,$40 Thousand,125X
+Ingredion Incorporated,2025,Jim Zallie,$10 Million,$50 Thousand,200X
+J.M. Smucker Company,2025,Mark Smucker,$15 Million,$45 Thousand,333X
+Bank of America,2025,Brian Moynihan,$30 Million,$60 Thousand,500X
+Hostess Brands ,2025,Scaled from Smucker,$15 Million,$45 Thousand,333X
+Pinnacle Foods,2025,Scaled from Conagra,$15 Million,$45 Thousand,333X
+American Airlines,2025,Robert Isom,$20 Million,$50 Thousand,400X
+Delta Air Lines,2025,Ed Bastian,$25 Million,$55 Thousand,455X
+United Airlines,2025,Scott Kirby,$20 Million,$55 Thousand,364X
+Citigroup,2025,Jane Fraser,$25 Million,$60 Thousand,417X
+Southwest Airlines,2025,Bob Jordan,$15 Million,$50 Thousand,300X
+Alaska Air Group,2025,Ben Minicucci,$12 Million,$55 Thousand,218X
+JetBlue Airways,2025,Joanna Geraghty,$10 Million,$50 Thousand,200X
+Spirit Airlines,2025,Ted Christie,$8 Million,$50 Thousand,160X
+Frontier Airlines,2025,Barry Biffle,$10 Million,$50 Thousand,200X
+Hawaiian Airlines  ,2025,Scaled from Alaska Air,$10 Million,$55 Thousand,182X
+Allegiant Air,2025,Maurice Gallagher Jr.,$8 Million,$50 Thousand,160X
+Sun Country Airlines,2025,Jude Bricker,$6 Million,$50 Thousand,120X
+Avelo Airlines,2025,Ben Baldanza,$3 Million ,$50 Thousand,60X
+Breeze Airways,2025,David Neeleman,$3 Million ,$50 Thousand,60X
+Silver Airways,2025,Shaun Duffy,$2 Million ,$50 Thousand,40X
+Contour Airlines,2025,Joe Cady,$2 Million ,$50 Thousand,40X
+RBC Bank (US ops),2025,Neil McLaughlin,$20 Million ,$60 Thousand,333X
+Eastern Airlines,2025,Harold Martin,$2 Million ,$50 Thousand,40X
+GlobalX Airlines,2025,Ed Wegel,$3 Million ,$50 Thousand,60X
+Ravn Alaska,2025,CEO (private),$2 Million ,$50 Thousand,40X
+Western Global Airlines,2025,Jim Neff,$3 Million ,$50 Thousand,60X
+JPMorgan Chase,2025,Jamie Dimon,$35 Million,$60 Thousand,583X
+Regions Financial Corporation,2025,John Turner,$12 Million,$55 Thousand,218X
+Wells Fargo,2025,Charlie Scharf,$25 Million,$55 Thousand,455X
+Goldman Sachs,2025,David Solomon,$30 Million,$70 Thousand,429X
+Morgan Stanley,2025,Ted Pick,$28 Million,$70 Thousand,400X
+U.S. Bancorp,2025,Andrew Cecere,$20 Million,$55 Thousand,364X
+PNC Financial,2025,William Demchak,$18 Million,$55 Thousand,327X
+Truist Financial,2025,William Rogers,$15 Million,$55 Thousand,273X
+Capital One,2025,Richard Fairbank,$25 Million,$60 Thousand,417X
+Bank of New York Mellon,2025,Robin Vince,$20 Million,$60 Thousand,333X
+State Street,2025,Ronald O'Hanley,$18 Million,$60 Thousand,300X
+Citizens Financial,2025,Bruce Van Saun,$15 Million,$55 Thousand,273X
+Fifth Third Bank,2025,Tim Spence,$15 Million,$55 Thousand,273X
+KeyBank  ,2025,Chris Gorman,$12 Million,$55 Thousand,218X
+Regions Financial,2025,John Turner,$12 Million,$55 Thousand,218X
+Huntington Bancshares,2025,Stephen Steinour,$12 Million,$55 Thousand,218X
+M&T Bank,2025,René Jones,$15 Million,$55 Thousand,273X
+Zions Bancorporation,2025,Harris Simmons,$10 Million,$55 Thousand,182X
+Comerica,2025,Curtis Farmer,$10 Million,$55 Thousand,182X
+UBS (US ops),2025,Sergio Ermotti,$20 Million ,$70 Thousand,286X
+Ally Financial,2025,Michael Rhodes,$15 Million,$60 Thousand,250X
+Barclays (US ops),2025,C.S. Venkatakrishnan,$15 Million ,$70 Thousand,214X
+KeyCorp,2025,Christopher Gorman,$12 Million,$55 Thousand,218X
+Ulysse Nardin,2025,Patrick Pruniaux,$5 Million ,$60 Thousand,83X
+Ameriprise,2025,James Cracchiolo,$28.75 Million,$65 Thousand,442X
+Santander Bank (US ops),2025,Christiana Riley (Santander US),$10 Million ,$60 Thousand,167X
+Home BancShares,2025,John Allison,$6 Million ,$55 Thousand,109X
+Northern Trust,2025,Michael O'Grady,$10.93 Million,$65 Thousand,168X
+Discover Financial,2025,Michael Shepherd (interim),$5 Million ,$60 Thousand,83X
+Synchrony Financial,2025,Brian Doubles,$15 Million,$60 Thousand,250X
+Deutsche Bank (US ops),2025,Deutsche Bank Group CEO,$15 Million ,$70 Thousand,214X
+Flagstar Financial,2025,Lee Smith,$8 Million ,$60 Thousand,133X
+Mizuho Financial Group (US ops),2025,Masahiro Kihara,$12 Million ,$70 Thousand,171X
+Raymond James Financial,2025,Paul Reilly,$12 Million,$65 Thousand,185X
+First Horizon National Corporation,2025,Bryan Jordan,$10 Million,$60 Thousand,167X
+Western Alliance Bancorporation,2025,Kenneth Vecchione,$10 Million,$60 Thousand,167X
+Old National Bank,2025,Michael Scudder,$8 Million,$55 Thousand,145X
+Columbia Bank,2025,Clint Stein,$6 Million,$60 Thousand,100X
+"Cullen/Frost Bankers, Inc.",2025,Phil Green,$8 Million,$60 Thousand,133X
+Pinnacle Financial Partners,2025,Terry Turner,$10 Million,$60 Thousand,167X
+BOK Financial Corporation,2025,George Kaiser,$8 Million,$60 Thousand,133X
+FNB Corporation,2025,Vincent Delie,$7 Million,$55 Thousand,127X
+UMB Financial Corporation,2025,Mariner Kemper,$8 Million,$60 Thousand,133X
+South State Bank,2025,John Corbett,$8 Million,$55 Thousand,145X
+Associated Banc-Corp,2025,Andrew Harmening,$8 Million,$55 Thousand,145X
+Prosperity Bancshares,2025,David Zalman,$6 Million,$55 Thousand,109X
+Atlantic Union Bank,2025,Bill Oldroyd,$7 Million,$55 Thousand,127X
+EverBank,2025,Greg Seibly,$6 Million ,$60 Thousand,100X
+MidFirst Bank,2025,Todd Dobson,$5 Million ,$60 Thousand,83X
+Sumitomo Mitsui Banking Corp. (US ops),2025,Masahiro Kihara,$12 Million ,$70 Thousand,171X
+Stifel,2025,Ronald Kruszewski,$15 Million,$65 Thousand,231X
+BankUnited,2025,Rajinder Singh,$8 Million,$60 Thousand,133X
+Hancock Whitney,2025,John Hairston,$10 Million,$55 Thousand,182X
+SoFi,2025,Anthony Noto,$15 Million,$70 Thousand,214X
+Banc of California,2025,Jared Wolff,$8 Million,$60 Thousand,133X
+Fulton Financial Corporation,2025,Curtis Myers,$8 Million,$55 Thousand,145X
+First National of Nebraska,2025,Clark Lauritzen,$6 Million ,$55 Thousand,109X
+Texas Capital Bank,2025,Rob Holmes,$10 Million,$60 Thousand,167X
+Commerce Bancshares,2025,John Kemper,$8 Million,$55 Thousand,145X
+United Bank  ,2025,Richard Adams Jr.,$6 Million,$55 Thousand,109X
+First Interstate Banc,2025,Kevin Riley,$7 Million,$55 Thousand,127X
+Glacier Bancorp,2025,Randy Chesler,$6 Million,$55 Thousand,109X
+WaFd Bank,2025,Brent Beardall,$6 Million,$55 Thousand,109X
+FirstBank Holding Co,2025,Kevin Classen,$5 Million ,$55 Thousand,91X
+United Community Bank,2025,H. Lynn Harton,$7 Million,$55 Thousand,127X
+Simmons Bank,2025,George Makris,$6 Million,$55 Thousand,109X
+Arvest Bank,2025,Jim Shock,$5 Million ,$50 Thousand,100X
+NBT Bank,2025,John Watt,$6 Million,$55 Thousand,109X
+Bank OZK,2025,George Gleason,$8 Million,$55 Thousand,145X
+Community Bank System,2025,Mark Tryniski,$6 Million,$55 Thousand,109X
+Ameris Bancorp,2025,Palmer Proctor,$7 Million,$55 Thousand,127X
+Investors Bank  ,2025,Scaled from Citizens,$15 Million ,$55 Thousand,273X
+TowneBank,2025,G. William Beale,$6 Million,$55 Thousand,109X
+Bank of Hawaii,2025,Peter Ho,$6 Million,$55 Thousand,109X
+Valley National Bank,2025,Ira Robbins,$8 Million,$55 Thousand,145X
+Independent Bank Group,2025,David Brooks,$6 Million,$55 Thousand,109X
+Cathay Bank,2025,Dunson Cheng,$5 Million,$60 Thousand,83X
+First Commonwealth Bank,2025,T. Michael Price,$5 Million,$55 Thousand,91X
+First Merchants Corporation,2025,Mark Hardwick,$5 Million,$55 Thousand,91X
+WesBanco,2025,Todd Clossin,$6 Million,$55 Thousand,109X
+Trustmark National Bank,2025,Duane Dewey,$6 Million,$55 Thousand,109X
+Whirlpool,2025,Marc Bitzer,$15 Million,$50 Thousand,300X
+Bank of Marin,2025,Tim Myers,$3 Million,$60 Thousand,50X
+Tompkins Financial,2025,Stephen Romaine,$4 Million,$55 Thousand,73X
+Garmin,2025,Cliff Pemble,$10 Million,$70 Thousand,143X
+Cadence Bank,2025,Dan Rollins,$8 Million,$55 Thousand,145X
+Kari Voutilainen ,2025,Kari Voutilainen,$2 Million ,$60 Thousand,33X
+Banner Bank  ,2025,Mark Grescovich,$5 Million,$55 Thousand,91X
+Xiaomi (US ops),2025,Lei Jun,$10 Million ,$70 Thousand,143X
+Rolex ,2025,Jean-Frédéric Dufour,$15 Million ,$60 Thousand,250X
+Patek Philippe ,2025,Thierry Stern,$12 Million ,$60 Thousand,200X
+Audemars Piguet ,2025,Ilaria Resta,$10 Million ,$60 Thousand,167X
+Vacheron Constantin ,2025,Laurent Perves,$12 Million ,$60 Thousand,200X
+Omega (Swatch Group),2025,Raynald Aeschlimann,$10 Million ,$60 Thousand,167X
+Cartier (Richemont),2025,Nicolas Bos (Richemont),$12 Million,$60 Thousand,200X
+Jaeger-LeCoultre (Richemont),2025,Catherine Rénier,$12 Million,$60 Thousand,200X
+Hublot (LVMH),2025,Ricardo Guadalupe,$12 Million,$60 Thousand,200X
+Richard Mille ,2025,Richard Mille,$10 Million ,$60 Thousand,167X
+Panerai (Richemont),2025,Jean-Marc Pontroué,$12 Million,$60 Thousand,200X
+Breitling ,2025,Georges Kern,$8 Million ,$60 Thousand,133X
+Blancpain (Swatch),2025,Marc Hayek,$10 Million,$60 Thousand,167X
+Piaget (Richemont),2025,Benjamin Comar,$12 Million,$60 Thousand,200X
+Girard-Perregaux ,2025,Patrick Pruniaux,$5 Million ,$60 Thousand,83X
+Zenith (LVMH),2025,Julien Tornare,$12 Million,$60 Thousand,200X
+Tudor (Swatch),2025,Julien Tornare,$10 Million,$60 Thousand,167X
+Chanel,2025,Leena Nair,$15 Million ,$60 Thousand,250X
+Breguet (Swatch),2025,Emmanuel Gueit,$10 Million,$60 Thousand,167X
+Starbucks,2025,Brian Niccol,$20 Million,$50 Thousand,400X
+Roger Dubuis (Richemont),2025,Nicola Andreatta,$12 Million,$60 Thousand,200X
+Arnold & Son,2025,Pascal Béchu,$5 Million,$60 Thousand,83X
+Parmigiani Fleurier ,2025,Guido Terreni,$8 Million,$60 Thousand,133X
+HYT,2025,Vahé Vartzbed,$4 Million,$60 Thousand,67X
+Greubel Forsey ,2025,Michel Nydegger,$6 Million,$60 Thousand,100X
+H. Moser & Cie ,2025,Edouard Meylan,$5 Million,$60 Thousand,83X
+Laurent Ferrier,2025,Florent Perrichon,$4 Million,$60 Thousand,67X
+Christophe Claret,2025,Christophe Claret,$4 Million,$60 Thousand,67X
+De Bethune,2025,Pierre Jacques,$5 Million,$60 Thousand,83X
+F.P. Journe,2025,François-Paul Journe,$8 Million,$60 Thousand,133X
+MB&F,2025,Maximilian Büsser,$6 Million,$60 Thousand,100X
+Lang & Heyne,2025,Alexander Gutierrez Diaz,$4 Million,$60 Thousand,67X
+Urwerk,2025,Martin Frei / Felix Baumgartner,$5 Million,$60 Thousand,83X
+Romain Gauthier,2025,Romain Gauthier,$4 Million,$60 Thousand,67X
+Jacob & Co.,2025,Benjamin Arabov,$10 Million,$60 Thousand,167X
+Gerald Genta (Bulgari/LVMH),2025,Jean-Christophe Babin,$12 Million,$60 Thousand,200X
+Louis Moinet,2025,Jean-Marie Schaller,$3 Million,$60 Thousand,50X
+Ming,2025,Praneeth Rajsingh,$3 Million,$60 Thousand,50X
+Angelus,2025,Pascal Béchu,$4 Million,$60 Thousand,67X
+Czapek & Cie,2025,Xavier de Roquemaurel,$4 Million,$60 Thousand,67X
+Ward Oyster Company,2025,John Vigliotta,$1 Million,$40 Thousand,25X
+Canon (US ops),2025,Sammy Kobayashi,$10 Million,$65 Thousand,154X
+Nikon (US ops),2025,Toshikazu Umatate,$8 Million,$65 Thousand,123X
+Fujifilm (US ops),2025,Teiichi Goto,$12 Million,$65 Thousand,185X
+Panasonic (US ops),2025,Yuki Kusumi,$15 Million,$65 Thousand,231X
+GoPro,2025,Nicholas Woodman,$10 Million,$70 Thousand,143X
+Versace,2025,Francesca Bellettini,$15 Million,$55 Thousand,273X
+Dior (LVMH),2025,Véronique Courtois,$12 Million,$55 Thousand,218X
+H&M (US ops),2025,Daniel Ervér,$10 Million,$50 Thousand,200X
+Gucci (Kering),2025,Francesca Bellettini,$10 Million,$55 Thousand,182X
+Cartier,2025,Louis Ferla,$12 Million,$60 Thousand,200X
+Zara,2025,Marta Ortega,$12 Million,$50 Thousand,240X
+J.Crew,2025,Libby Wadle,$8 Million,$50 Thousand,160X
+Everlane,2025,Alfred Chang,$5 Million,$60 Thousand,83X
+Banana Republic,2025,Richard Dickson,$19 Million,$45 Thousand,422X
+Samsung (US ops),2025,TM Roh,$20 Million,$70 Thousand,286X
+Google,2025,Sundar Pichai,$10.7 Million,$75 Thousand,143X
+Sony (US ops),2025,Hiroki Totoki,$15 Million,$70 Thousand,214X
+LG (US ops),2025,Lyu Jae-cheol,$12 Million,$65 Thousand,185X
+Asics (US ops),2025,Yasuhito Hirota,$5 Million,$50 Thousand,100X
+Ford,2025,Jim Farley,$25 Million,$50 Thousand,500X
+Toyota (US ops),2025,Koji Sato,$15 Million,$50 Thousand,300X
+Chevrolet (GM),2025,Mary Barra,$25 Million,$50 Thousand,500X
+General Motors,2025,Mary Barra,$29.5 Million,$50 Thousand,590X
+Rivian,2025,RJ Scaringe,$15 Million,$70 Thousand,214X
+Lucid (US ops),2025,Peter Rawlinson,$12 Million,$70 Thousand,171X
+BMW (US ops),2025,Oliver Zipse,$15 Million,$60 Thousand,250X
+Mercedes-Benz (US ops),2025,Ola Källenius,$15 Million,$60 Thousand,250X
+Lexus (Toyota US),2025,Koji Sato,$15 Million,$60 Thousand,250X
+Audi (VW US),2025,Gernot Döllner,$15 Million,$60 Thousand,250X
+Porsche (US ops),2025,Oliver Blume,$12 Million,$60 Thousand,200X
+Ferrari (US ops),2025,Benedetto Vigna,$15 Million,$60 Thousand,250X
+Lamborghini (VW US),2025,Stephan Winkelmann,$10 Million,$60 Thousand,167X
+Rolls-Royce (BMW US),2025,Chris Brownridge,$10 Million,$60 Thousand,167X
+Bentley (VW US),2025,Frank Timpert,$10 Million,$60 Thousand,167X
+Jaguar (JLR/Tata),2025,Adrian Mardell,$5 Million,$50 Thousand,100X
+Maserati (Stellantis US),2025,Davide Grasso,$15 Million,$60 Thousand,250X
+Range Rover (JLR),2025,Adrian Mardell,$5 Million,$50 Thousand,100X
+Patek Philippe,2025,Thierry Stern,$12 Million,$60 Thousand,200X
+Audemars Piguet,2025,Ilaria Resta,$10 Million,$60 Thousand,167X
+Fitbit,2025,Sundar Pichai,$10.7 Million,$75 Thousand,143X
+Chatham Shellfish Company,2025,John Vigliotta,$1 Million,$40 Thousand,25X
+Amazfit,2025,Huang Wang,$5 Million,$70 Thousand,71X
+TicWatch,2025,Fengjun Li,$4 Million,$70 Thousand,57X
+HP,2025,Enrique Lores,$18 Million,$55 Thousand,327X
+JBL,2025,Michael Mauser,$20 Million,$70 Thousand,286X
+Dell,2025,Michael Dell,$20 Million,$55 Thousand,364X
+Lenovo,2025,Yuanqing Yang,$12 Million,$65 Thousand,185X
+Asus,2025,Samson Hu,$8 Million,$65 Thousand,123X
+Acer,2025,Jason Chen,$6 Million,$65 Thousand,92X
+Valve,2025,Gabe Newell,$10 Million,$70 Thousand,143X
+HTC,2025,Cher Wang,$5 Million,$70 Thousand,71X
+Meta,2025,Mark Zuckerberg,$28 Million,$80 Thousand,350X
+GE Appliances,2025,Kevin Nolan,$15 Million,$50 Thousand,300X
+Frigidaire,2025,Jonas Samuelson,$10 Million,$50 Thousand,200X
+Bosch,2025,Stefan Hartung,$15 Million,$50 Thousand,300X
+KitchenAid,2025,Marc Bitzer,$15 Million,$50 Thousand,300X
+Haier (US ops),2025,Yu Minhong,$15 Million,$50 Thousand,300X
+Maytag,2025,Marc Bitzer,$15 Million,$50 Thousand,300X
+Sub-Zero,2025,Jim Bakke,$8 Million,$50 Thousand,160X
+Pilgrim's Pride,2025,Fabio Sandri,$14 Million,$40 Thousand,350X
+UBS USA Holdings,2025,Sergio Ermotti,$20 Million,$70 Thousand,286X
+Trident Seafoods,2025,Charles Bundrant,$5 Million,$40 Thousand,125X
+Pacific Seafood,2025,Frank Dulcich,$4 Million,$40 Thousand,100X
+Mowi USA,2025,Alf-Helge Aarskog,$6 Million,$40 Thousand,150X
+American Seafood Group,2025,John Vigliotta,$3 Million,$40 Thousand,75X
+Taylor Shellfish Farms,2025,Bill Taylor,$3 Million,$40 Thousand,75X
+Whole Foods Market,2025,Jason Buechel,$20 Million,$50 Thousand,400X
+Tomales Bay Oyster Company,2025,Mike Selby,$2 Million,$40 Thousand,50X
+Bevans Oyster Company,2025,Bevans Family (owner-operated),$1 Million,$40 Thousand,25X
+Handy Seafood Inc,2025,Handy Family (owner-operated),$3 Million,$40 Thousand,75X
+"Phillips Foods, Inc",2025,Steve Phillips,$4 Million,$40 Thousand,100X
+J. M. Clayton Seafood Company,2025,Clayton Family (owner-operated),$2 Million,$40 Thousand,50X
+Boston Lobster Company,2025,Paul Hurley,$2 Million,$40 Thousand,50X
+Clearwater Seafoods LP,2025,Christine Penney,$5 Million,$45 Thousand,111X
+Little Bay Lobster,2025,Travis Nickerson,$3 Million,$45 Thousand,67X
+Taylor Farms,2025,Bruce Taylor,$10 Million,$45 Thousand,222X
+Grimmway Farms,2025,Jeff Huckaby,$8 Million,$45 Thousand,178X
+Boskovich Farms,2025,Joe Boskovich,$4 Million,$45 Thousand,89X
+Pero Family Farms,2025,Frank Pero,$3 Million,$45 Thousand,67X
+Torrey Farms,2025,Steve Torrey,$2 Million,$45 Thousand,44X
+Mastronardi Produce,2025,Paul Mastronardi,$6 Million,$45 Thousand,133X
+Windset Farms,2025,John Newell,$4 Million,$45 Thousand,89X
+Village Farms,2025,Michael DeGiglio,$5 Million,$45 Thousand,111X
+BrightFarms,2025,Olu Beck,$4 Million,$45 Thousand,89X
+J.R. Simplot Company ,2025,Frank Muir,$12 Million,$45 Thousand,267X
+Basic American Foods ,2025,Tim McCarty,$6 Million,$45 Thousand,133X
+Barilla America,2025,Barilla Group CEO,$10 Million,$50 Thousand,200X
+Costco,2025,Ron Vachris,$18 Million,$50 Thousand,360X
+FoodMaxx (Save Mart/private),2025,Save Mart CEO,$4 Million,$45 Thousand,89X
+Price Chopper ,2025,Mona Golub,$5 Million,$45 Thousand,111X
+Lockheed Martin,2025,Jim Taiclet,$23.75Million,$45Thousand,528X
+RTX (Raytheon),2025,Christopher T. Calio,$18Million,$45Thousand,327X
+General Dynamics,2025,Phebe N. Novakovic,$23.79Million,$45Thousand,476X
+Boeing,2025,Kelly Ortberg,$18.4Million,$45Thousand,368X
+Northrop Grumman,2025,Kathy J. Warden,$24.36Million,$45Thousand,487X
+L3Harris Technologies,2025,Chris Kubasik,$20.84Million,$45Thousand,417X
+Huntington Ingalls Industries,2025,Chris Kastner,$14.55Million,$45Thousand,323X
+Leidos,2025,Thomas A. Bell,$12.46Million,$45Thousand,249X
+Booz Allen Hamilton,2025,Horacio D. Rozanski,$13.98Million,$45Thousand,280X
+BAE Systems (US ops),2025,Tom Arseneault,$5Million ,$45Thousand,100X
+Science Applications Intl. (SAIC),2025,James C. Reagan,$5Million ,$45Thousand,100X
+Amentum,2025,John Heller,$21.2Million,$45Thousand,471X
+KBR,2025,Stuart J. B. Bradie,$12.56Million,$45Thousand,279X
+Jacobs Engineering,2025,Robert V. Pragada,$12.12Million,$45Thousand,242X
+CACI International,2025,John S. Mengucci,$16.57Million,$45Thousand,331X
+Peraton,2025,Stu Shea,$5Million ,$45Thousand,100X
+ManTech International,2025,Matt Tait,$3Million ,$45Thousand,60X
+Parsons Corporation,2025,Carey A. Smith,$11.01Million,$45Thousand,220X
+AECOM,2025,W. Troy Rudd,$15.96Million,$45Thousand,319X
+General Atomics,2025,Neal Blue,$3.28Million ,$45Thousand,66X
+Kratos Defense & Security Solutions,2025,Eric DeMarco,$7.36Million,$45Thousand,164X
+Mercury Systems,2025,Bill Ballhaus,$10.23Million,$45Thousand,205X
+Textron (defense segment),2025,Lisa Atherton,$17.5Million ,$45Thousand,350X
+Oshkosh Defense,2025,John Pfeifer,$12.55Million,$45Thousand,279X
+Elbit Systems of America,2025,Bezhalel Machlis,$4.66Million,$45Thousand,93X
+Leonardo DRS,2025,John Baylouny,$2.56Million,$45Thousand,51X
+BWX Technologies,2025,Rex D. Geveden,$8.24Million,$45Thousand,165X
+Curtiss-Wright,2025,Lynn M. Bamford,$9.06Million,$45Thousand,181X
+Moog Inc.,2025,Pat Roche,$8.4Million,$45Thousand,187X
+AeroVironment,2025,Wahid Nawabi,$7.41Million,$45Thousand,148X
+Teledyne Technologies,2025,George C. Bobb III,$4Million,$45Thousand,80X
+HEICO Corporation,2025,Eric A. Mendelson,$13.03Million,$45Thousand,261X
+Viasat (defense segment),2025,Mark Dankberg,$7.88Million,$45Thousand,158X
+Axon Enterprise (defense-related),2025,Rick Smith,$164.53Million,$45Thousand,3291X
+Cubic Corporation,2025,Stevan Slijepcevic,$3Million,$45Thousand,60X
+Serco Inc. (US ops),2025,Michael LaRouche,$2Million ,$45Thousand,44X
+General Atomics Aeronautical Systems,2025,Linden P. Blue,$2.77Million ,$45Thousand,55X
+Anduril Industries,2025,Brian Schimpf,$19.17Million,$45Thousand,383X
+Palantir Technologies (defense),2025,Alex Karp,$4.63Million,$45Thousand,93X

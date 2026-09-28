@@ -1,0 +1,21 @@
+# =====================
+# Large ML datasets
+# =====================
+ml_data/
+train_test_val_json/
+training_code/*.json
+
+# =====================
+# Virtual environments
+# =====================
+spoktra_env/
+venv/
+env/
+.venv/
+
+# =====================
+# Python cache
+# =====================
+__pycache__/
+*.pyc
+.ipynb_checkpoin

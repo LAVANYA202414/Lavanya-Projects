@@ -1,0 +1,14 @@
+
+# Ignore Environment file
+.env
+
+# Ignore __pycache__ file
+__pycache__
+
+
+core/__pycache__
+routers/__pycache__
+server/__pycache__
+
+
+logs/

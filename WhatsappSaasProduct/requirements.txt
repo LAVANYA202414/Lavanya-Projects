@@ -1,0 +1,11 @@
+fastapi[standard]
+sqlalchemy 
+psycopg2-binary 
+pydantic
+requests
+motor
+phonenumbers
+pwdlib[bcrypt]
+python-jose[cryptography]
+aiosmtplib
+ollama

@@ -1,0 +1,165 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Number Generator</title>
+
+    <style>
+        :root {
+            --primary-teal: #00ffd5;
+            --danger-red: #ff4d4d;
+        }
+
+        body {
+            /* Static dark gradient - removed movement */
+            background: linear-gradient(135deg, #0c5047, #062624);
+            margin: 0;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        /* Simplified Message Styling */
+        .alert {
+            padding: 12px 25px;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 400px;
+            text-align: center;
+            position: fixed;
+            top: 20px;
+            z-index: 1000;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            font-weight: bold;
+            animation: slideDown 0.4s ease-out;
+        }
+        .alert-error, .alert-danger { background: var(--danger-red); color: white; }
+        .alert-success { background: #28a745; color: white; }
+
+        /* The Card - Removed float animation and glow pulse */
+        .numbers-card {
+            width: 100%;
+            max-width: 450px;
+            padding: 40px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+            backdrop-filter: blur(10px);
+            text-align: center;
+        }
+
+        h1 {
+            color: #fff;
+            margin-bottom: 25px;
+            font-size: 1.8rem;
+            letter-spacing: 1px;
+        }
+
+        /* Clean Input Box */
+        .input-box {
+            padding: 12px;
+            width: 85%;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            color: #fff;
+            font-size: 16px;
+            text-align: center;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .input-box:focus {
+            border-color: var(--primary-teal);
+        }
+
+        /* Button Container */
+        .btn-container {
+            margin-top: 30px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .btn {
+            padding: 10px 30px;
+            border-radius: 6px;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: 0.3s;
+            border: none;
+            font-size: 14px;
+        }
+
+        .btn-submit {
+            background: var(--primary-teal);
+            color: #000;
+        }
+
+        .btn-submit:hover {
+            background: #00cca9;
+            transform: translateY(-2px);
+        }
+
+        .btn-reset {
+            background: #000;
+            color: #fff;
+        }
+
+        .btn-reset:hover {
+            background: var(--danger-red);
+            transform: translateY(-2px);
+        }
+
+        @keyframes slideDown { from { top: -50px; opacity: 0; } to { top: 20px; opacity: 1; } }
+        .fade-out { opacity: 0; transition: opacity 0.8s ease-out; }
+    </style>
+</head>
+
+<body>
+
+    {% if messages %}
+        {% for message in messages %}
+            <div class="alert alert-{{ message.tags }}" id="msg-{{ forloop.counter }}">
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+
+    <div class="numbers-card">
+        <h1>AI Number Generator</h1>
+
+        <form method="post" action="input/">
+            {% csrf_token %}
+            <input type="text" name="array" class="input-box" placeholder="Enter sequence..." autocomplete="on">
+
+            <div class="btn-container">
+                <button type="submit" class="btn btn-submit">Submit</button>
+                
+                <a href="reset/" style="text-decoration: none;">
+                    <button type="button" class="btn btn-reset">Reset</button>
+                </a>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const alerts = document.querySelectorAll('.alert');
+            alerts.forEach(function(alert) {
+                setTimeout(function() {
+                    alert.classList.add('fade-out');
+                    setTimeout(function() { alert.remove(); }, 800);
+                }, 3000);
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/index.css' %}" type="text/css">
+    <title>Generated Results</title>
+    <style>
+        .gen-body {
+            background: linear-gradient(135deg, #0c5047, #072f2a);
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: sans-serif;
+        }
+        .numbers-card {
+            width: 90%;
+            max-width: 550px;
+            padding: 30px; /* Reduced from 40px */
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            box-shadow: 0 0 30px rgba(0,0,0,0.4);
+            backdrop-filter: blur(10px);
+            text-align: center;
+        }
+        .result-item {
+            background: rgba(255,255,255,0.08);
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            font-size: 1.3rem;
+            color: #00ffd5; /* Neon green for the actual numbers */
+            font-weight: bold;
+            transition: 0.3s;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .result-item:hover {
+            background: rgba(0,255,213,0.2);
+            transform: scale(1.02);
+        }
+        .back-btn {
+            background-color: #000;
+            color: #fff;
+            border: none;
+            padding: 10px 25px;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: 0.3s;
+            width: 150px;
+        }
+        .back-btn:hover {
+            background-color: #ff4d4d;
+        }
+    </style>
+</head>
+
+<body class="gen-body">
+
+    <div class="numbers-card">
+
+        <h1 style="color: #fff; margin-bottom: 25px; text-shadow: 2px 2px 8px #000; font-size: 1.8rem;">
+            AI Generated Integers
+        </h1>
+
+        <!-- RESULT LIST -->
+        <div style="width: 100%;">
+            {% for values in random_values %}
+                <div class="result-item">
+                    <span style="color: #fff; font-size: 0.9rem; margin-right: 10px; opacity: 0.8;">SET {{ forloop.counter }}:</span>
+                    {% for val in values %}{{ val }}{% if not forloop.last %} - {% endif %}{% endfor %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <!-- BACK BUTTON -->
+        <div style="margin-top: 25px;">
+            <a href="/" style="text-decoration: none;">
+                <button type="button" class="back-btn">
+                    Back
+                </button>
+            </a>
+        </div>
+
+    </div>
+
+</body>
+</html>

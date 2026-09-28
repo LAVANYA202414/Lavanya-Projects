@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+  
+.numbers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.numbers textarea {
+  background: #a6a6a6;
+  min-height: 110px;
+  max-height: 110px;
+  width: 100%;
+  border-radius: 3px;
+  resize: none;
+  border: none;
+  padding: 13px 15px;
+  outline: none;
+}
+
+/* Fix button alignment */
+.numbers .buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* spacing between buttons */
+}
+
+.numbers .buttons button {
+  width: 30%;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+  background-color: #000;
+  color: #fff;
+  margin: 0 10px 0px;
+  padding: 10px 16px;
+  font-size: 1.5rem;
+  float: left;
+}
+
+
+.numbers .buttons button:last-child {
+  margin-bottom: 0;
+}
+
+.history {
+  /* background: #a6a6a6; */
+  padding: 1.5rem 2rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.df{
+  background: none;
+}
+
+.history h1 {
+  margin-bottom: 1.5rem;
+}
+
+.history .history-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.history .history-list .input-field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.history .history-list .input-field p {
+  display: flex;  
+  padding-left: 20px;
+  margin: 0;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.history .history-list .input-field input {
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+}
+
+.history .history-list .input-field label {
+  font-size: 1.5rem;
+}
+input.input {
+  margin-top: 10pc;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 16px;
+  border: 2px solid;
+}
+
+
+
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+input::placeholder {
+  color: #666;
+}
+
+button {
+  letter-spacing: 1px;
+}
+
+/* Make anchor look like button */
+.reset-btn {
+  width: 30%;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  padding: 10px 16px;
+  font-size: 1.5rem;
+  display: flex;              /* IMPORTANT */
+  justify-content: center;    /* center text */
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.reset-btn:hover {
+  background-color: #ff4d4d;
+  color: #fff;
+}
+
+

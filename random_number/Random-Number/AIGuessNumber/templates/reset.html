@@ -1,0 +1,153 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/index.css' %}" type="text/css">
+    <title>Reset & History</title>
+    <style>
+        .gen-body { 
+            background: linear-gradient(135deg, #0c5047, #072f2a); 
+            font-family: sans-serif; 
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        .gen-card { 
+            margin: 60px 0;
+            padding: 25px; 
+            border-radius: 15px; 
+            background: rgba(255,255,255,0.05); 
+            box-shadow: 0 0 30px rgba(0,0,0,0.4); 
+            backdrop-filter: blur(10px); 
+            width: 95%; /* Increased slightly to fit 3 buttons */
+            max-width: 650px; 
+            align-self: center;
+        }
+        .gen-title { 
+            text-align: center; 
+            color: #fff; 
+            margin-bottom: 20px; 
+            text-shadow: 2px 2px 8px #000;
+            font-size: 1.8rem;
+        }
+        .reset-item { 
+            display: flex; 
+            align-items: center; 
+            gap: 10px; 
+            background: rgba(255,255,255,0.08); 
+            padding: 10px 15px; 
+            border-radius: 8px; 
+            margin-bottom: 10px; 
+            transition: 0.3s; 
+        }
+        .reset-item:hover { background: rgba(0,255,213,0.2); }
+        .reset-item label, .reset-item p { color: #fff; font-size: 1rem; margin: 0; }
+        .reset-item p { margin-left: auto; opacity: 0.9; }
+
+        /* BUTTONS SECTION */
+        .buttons { 
+            display: flex; 
+            gap: 10px; /* Tighter gap to fit 3 buttons */
+            justify-content: center; 
+            margin-top: 25px; 
+            flex-wrap: wrap; /* Allows wrapping on very small screens */
+        }
+        .btn-action { 
+            width: 130px; /* Slightly narrower to fit 3 in a row */
+            padding: 10px; 
+            font-size: 0.9rem; 
+            border-radius: 6px; 
+            cursor: pointer; 
+            transition: 0.3s; 
+            border: none; 
+            text-decoration: none; 
+            text-align: center; 
+            font-weight: bold;
+            text-transform: uppercase;
+            background-color: #000; 
+            color: #fff;
+        }
+        
+        .delete-btn:hover { background-color: #ff4d4d; color: #fff; }
+        .history-btn:hover { background-color: #00ffd5; color: #000; }
+        .back-btn:hover { background-color: #555; color: #fff; }
+
+        /* Alerts */
+        .alert { 
+            padding: 12px; 
+            border-radius: 8px; 
+            width: 90%; 
+            max-width: 400px; 
+            text-align: center; 
+            position: fixed; 
+            top: 20px; 
+            left: 50%; 
+            transform: translateX(-50%); 
+            z-index: 1000; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3); 
+            animation: slideDown 0.5s ease-out; 
+        }
+        .alert-success { background-color: #28a745; color: white; }
+        .alert-warning, .alert-error { background-color: #ff4d4d; color: white; }
+        @keyframes slideDown { from { top: -50px; opacity: 0; } to { top: 20px; opacity: 1; } }
+        .fade-out { opacity: 0; transition: opacity 1s ease-out; }
+    </style>
+</head>
+
+<body class="gen-body">
+
+    {% if messages %}
+        {% for message in messages %}
+            <div class="alert alert-{{ message.tags }}" id="msg-{{ forloop.counter }}">
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+
+    <section class="gen-card">
+        <h1 class="gen-title">Reset Sequence</h1>
+
+        <form method="post" style="margin: 0;">
+            {% csrf_token %}
+            <div style="max-height: 400px; overflow-y: auto; padding-right: 5px; margin-bottom: 10px;">
+                {% for i in recent_sequences %} 
+                <div class="reset-item">
+                    <input type="checkbox" name="input" value="{{ i.id }}" id="input{{ i.id }}">
+                    <label for="input{{ i.id }}">Sequence {{ i.id }} :</label>
+                    <p>{{ i.data }}</p>
+                </div>
+                {% empty %}
+                <p style="color: #fff; text-align: center; opacity: 0.5; padding: 20px;">No sequences to display.</p>
+                {% endfor %}
+            </div>
+
+            <div class="buttons">
+                <!-- DELETE BUTTON -->
+                <button type="submit" class="btn-action delete-btn">Delete</button>
+
+                <!-- HISTORY BUTTON (Update the href if your URL name is different) -->
+                <a href="/history/" class="btn-action history-btn">History</a>
+
+                <!-- BACK BUTTON -->
+                <a href="/" class="btn-action back-btn">Back</a>
+            </div>
+        </form>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const alerts = document.querySelectorAll('.alert');
+            alerts.forEach(function(alert) {
+                setTimeout(function() {
+                    alert.classList.add('fade-out');
+                    setTimeout(function() { alert.remove(); }, 1000);
+                }, 3000);
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+jobs_retriever_env/
+chroma_db/
+saved_embedding_model/

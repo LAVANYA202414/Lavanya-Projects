@@ -1,0 +1,33 @@
+# API
+fastapi
+uvicorn
+
+# Vector DB + Embeddings
+langchain-core
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+
+# Data
+pandas
+python-dotenv
+spello
+sqlalchemy
+mysql-connector-python
+alembic
+
+langchain-ollama
+
+sqlalchemy
+
+bcrypt
+passlib
+
+pyjwt
+pymysql
+
+email-validator
+pydantic[email]
+
+python-multipart

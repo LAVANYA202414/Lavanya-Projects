@@ -1,0 +1,15 @@
+task_id,status,original_assignee,reassigned_to,reason,suggestion,hours,final_load,deadline,new_deadline
+15,DELAYED_TIMELINE_EXTENSION,9,9,All team members are at full capacity; assigned to earliest available person.,All skilled resources fully booked; task queued for user 9 and will begin after 40.0 hours.,20,40,2026-03-30,2026-04-07
+16,OVERLOADED,9,1,Assignee exceeded weekly capacity; task rebalanced to an available resource.,Original assignee 9 is over capacity; reassigned to user 1.,20,0,2026-03-30,2026-03-30
+19,OVERLOADED,8,2,Assignee exceeded weekly capacity; task rebalanced to an available resource.,Original assignee 8 is over capacity; reassigned to user 2.,20,0,2026-03-30,2026-03-30
+20,DELAYED,8,8,Task has passed its deadline and requires immediate attention.,Task is past deadline; escalate immediately.,20,0,2026-03-29,2026-03-29
+21,OVERLOADED,7,3,Assignee exceeded weekly capacity; task rebalanced to an available resource.,Original assignee 7 is over capacity; reassigned to user 3.,20,0,2026-03-11,2026-03-11
+22,DELAYED,7,7,Task has passed its deadline and requires immediate attention.,Task is past deadline; escalate immediately.,20,0,2026-03-09,2026-03-09
+23,OVERLOADED,6,4,Assignee exceeded weekly capacity; task rebalanced to an available resource.,Original assignee 6 is over capacity; reassigned to user 4.,20,0,2026-02-28,2026-02-28
+24,DELAYED,6,6,Task has passed its deadline and requires immediate attention.,Task is past deadline; escalate immediately.,20,0,2026-03-13,2026-03-13
+25,OVERLOADED,5,9,Assignee exceeded weekly capacity; task rebalanced to an available resource.,Original assignee 5 is over capacity; reassigned to user 9.,20,0,2026-03-14,2026-03-14
+26,DELAYED,5,5,Task has passed its deadline and requires immediate attention.,Task is past deadline; escalate immediately.,20,0,2026-03-14,2026-03-14
+27,DELAYED_TIMELINE_EXTENSION,4,9,All team members are at full capacity; assigned to earliest available person.,All skilled resources fully booked; task queued for user 9 and will begin after 60.0 hours.,20,60,2026-03-14,2026-03-24
+28,OVERLOADED,3,5,Assignee exceeded weekly capacity; task rebalanced to an available resource.,Original assignee 3 is over capacity; reassigned to user 5.,20,0,2026-03-14,2026-03-14
+29,OVERLOADED,2,3,Assignee exceeded weekly capacity; task rebalanced to an available resource.,Original assignee 2 is over capacity; reassigned to user 3.,20,0,2026-03-14,2026-03-14
+30,NO_SKILLED_USER_FOUND,1,1,Manual review required.,No skilled resource found for this task; escalate to management immediately.,20,0,2026-03-14,2026-03-14

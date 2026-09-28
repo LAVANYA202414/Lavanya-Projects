@@ -1,0 +1,4 @@
+"id","service_type_id","create_uid","write_uid","name","description","active","create_date","write_date"
+1,NULL,2,2,"{""en_US"": ""SEO Specialist""}",NULL,True,"2026-03-13 05:39:18.373807","2026-03-13 05:39:18.373807"
+2,NULL,2,2,"{""en_US"": ""Designing""}",NULL,True,"2026-03-17 04:11:03.576706","2026-03-17 04:11:03.576706"
+3,NULL,2,2,"{""en_US"": ""AI""}",NULL,True,"2026-03-17 10:12:09.132584","2026-03-17 10:12:09.132584"
